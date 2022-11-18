@@ -1,5 +1,30 @@
 /* Kanji Flash - 2022 JJ Small */
 
+
 * {
     margin: 0;
 }
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Header Styling */
+header {
+    background-color: green;
+    height: 400px;
+    text-align: center;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-nav {
+    display: flex;
+}
+
+/* Homepage Styling */
+
+/* Footer Styling */
