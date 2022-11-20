@@ -51,6 +51,10 @@ header {
     align-items: center;
 }
 
+.nav li:hover {
+    text-decoration: underline;
+}
+
 .header-study-btn {
     border: 2px solid #FFD706;
     border-radius: 30px;
@@ -82,6 +86,8 @@ main {
     font-weight: 200;
 }
 
+/* Homepage - Info Section */
+
 .info {
     background-color: #EBF2F2;
     width: 100vw;
@@ -97,16 +103,72 @@ main {
     padding: 60px 0;
     width: 70%;
     display: flex;
+    gap: 70px;
 }
 
-.info-cont img {
+.blurb-header {
+    color: #FF2626;
+    text-decoration: underline;
+    font-size: 1.3em;
+    font-weight: 600;
+    padding: 15px 0;
 }
 
+.info-list {
+    padding-left: 15px;
+    line-height: 400%;
+    font-weight: bold;
+}
+
+/* Homepage - Call to Action Sections */
+.action-zone {
+    padding: 100px 0;
+    display:flex;
+    gap: 100px;
+}
+
+.action-zone-text {
+    width: 400px;
+    line-height: 200%;
+}
+
+.button-zone {
+    display: flex;
+    flex-direction: column;
+}
+
+.action-btn{
+    font-family: "Montserrat";
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #2e2e2e;
+    background: linear-gradient(90deg, #fff740 0%, #ffd706 100%);
+    border: none;
+    box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+    border-radius: 25px;
+    margin-top: 40px;
+    margin-left: 70px;
+    padding: 20px 60px;
+
+}
+
+.action-btn:hover{
+    background: linear-gradient(90deg, #f3e936 0%, #ebc406 100%);
+    text-decoration: underline;
+}
+
+.arrow {
+    padding: 30px;
+    transform: scaleX(1.7);
+}
 
 /* Footer Styling */
 footer {
-    width: 50%;
     height: 100px;
     margin: 0 auto;
-    text-align: center;
+    background-color: #e2e2e2;
+    color: #696969;
+    display: flex;
+    align-items: center ;
+    justify-content: center;
 }
