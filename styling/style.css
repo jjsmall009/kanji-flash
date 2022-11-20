@@ -70,15 +70,26 @@ header {
     margin-bottom: 10px;
 }
 
-/* Homepage Styling */
-main {
-    width: 60%;
-    margin: 0 auto;
+/* Subpage nav styling */
+.subpage-nav {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.55),rgba(0, 0, 0, 0.50)) , url("../images/header_image1.jpg");
+    background-size: cover;
+    color: white;
 }
 
+.btn-no-style {
+    text-decoration: underline;
+    text-decoration-color: #FFD706;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 5px;
+}
+
+/* Homepage Styling */
+
 .hero-blurb {
+    width: 60%;
+    margin: 150px auto;
     text-align: center;
-    margin: 150px 50px;
 }
 
 .hero-blurb p {
@@ -90,12 +101,12 @@ main {
 
 .info {
     background-color: #EBF2F2;
-    width: 100vw;
+    /* width: 100vw;
     position: relative;
     left: 50%;
     right: 50%;
     margin-left: -50vw;
-    margin-right: -50vw;
+    margin-right: -50vw; */
 }
 
 .info-cont {
@@ -103,7 +114,7 @@ main {
     padding: 60px 0;
     width: 70%;
     display: flex;
-    gap: 70px;
+    gap: 90px;
 }
 
 .blurb-header {
@@ -122,9 +133,11 @@ main {
 
 /* Homepage - Call to Action Sections */
 .action-zone {
-    padding: 100px 0;
-    display:flex;
-    gap: 100px;
+    width: 60%;
+    margin: 0 auto;
+    padding: 100px 50px;
+    display: flex;
+    gap: 130px;
 }
 
 .action-zone-text {
@@ -161,6 +174,26 @@ main {
     padding: 30px;
     transform: scaleX(1.7);
 }
+
+/* Study Page Styling */
+.levels-cont {
+    width: 60%;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.levels-cont h1 {
+    font-weight: 500;
+    font-size: 1.8em;
+}
+
+.level-picker {
+    margin: 40px auto;
+    padding: 10px;
+    border: 2px solid #d1e1e1;
+    border-radius: 10px;
+}
+
 
 /* Footer Styling */
 footer {
