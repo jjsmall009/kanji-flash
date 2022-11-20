@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="styling/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet"> 
 
     <script src="scripts/script.js"></script>
     <title>Kanji Flash - Let's Study!</title>
@@ -17,16 +17,18 @@
 <body>
     <header>
         <nav class="nav">
-            <p class="logo">KanjiFlash</p>
+            <p class="logo">Kanji<span class="logo-special">Flash</span></p>
             <div class="left-nav">
-                <p>About</p>
-                <p class="study-btn">Study</p>
+                <ul>
+                    <li><a href="pages/about.html">About</a></li>
+                    <li class="header-study-btn"><a href="pages/study.html">Study</a></li>
+                </ul>
             </div>
         </nav>
 
         <div class="header-text">
             <h1>The Utimate Kanji Flashcard Studying Tool</h1>
-            <h3>Learn, Study, Rinse, and Repeat</h3>
+            <h3>Learn, Study, Repeat</h3>
         </div>
     </header>
 
@@ -36,31 +38,20 @@
             <p>Kanji Flash gives you the tools to quickly run through sets of kanji characters and test your knowledge.</p>
         </div>
        
-        <section class="blurbs">
-            <div class="blurb">
-                <img src="" alt="blurb image" class="blurb-image">
-                <div class="blurb-text">
-                    <h3>Study</h3>
-                    <p>Here is some text about this certain blurb topic</p>
-                </div>
-            </div>
-            <div class="blurb">
-                <img src="" alt="blurb image" class="blurb-image">
-                <div class="blurb-text">
-                    <h3>Learn</h3>
-                    <p>Here is some text about this certain blurb topic</p>
-                </div>
-            </div>
-            <div class="blurb">
-                <img src="" alt="blurb image" class="blurb-image">
-                <div class="blurb-text">
-                    <h3>No Fluff</h3>
-                    <p>Here is some text about this certain blurb topic</p>
+        <section class="info">
+            <div class="info-cont">
+                <img src="images/thinker.png" width="500px" alt="A cartoon thinking person taking notes" class="think-dude">
+                <div class="info-content">
+                    <p class="blurb-header">Never Forget Another Kanji Ever Again</p>
+                    <ul class="info-list">
+                        <li>60 levels of kanji to choose from</li>
+                        <li>Study at your own pace</li>
+                        <li>No useless features; flashcards only</li>
+                        <li>As simple as rolling down a hill</li>
+                    </ul>
                 </div>
             </div>
         </section>
-
-        <button class="study">Start Studying</button>
     </main>
 
     <footer>

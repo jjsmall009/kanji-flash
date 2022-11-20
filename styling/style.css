@@ -5,16 +5,16 @@
 }
 
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
 }
 
 /* Header Styling */
 header {
     background-color: black;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)) , url("../images/header_image1.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.55),rgba(0, 0, 0, 0.50)) , url("../images/header_image1.jpg");
     background-size: cover;
     color: white;
-    height: 400px;
+    height: 500px;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -23,22 +23,38 @@ header {
 .nav {
     display: flex;
     justify-content: space-between;
-    padding: 20px;
+    padding: 20px 40px;
+    font-size: 1.4em;
 }
 
-.logo {
-    font-weight: bold;
+.logo, .logo-special {
+    font-weight: 800;
+    font-size: 1.3em;
 }
 
-.left-nav {
+.logo-special {
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #FFD706;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: cle;
+}
+
+.nav a {
+    color: white;
+    text-decoration: none;
+}
+
+.nav ul {
+    list-style: none;
     display: flex;
     gap: 20px;
+    align-items: center;
 }
 
-.study-btn {
-    color: white;
-    border: 2px solid #e76f51;
+.header-study-btn {
+    border: 2px solid #FFD706;
     border-radius: 30px;
+    padding: 2px 15px;
 }
 
 .header-text {
@@ -58,34 +74,39 @@ main {
 
 .hero-blurb {
     text-align: center;
-    margin: 50px;
+    margin: 150px 50px;
 }
 
 .hero-blurb p {
     font-size: 1.2em;
-    margin: 20px;
+    font-weight: 200;
 }
 
-.blurbs {
+.info {
+    background-color: #EBF2F2;
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+}
+
+.info-cont {
     margin: 0 auto;
+    padding: 60px 0;
     width: 70%;
     display: flex;
-    flex-direction: column;
-    align-items: center;
 }
 
-.blurb {
-    display: flex;
-    gap: 50px;
+.info-cont img {
 }
 
-.study {
-    
-}
 
 /* Footer Styling */
 footer {
     width: 50%;
+    height: 100px;
     margin: 0 auto;
     text-align: center;
 }
