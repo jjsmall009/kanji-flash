@@ -151,6 +151,7 @@ header {
 }
 
 .action-btn{
+    text-decoration: none;
     font-family: "Montserrat";
     font-size: 1.2em;
     font-weight: bold;
@@ -167,6 +168,8 @@ header {
 .action-btn:hover{
     background: linear-gradient(90deg, #f3e936 0%, #ebc406 100%);
     text-decoration: underline;
+    cursor: pointer;
+    color: #2d2e37;
 }
 
 .arrow {
@@ -191,6 +194,27 @@ header {
     padding: 10px;
     border: 2px solid #d1e1e1;
     border-radius: 10px;
+
+    display: grid;
+    grid-gap: 10px;
+    grid-template-rows: repeat(4, 1fr);
+    grid-template-columns: repeat(15, 1fr);
+}
+
+.level-btn {
+    font-size: 1em;
+    font-weight: 600;
+    color: #6C6C6C;
+    background-color: #EBF2F2;
+    padding: 3px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.level-btn:hover {
+    color: black;
+    outline: 1px solid #6C6C6C;
+    cursor: pointer;
 }
 
 .level-score {
@@ -218,9 +242,11 @@ header {
 }
 
 .kanji {
-    font-size: 4em;
+    font-size: 14rem;
 }
 
+
+/* Study Page - Buttons */
 .btn-zone {
     margin-top: 30px;
     margin-bottom: 150px;
@@ -243,7 +269,6 @@ header {
 .answer-btn:hover {
     cursor: pointer;
     box-shadow: 0 5px 15px rgba(102, 102, 102, 0.4);
-
 }
 
 .good-btn {
