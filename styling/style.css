@@ -23,8 +23,10 @@ header {
 .nav {
     display: flex;
     justify-content: space-between;
-    padding: 20px 40px;
+    align-items: center;
     font-size: 1.4em;
+    height: 100px;
+    padding: 0 70px;
 }
 
 .logo, .logo-special {
@@ -48,7 +50,6 @@ header {
     list-style: none;
     display: flex;
     gap: 20px;
-    align-items: center;
 }
 
 .nav li:hover {
@@ -58,7 +59,7 @@ header {
 .header-study-btn {
     border: 2px solid #FFD706;
     border-radius: 30px;
-    padding: 2px 15px;
+    padding: 0 25px;
 }
 
 .header-text {
@@ -119,7 +120,6 @@ header {
 
 .blurb-header {
     color: #FF2626;
-    text-decoration: underline;
     font-size: 1.3em;
     font-weight: 600;
     padding: 15px 0;
@@ -162,7 +162,6 @@ header {
     margin-top: 40px;
     margin-left: 70px;
     padding: 20px 60px;
-
 }
 
 .action-btn:hover{
@@ -194,6 +193,66 @@ header {
     border-radius: 10px;
 }
 
+.level-score {
+    text-align: center;
+    font-weight: 400;
+    font-size: 1.6em;
+}
+
+.kanji-container {
+    background-color: #EBF2F2;
+    margin: 10px 0;
+    padding: 30px 0;
+}
+
+.kanji-zone {
+    background-color: white;
+    border: 1px solid #CACACA;
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.kanji {
+    font-size: 4em;
+}
+
+.btn-zone {
+    margin-top: 30px;
+    margin-bottom: 150px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.answer-btn {
+    font-family: "Montserrat";
+    font-size: 1.6em;
+    font-weight: bold;
+    color: #2e2e2e;
+    border: none;
+    box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+    border-radius: 25px;
+    padding: 10px 40px;
+}
+
+.answer-btn:hover {
+    cursor: pointer;
+    box-shadow: 0 5px 15px rgba(102, 102, 102, 0.4);
+
+}
+
+.good-btn {
+    background: linear-gradient(90deg, #66FF40 0%, #81F886 100%);
+}
+
+.bad-btn {
+    background: linear-gradient(90deg, #FF4040 0%, #FF7676 100%);
+}
 
 /* Footer Styling */
 footer {
