@@ -21,6 +21,12 @@ function level_select() {
     scoreline.innerText = `Level ${level} - 0/23`;
 }
 
+// Flip card
+let card = document.querySelector('.card-content');
+card.addEventListener( 'click', function() {
+    card.classList.toggle('is-flipped');
+});
+
 // Answer button functionality
 let answer_btns = document.getElementsByClassName("answer-btn");
 for (var i = 0; i < answer_btns.length; i++) {
