@@ -17,8 +17,9 @@ makeRows(15, 4);
 // Level button functionality
 function level_select() {
     const level = this.innerText;
+    const num_kanji = data[level - 1][`${level}`].length
     const scoreline = document.getElementById("level-score");
-    scoreline.innerText = `Level ${level} - 0/23`;
+    scoreline.innerText = `Level ${level} - 0/${num_kanji}`;
 }
 
 // Flip card
@@ -36,3 +37,4 @@ for (var i = 0; i < answer_btns.length; i++) {
 function processAnswer() {
     alert("you clicked and answer button!");
 }
+

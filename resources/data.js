@@ -1,5 +1,5 @@
-{
-  "1": [
+data = [
+  {"1": [
     {
       "kanji": "\u4e00",
       "meanings": [
@@ -212,8 +212,8 @@
         "\u304f"
       ]
     }
-  ],
-  "2": [
+  ]},
+  {"2": [
     {
       "kanji": "\u5200",
       "meanings": [
@@ -617,387 +617,343 @@
         "\u306e\u307e"
       ]
     }
-  ],
-  "51": [
+  ]},
+  {"3": [
     {
-      "kanji": "\u53c8",
+      "kanji": "\u4e07",
       "meanings": [
-        "Again"
+        "Ten Thousand"
       ],
       "readings": [
-        "\u307e\u305f"
+        "\u307e\u3093",
+        "\u3070\u3093"
       ]
     },
     {
-      "kanji": "\u5049",
+      "kanji": "\u4eca",
       "meanings": [
-        "Greatness"
+        "Now"
       ],
       "readings": [
-        "\u3044",
-        "\u3048\u3089"
+        "\u3053\u3093",
+        "\u3044\u307e"
       ]
     },
     {
-      "kanji": "\u9802",
+      "kanji": "\u5143",
       "meanings": [
-        "Summit",
-        "Humbly"
+        "Origin"
       ],
       "readings": [
-        "\u3061\u3087\u3046",
-        "\u3044\u305f\u3060\u304d",
-        "\u3044\u305f\u3060"
+        "\u3052\u3093",
+        "\u304c\u3093",
+        "\u3082\u3068"
       ]
     },
     {
-      "kanji": "\u53ec",
+      "kanji": "\u516c",
       "meanings": [
-        "Call",
-        "Eat"
-      ],
-      "readings": [
-        "\u3057\u3087\u3046",
-        "\u3081"
-      ]
-    },
-    {
-      "kanji": "\u631f",
-      "meanings": [
-        "Between"
-      ],
-      "readings": [
-        "\u304d\u3087\u3046",
-        "\u3057\u3087\u3046",
-        "\u306f\u3055"
-      ]
-    },
-    {
-      "kanji": "\u67af",
-      "meanings": [
-        "Wither"
-      ],
-      "readings": [
-        "\u3053",
-        "\u304b"
-      ]
-    },
-    {
-      "kanji": "\u6cb8",
-      "meanings": [
-        "Boil"
-      ],
-      "readings": [
-        "\u3075\u3064",
-        "\u308f"
-      ]
-    },
-    {
-      "kanji": "\u6fef",
-      "meanings": [
-        "Wash"
-      ],
-      "readings": [
-        "\u305f\u304f",
-        "\u3059\u3059",
-        "\u3086\u3059",
-        "\u305d\u305d\u3050"
-      ]
-    },
-    {
-      "kanji": "\u71e5",
-      "meanings": [
-        "Dry Up"
-      ],
-      "readings": [
-        "\u305d\u3046",
-        "\u306f\u3057\u3083"
-      ]
-    },
-    {
-      "kanji": "\u74f6",
-      "meanings": [
-        "Bottle",
-        "Jar"
-      ],
-      "readings": [
-        "\u3073\u3093",
-        "\u304b\u3081"
-      ]
-    },
-    {
-      "kanji": "\u8015",
-      "meanings": [
-        "Plow"
-      ],
-      "readings": [
-        "\u3053\u3046",
-        "\u305f\u304c\u3084"
-      ]
-    },
-    {
-      "kanji": "\u80af",
-      "meanings": [
-        "Agreement",
-        "Consent"
-      ],
-      "readings": [
-        "\u3053\u3046",
-        "\u304c\u3048\u3093\u3058"
-      ]
-    },
-    {
-      "kanji": "\u8102",
-      "meanings": [
-        "Fat"
-      ],
-      "readings": [
-        "\u3057",
-        "\u3042\u3076\u3089"
-      ]
-    },
-    {
-      "kanji": "\u819a",
-      "meanings": [
-        "Skin"
-      ],
-      "readings": [
-        "\u3075",
-        "\u306f\u3060"
-      ]
-    },
-    {
-      "kanji": "\u8ed2",
-      "meanings": [
-        "House Counter",
-        "Eaves"
-      ],
-      "readings": [
-        "\u3051\u3093",
-        "\u306e\u304d"
-      ]
-    },
-    {
-      "kanji": "\u8edf",
-      "meanings": [
-        "Soft"
-      ],
-      "readings": [
-        "\u306a\u3093",
-        "\u3084\u308f"
-      ]
-    },
-    {
-      "kanji": "\u90ca",
-      "meanings": [
-        "Suburbs"
+        "Public"
       ],
       "readings": [
         "\u3053\u3046"
       ]
     },
     {
-      "kanji": "\u9685",
+      "kanji": "\u5185",
       "meanings": [
-        "Corner"
+        "Inside",
+        "Within"
       ],
       "readings": [
-        "\u3050\u3046",
-        "\u3059\u307f"
+        "\u306a\u3044",
+        "\u3046\u3061"
       ]
     },
     {
-      "kanji": "\u96bb",
+      "kanji": "\u5206",
       "meanings": [
-        "Ship Counter"
+        "Part",
+        "Minute",
+        "Separate",
+        "Understand"
       ],
       "readings": [
-        "\u305b\u304d"
+        "\u3076\u3093",
+        "\u3075\u3093",
+        "\u3076",
+        "\u308f"
       ]
     },
     {
-      "kanji": "\u90b8",
+      "kanji": "\u5207",
       "meanings": [
-        "Residence"
+        "Cut"
       ],
       "readings": [
-        "\u3066\u3044",
-        "\u3084\u3057\u304d"
+        "\u305b\u3064",
+        "\u304d"
       ]
     },
     {
-      "kanji": "\u90e1",
+      "kanji": "\u5348",
       "meanings": [
-        "County",
-        "District"
+        "Noon"
       ],
       "readings": [
-        "\u3050\u3093",
-        "\u3053\u304a\u308a"
+        "\u3054"
       ]
     },
     {
-      "kanji": "\u91c8",
+      "kanji": "\u53cb",
       "meanings": [
-        "Explanation"
+        "Friend"
       ],
       "readings": [
-        "\u3057\u3083\u304f",
-        "\u305b\u304d",
-        "\u3059",
-        "\u3068\u304f",
-        "\u3086\u308b"
+        "\u3086\u3046",
+        "\u3068\u3082"
       ]
     },
     {
-      "kanji": "\u80aa",
+      "kanji": "\u592a",
       "meanings": [
-        "Obese",
         "Fat"
       ],
       "readings": [
-        "\u307c\u3046"
+        "\u305f\u3044",
+        "\u305f",
+        "\u3075\u3068",
+        "\u304a\u304a"
       ]
     },
     {
-      "kanji": "\u559a",
+      "kanji": "\u5c11",
       "meanings": [
-        "Scream",
-        "Yell"
+        "Few",
+        "A Little"
       ],
       "readings": [
-        "\u304b\u3093",
-        "\u308f\u3081"
+        "\u3057\u3087\u3046",
+        "\u3059\u3053",
+        "\u3059\u304f"
       ]
     },
     {
-      "kanji": "\u5a9b",
+      "kanji": "\u5f15",
       "meanings": [
-        "Princess",
-        "Beautiful Woman"
+        "Pull"
       ],
       "readings": [
-        "\u3048\u3093",
-        "\u3072\u3081"
+        "\u3044\u3093",
+        "\u3072"
       ]
     },
     {
-      "kanji": "\u8c9e",
+      "kanji": "\u5fc3",
       "meanings": [
-        "Chastity"
+        "Heart"
       ],
       "readings": [
-        "\u3066\u3044",
-        "\u3055\u3060"
+        "\u3057\u3093",
+        "\u3053\u3053\u308d"
       ]
     },
     {
-      "kanji": "\u7384",
+      "kanji": "\u6238",
       "meanings": [
-        "Mysterious"
+        "Door"
       ],
       "readings": [
-        "\u3052\u3093",
-        "\u304f\u308d"
+        "\u3053",
+        "\u3068"
       ]
     },
     {
-      "kanji": "\u82d7",
+      "kanji": "\u65b9",
       "meanings": [
-        "Seedling",
-        "Sapling"
+        "Direction",
+        "Way"
       ],
       "readings": [
-        "\u307f\u3087\u3046",
-        "\u3073\u3087\u3046",
-        "\u306a\u3048",
-        "\u306a\u308f"
+        "\u307b\u3046",
+        "\u304b\u305f"
       ]
     },
     {
-      "kanji": "\u6e26",
+      "kanji": "\u725b",
       "meanings": [
-        "Whirlpool"
+        "Cow"
       ],
       "readings": [
-        "\u304b",
-        "\u3046\u305a"
+        "\u304e\u3085\u3046",
+        "\u3046\u3057"
       ]
     },
     {
-      "kanji": "\u6148",
+      "kanji": "\u7236",
       "meanings": [
-        "Mercy"
+        "Father",
+        "Dad"
       ],
       "readings": [
-        "\u3058",
-        "\u3044\u3064\u304f"
+        "\u3075",
+        "\u3061\u3061",
+        "\u3068\u3046"
       ]
     },
     {
-      "kanji": "\u895f",
+      "kanji": "\u6bdb",
       "meanings": [
-        "Collar"
+        "Fur",
+        "Hair"
       ],
       "readings": [
-        "\u304d\u3093",
-        "\u3048\u308a"
+        "\u3082\u3046",
+        "\u3051"
       ]
     },
     {
-      "kanji": "\u84ee",
+      "kanji": "\u6b62",
       "meanings": [
-        "Lotus"
+        "Stop"
       ],
       "readings": [
-        "\u308c\u3093",
-        "\u306f\u3059",
-        "\u306f\u3061\u3059"
+        "\u3057",
+        "\u3068",
+        "\u3084"
       ]
     },
     {
-      "kanji": "\u4eae",
+      "kanji": "\u51ac",
       "meanings": [
-        "Clear"
+        "Winter"
       ],
       "readings": [
-        "\u308a\u3087\u3046",
-        "\u3042\u304d\u3089\u304b"
+        "\u3068\u3046",
+        "\u3075\u3086"
       ]
     },
     {
-      "kanji": "\u8061",
+      "kanji": "\u5317",
       "meanings": [
-        "Wise"
+        "North"
       ],
       "readings": [
-        "\u305d\u3046",
-        "\u3055\u3068",
-        "\u307f\u307f\u3056\u3068"
+        "\u307b\u304f",
+        "\u304d\u305f"
       ]
     },
     {
-      "kanji": "\u6d66",
+      "kanji": "\u534a",
       "meanings": [
-        "Bay"
+        "Half"
       ],
       "readings": [
-        "\u307b",
-        "\u3046\u3089"
+        "\u306f\u3093",
+        "\u306a\u304b"
       ]
     },
     {
-      "kanji": "\u585a",
+      "kanji": "\u53e4",
       "meanings": [
-        "Mound"
+        "Old"
       ],
       "readings": [
-        "\u3061\u3087\u3046",
-        "\u3064\u304b"
+        "\u3053",
+        "\u3075\u308b"
+      ]
+    },
+    {
+      "kanji": "\u53f0",
+      "meanings": [
+        "Machine"
+      ],
+      "readings": [
+        "\u3060\u3044",
+        "\u305f\u3044"
+      ]
+    },
+    {
+      "kanji": "\u5916",
+      "meanings": [
+        "Outside"
+      ],
+      "readings": [
+        "\u304c\u3044",
+        "\u305d\u3068",
+        "\u306f\u305a"
+      ]
+    },
+    {
+      "kanji": "\u5e02",
+      "meanings": [
+        "City"
+      ],
+      "readings": [
+        "\u3057",
+        "\u3044\u3061"
+      ]
+    },
+    {
+      "kanji": "\u5e83",
+      "meanings": [
+        "Wide"
+      ],
+      "readings": [
+        "\u3053\u3046",
+        "\u3072\u308d"
+      ]
+    },
+    {
+      "kanji": "\u6bcd",
+      "meanings": [
+        "Mother",
+        "Mom"
+      ],
+      "readings": [
+        "\u307c",
+        "\u306f\u306f",
+        "\u304b\u3042"
+      ]
+    },
+    {
+      "kanji": "\u7528",
+      "meanings": [
+        "Task",
+        "Use"
+      ],
+      "readings": [
+        "\u3088\u3046",
+        "\u3082\u3061"
+      ]
+    },
+    {
+      "kanji": "\u77e2",
+      "meanings": [
+        "Arrow"
+      ],
+      "readings": [
+        "\u3057",
+        "\u3084"
+      ]
+    },
+    {
+      "kanji": "\u751f",
+      "meanings": [
+        "Life"
+      ],
+      "readings": [
+        "\u305b\u3044",
+        "\u3057\u3087\u3046",
+        "\u3044",
+        "\u306a\u307e",
+        "\u3046",
+        "\u306f",
+        "\u304d"
       ]
     }
-  ],
-  "4": [
+  ]},
+  {"4": [
     {
       "kanji": "\u77f3",
       "meanings": [
@@ -1425,692 +1381,8 @@
         "\u305f\u304b\u3089"
       ]
     }
-  ],
-  "3": [
-    {
-      "kanji": "\u4e07",
-      "meanings": [
-        "Ten Thousand"
-      ],
-      "readings": [
-        "\u307e\u3093",
-        "\u3070\u3093"
-      ]
-    },
-    {
-      "kanji": "\u4eca",
-      "meanings": [
-        "Now"
-      ],
-      "readings": [
-        "\u3053\u3093",
-        "\u3044\u307e"
-      ]
-    },
-    {
-      "kanji": "\u5143",
-      "meanings": [
-        "Origin"
-      ],
-      "readings": [
-        "\u3052\u3093",
-        "\u304c\u3093",
-        "\u3082\u3068"
-      ]
-    },
-    {
-      "kanji": "\u516c",
-      "meanings": [
-        "Public"
-      ],
-      "readings": [
-        "\u3053\u3046"
-      ]
-    },
-    {
-      "kanji": "\u5185",
-      "meanings": [
-        "Inside",
-        "Within"
-      ],
-      "readings": [
-        "\u306a\u3044",
-        "\u3046\u3061"
-      ]
-    },
-    {
-      "kanji": "\u5206",
-      "meanings": [
-        "Part",
-        "Minute",
-        "Separate",
-        "Understand"
-      ],
-      "readings": [
-        "\u3076\u3093",
-        "\u3075\u3093",
-        "\u3076",
-        "\u308f"
-      ]
-    },
-    {
-      "kanji": "\u5207",
-      "meanings": [
-        "Cut"
-      ],
-      "readings": [
-        "\u305b\u3064",
-        "\u304d"
-      ]
-    },
-    {
-      "kanji": "\u5348",
-      "meanings": [
-        "Noon"
-      ],
-      "readings": [
-        "\u3054"
-      ]
-    },
-    {
-      "kanji": "\u53cb",
-      "meanings": [
-        "Friend"
-      ],
-      "readings": [
-        "\u3086\u3046",
-        "\u3068\u3082"
-      ]
-    },
-    {
-      "kanji": "\u592a",
-      "meanings": [
-        "Fat"
-      ],
-      "readings": [
-        "\u305f\u3044",
-        "\u305f",
-        "\u3075\u3068",
-        "\u304a\u304a"
-      ]
-    },
-    {
-      "kanji": "\u5c11",
-      "meanings": [
-        "Few",
-        "A Little"
-      ],
-      "readings": [
-        "\u3057\u3087\u3046",
-        "\u3059\u3053",
-        "\u3059\u304f"
-      ]
-    },
-    {
-      "kanji": "\u5f15",
-      "meanings": [
-        "Pull"
-      ],
-      "readings": [
-        "\u3044\u3093",
-        "\u3072"
-      ]
-    },
-    {
-      "kanji": "\u5fc3",
-      "meanings": [
-        "Heart"
-      ],
-      "readings": [
-        "\u3057\u3093",
-        "\u3053\u3053\u308d"
-      ]
-    },
-    {
-      "kanji": "\u6238",
-      "meanings": [
-        "Door"
-      ],
-      "readings": [
-        "\u3053",
-        "\u3068"
-      ]
-    },
-    {
-      "kanji": "\u65b9",
-      "meanings": [
-        "Direction",
-        "Way"
-      ],
-      "readings": [
-        "\u307b\u3046",
-        "\u304b\u305f"
-      ]
-    },
-    {
-      "kanji": "\u725b",
-      "meanings": [
-        "Cow"
-      ],
-      "readings": [
-        "\u304e\u3085\u3046",
-        "\u3046\u3057"
-      ]
-    },
-    {
-      "kanji": "\u7236",
-      "meanings": [
-        "Father",
-        "Dad"
-      ],
-      "readings": [
-        "\u3075",
-        "\u3061\u3061",
-        "\u3068\u3046"
-      ]
-    },
-    {
-      "kanji": "\u6bdb",
-      "meanings": [
-        "Fur",
-        "Hair"
-      ],
-      "readings": [
-        "\u3082\u3046",
-        "\u3051"
-      ]
-    },
-    {
-      "kanji": "\u6b62",
-      "meanings": [
-        "Stop"
-      ],
-      "readings": [
-        "\u3057",
-        "\u3068",
-        "\u3084"
-      ]
-    },
-    {
-      "kanji": "\u51ac",
-      "meanings": [
-        "Winter"
-      ],
-      "readings": [
-        "\u3068\u3046",
-        "\u3075\u3086"
-      ]
-    },
-    {
-      "kanji": "\u5317",
-      "meanings": [
-        "North"
-      ],
-      "readings": [
-        "\u307b\u304f",
-        "\u304d\u305f"
-      ]
-    },
-    {
-      "kanji": "\u534a",
-      "meanings": [
-        "Half"
-      ],
-      "readings": [
-        "\u306f\u3093",
-        "\u306a\u304b"
-      ]
-    },
-    {
-      "kanji": "\u53e4",
-      "meanings": [
-        "Old"
-      ],
-      "readings": [
-        "\u3053",
-        "\u3075\u308b"
-      ]
-    },
-    {
-      "kanji": "\u53f0",
-      "meanings": [
-        "Machine"
-      ],
-      "readings": [
-        "\u3060\u3044",
-        "\u305f\u3044"
-      ]
-    },
-    {
-      "kanji": "\u5916",
-      "meanings": [
-        "Outside"
-      ],
-      "readings": [
-        "\u304c\u3044",
-        "\u305d\u3068",
-        "\u306f\u305a"
-      ]
-    },
-    {
-      "kanji": "\u5e02",
-      "meanings": [
-        "City"
-      ],
-      "readings": [
-        "\u3057",
-        "\u3044\u3061"
-      ]
-    },
-    {
-      "kanji": "\u5e83",
-      "meanings": [
-        "Wide"
-      ],
-      "readings": [
-        "\u3053\u3046",
-        "\u3072\u308d"
-      ]
-    },
-    {
-      "kanji": "\u6bcd",
-      "meanings": [
-        "Mother",
-        "Mom"
-      ],
-      "readings": [
-        "\u307c",
-        "\u306f\u306f",
-        "\u304b\u3042"
-      ]
-    },
-    {
-      "kanji": "\u7528",
-      "meanings": [
-        "Task",
-        "Use"
-      ],
-      "readings": [
-        "\u3088\u3046",
-        "\u3082\u3061"
-      ]
-    },
-    {
-      "kanji": "\u77e2",
-      "meanings": [
-        "Arrow"
-      ],
-      "readings": [
-        "\u3057",
-        "\u3084"
-      ]
-    },
-    {
-      "kanji": "\u751f",
-      "meanings": [
-        "Life"
-      ],
-      "readings": [
-        "\u305b\u3044",
-        "\u3057\u3087\u3046",
-        "\u3044",
-        "\u306a\u307e",
-        "\u3046",
-        "\u306f",
-        "\u304d"
-      ]
-    }
-  ],
-  "32": [
-    {
-      "kanji": "\u4e45",
-      "meanings": [
-        "Long Time"
-      ],
-      "readings": [
-        "\u304d\u3085\u3046",
-        "\u304f",
-        "\u3072\u3055"
-      ]
-    },
-    {
-      "kanji": "\u5e8f",
-      "meanings": [
-        "Preface"
-      ],
-      "readings": [
-        "\u3058\u3087",
-        "\u3064\u3044",
-        "\u3064\u3044\u3067"
-      ]
-    },
-    {
-      "kanji": "\u8fce",
-      "meanings": [
-        "Welcome"
-      ],
-      "readings": [
-        "\u3052\u3044",
-        "\u3080\u304b"
-      ]
-    },
-    {
-      "kanji": "\u5fd7",
-      "meanings": [
-        "Intention",
-        "Ambition"
-      ],
-      "readings": [
-        "\u3057",
-        "\u3053\u3053\u308d\u3056\u3057"
-      ]
-    },
-    {
-      "kanji": "\u6069",
-      "meanings": [
-        "Kindness"
-      ],
-      "readings": [
-        "\u304a\u3093"
-      ]
-    },
-    {
-      "kanji": "\u63a1",
-      "meanings": [
-        "Gather"
-      ],
-      "readings": [
-        "\u3055\u3044",
-        "\u3068"
-      ]
-    },
-    {
-      "kanji": "\u685c",
-      "meanings": [
-        "Sakura",
-        "Cherry Tree",
-        "Cherry Blossom"
-      ],
-      "readings": [
-        "\u304a\u3046",
-        "\u3088\u3046",
-        "\u3055\u304f\u3089"
-      ]
-    },
-    {
-      "kanji": "\u6c38",
-      "meanings": [
-        "Eternity"
-      ],
-      "readings": [
-        "\u3048\u3044"
-      ]
-    },
-    {
-      "kanji": "\u6db2",
-      "meanings": [
-        "Fluid",
-        "Liquid"
-      ],
-      "readings": [
-        "\u3048\u304d"
-      ]
-    },
-    {
-      "kanji": "\u773c",
-      "meanings": [
-        "Eyeball"
-      ],
-      "readings": [
-        "\u304c\u3093",
-        "\u3081"
-      ]
-    },
-    {
-      "kanji": "\u7956",
-      "meanings": [
-        "Ancestor"
-      ],
-      "readings": [
-        "\u305d"
-      ]
-    },
-    {
-      "kanji": "\u7e3e",
-      "meanings": [
-        "Exploits"
-      ],
-      "readings": [
-        "\u305b\u304d"
-      ]
-    },
-    {
-      "kanji": "\u8208",
-      "meanings": [
-        "Interest"
-      ],
-      "readings": [
-        "\u304d\u3087\u3046",
-        "\u3053\u3046"
-      ]
-    },
-    {
-      "kanji": "\u885b",
-      "meanings": [
-        "Defense"
-      ],
-      "readings": [
-        "\u3048\u3044"
-      ]
-    },
-    {
-      "kanji": "\u8907",
-      "meanings": [
-        "Duplicate"
-      ],
-      "readings": [
-        "\u3075\u304f"
-      ]
-    },
-    {
-      "kanji": "\u96d1",
-      "meanings": [
-        "Random",
-        "Miscellaneous"
-      ],
-      "readings": [
-        "\u3056\u3064",
-        "\u305e\u3046"
-      ]
-    },
-    {
-      "kanji": "\u8cdb",
-      "meanings": [
-        "Agree"
-      ],
-      "readings": [
-        "\u3055\u3093"
-      ]
-    },
-    {
-      "kanji": "\u9178",
-      "meanings": [
-        "Acid"
-      ],
-      "readings": [
-        "\u3055\u3093",
-        "\u3059"
-      ]
-    },
-    {
-      "kanji": "\u92ad",
-      "meanings": [
-        "Coin"
-      ],
-      "readings": [
-        "\u305b\u3093",
-        "\u305c\u306b"
-      ]
-    },
-    {
-      "kanji": "\u98fc",
-      "meanings": [
-        "Domesticate"
-      ],
-      "readings": [
-        "\u3057",
-        "\u304b"
-      ]
-    },
-    {
-      "kanji": "\u50b7",
-      "meanings": [
-        "Wound"
-      ],
-      "readings": [
-        "\u3057\u3087\u3046",
-        "\u304d\u305a",
-        "\u3044\u305f"
-      ]
-    },
-    {
-      "kanji": "\u515a",
-      "meanings": [
-        "Party",
-        "Group"
-      ],
-      "readings": [
-        "\u3068\u3046"
-      ]
-    },
-    {
-      "kanji": "\u5375",
-      "meanings": [
-        "Egg"
-      ],
-      "readings": [
-        "\u3089\u3093",
-        "\u305f\u307e\u3054"
-      ]
-    },
-    {
-      "kanji": "\u53b3",
-      "meanings": [
-        "Strict"
-      ],
-      "readings": [
-        "\u3052\u3093",
-        "\u3054\u3093",
-        "\u304d\u3073",
-        "\u304a\u3054\u305d"
-      ]
-    },
-    {
-      "kanji": "\u6368",
-      "meanings": [
-        "Throw Away"
-      ],
-      "readings": [
-        "\u3057\u3083",
-        "\u3059"
-      ]
-    },
-    {
-      "kanji": "\u8fbc",
-      "meanings": [
-        "Crowded"
-      ],
-      "readings": [
-        "\u3053"
-      ]
-    },
-    {
-      "kanji": "\u5bc6",
-      "meanings": [
-        "Secrecy"
-      ],
-      "readings": [
-        "\u307f\u3064",
-        "\u3072\u305d"
-      ]
-    },
-    {
-      "kanji": "\u6c5a",
-      "meanings": [
-        "Dirty"
-      ],
-      "readings": [
-        "\u304a",
-        "\u3088\u3054",
-        "\u304d\u305f\u306a",
-        "\u3051\u304c"
-      ]
-    },
-    {
-      "kanji": "\u6b32",
-      "meanings": [
-        "Want"
-      ],
-      "readings": [
-        "\u3088\u304f",
-        "\u307b"
-      ]
-    },
-    {
-      "kanji": "\u6696",
-      "meanings": [
-        "Warm"
-      ],
-      "readings": [
-        "\u3060\u3093",
-        "\u3042\u305f\u305f"
-      ]
-    },
-    {
-      "kanji": "\u673a",
-      "meanings": [
-        "Desk"
-      ],
-      "readings": [
-        "\u304d",
-        "\u3064\u304f\u3048"
-      ]
-    },
-    {
-      "kanji": "\u79d8",
-      "meanings": [
-        "Secret"
-      ],
-      "readings": [
-        "\u3072",
-        "\u3072"
-      ]
-    },
-    {
-      "kanji": "\u8a33",
-      "meanings": [
-        "Translation",
-        "Reason"
-      ],
-      "readings": [
-        "\u3084\u304f",
-        "\u308f\u3051"
-      ]
-    },
-    {
-      "kanji": "\u67d3",
-      "meanings": [
-        "Dye"
-      ],
-      "readings": [
-        "\u305b\u3093",
-        "\u3057\u307f",
-        "\u305d",
-        "\u3057"
-      ]
-    }
-  ],
-  "5": [
+  ]},
+  {"5": [
     {
       "kanji": "\u5144",
       "meanings": [
@@ -2610,764 +1882,8 @@
         "\u304d\u3093"
       ]
     }
-  ],
-  "8": [
-    {
-      "kanji": "\u6c60",
-      "meanings": [
-        "Pond"
-      ],
-      "readings": [
-        "\u3061",
-        "\u3044\u3051"
-      ]
-    },
-    {
-      "kanji": "\u652f",
-      "meanings": [
-        "Support",
-        "Branch"
-      ],
-      "readings": [
-        "\u3057",
-        "\u3055\u3055"
-      ]
-    },
-    {
-      "kanji": "\u4f4f",
-      "meanings": [
-        "Dwelling",
-        "Reside",
-        "Dwell"
-      ],
-      "readings": [
-        "\u3058\u3085\u3046",
-        "\u3059"
-      ]
-    },
-    {
-      "kanji": "\u52a9",
-      "meanings": [
-        "Help"
-      ],
-      "readings": [
-        "\u3058\u3087",
-        "\u305f\u3059",
-        "\u3059\u3051"
-      ]
-    },
-    {
-      "kanji": "\u533b",
-      "meanings": [
-        "Medicine"
-      ],
-      "readings": [
-        "\u3044"
-      ]
-    },
-    {
-      "kanji": "\u541b",
-      "meanings": [
-        "Buddy"
-      ],
-      "readings": [
-        "\u304f\u3093",
-        "\u304d\u307f"
-      ]
-    },
-    {
-      "kanji": "\u5bfe",
-      "meanings": [
-        "Versus",
-        "Opposite"
-      ],
-      "readings": [
-        "\u305f\u3044"
-      ]
-    },
-    {
-      "kanji": "\u5c40",
-      "meanings": [
-        "Bureau",
-        "Department"
-      ],
-      "readings": [
-        "\u304d\u3087\u304f"
-      ]
-    },
-    {
-      "kanji": "\u5f79",
-      "meanings": [
-        "Service",
-        "Duty"
-      ],
-      "readings": [
-        "\u3084\u304f",
-        "\u3048\u304d"
-      ]
-    },
-    {
-      "kanji": "\u6295",
-      "meanings": [
-        "Throw"
-      ],
-      "readings": [
-        "\u3068\u3046",
-        "\u306a"
-      ]
-    },
-    {
-      "kanji": "\u6c7a",
-      "meanings": [
-        "Decide",
-        "Decision"
-      ],
-      "readings": [
-        "\u3051\u3064",
-        "\u304d"
-      ]
-    },
-    {
-      "kanji": "\u7a76",
-      "meanings": [
-        "Research"
-      ],
-      "readings": [
-        "\u304d\u3085\u3046",
-        "\u304d\u308f"
-      ]
-    },
-    {
-      "kanji": "\u8eab",
-      "meanings": [
-        "Somebody",
-        "Someone",
-        "Body"
-      ],
-      "readings": [
-        "\u3057\u3093",
-        "\u307f"
-      ]
-    },
-    {
-      "kanji": "\u8005",
-      "meanings": [
-        "Someone",
-        "Somebody"
-      ],
-      "readings": [
-        "\u3057\u3083",
-        "\u3082\u306e"
-      ]
-    },
-    {
-      "kanji": "\u7814",
-      "meanings": [
-        "Sharpen"
-      ],
-      "readings": [
-        "\u3051\u3093",
-        "\u3068"
-      ]
-    },
-    {
-      "kanji": "\u99ac",
-      "meanings": [
-        "Horse"
-      ],
-      "readings": [
-        "\u3070",
-        "\u3046\u307e",
-        "\u3081",
-        "\u307e"
-      ]
-    },
-    {
-      "kanji": "\u68ee",
-      "meanings": [
-        "Forest",
-        "Woods"
-      ],
-      "readings": [
-        "\u3057\u3093",
-        "\u3082\u308a"
-      ]
-    },
-    {
-      "kanji": "\u5834",
-      "meanings": [
-        "Location",
-        "Place"
-      ],
-      "readings": [
-        "\u3058\u3087\u3046",
-        "\u3070"
-      ]
-    },
-    {
-      "kanji": "\u671d",
-      "meanings": [
-        "Morning"
-      ],
-      "readings": [
-        "\u3061\u3087\u3046",
-        "\u3042\u3055"
-      ]
-    },
-    {
-      "kanji": "\u756a",
-      "meanings": [
-        "Number In A Series",
-        "Turn",
-        "Ordinal Number"
-      ],
-      "readings": [
-        "\u3070\u3093",
-        "\u3064\u304c",
-        "\u3064\u304c\u3044"
-      ]
-    },
-    {
-      "kanji": "\u7b54",
-      "meanings": [
-        "Answer",
-        "Response",
-        "Reply"
-      ],
-      "readings": [
-        "\u3068\u3046",
-        "\u3053\u305f"
-      ]
-    },
-    {
-      "kanji": "\u7d75",
-      "meanings": [
-        "Drawing",
-        "Painting"
-      ],
-      "readings": [
-        "\u3048"
-      ]
-    },
-    {
-      "kanji": "\u8cb7",
-      "meanings": [
-        "Buy"
-      ],
-      "readings": [
-        "\u3070\u3044",
-        "\u304b"
-      ]
-    },
-    {
-      "kanji": "\u9053",
-      "meanings": [
-        "Road",
-        "Street",
-        "Path",
-        "Way"
-      ],
-      "readings": [
-        "\u3069\u3046",
-        "\u307f\u3061"
-      ]
-    },
-    {
-      "kanji": "\u9593",
-      "meanings": [
-        "Interval",
-        "Interval of Time",
-        "Interval of Space"
-      ],
-      "readings": [
-        "\u304b\u3093",
-        "\u3051\u3093",
-        "\u3042\u3044\u3060",
-        "\u307e"
-      ]
-    },
-    {
-      "kanji": "\u96f2",
-      "meanings": [
-        "Cloud"
-      ],
-      "readings": [
-        "\u3046\u3093",
-        "\u304f\u3082"
-      ]
-    },
-    {
-      "kanji": "\u6570",
-      "meanings": [
-        "Count",
-        "Number",
-        "Amount"
-      ],
-      "readings": [
-        "\u3059\u3046",
-        "\u304b\u305e",
-        "\u304b\u305a"
-      ]
-    },
-    {
-      "kanji": "\u697d",
-      "meanings": [
-        "Comfort",
-        "Ease",
-        "Pleasure"
-      ],
-      "readings": [
-        "\u3089\u304f",
-        "\u304c\u304f",
-        "\u305f\u306e"
-      ]
-    },
-    {
-      "kanji": "\u8a71",
-      "meanings": [
-        "Talk",
-        "Speak"
-      ],
-      "readings": [
-        "\u308f",
-        "\u306f\u306a",
-        "\u306f\u306a\u3057"
-      ]
-    },
-    {
-      "kanji": "\u96fb",
-      "meanings": [
-        "Electricity"
-      ],
-      "readings": [
-        "\u3067\u3093"
-      ]
-    },
-    {
-      "kanji": "\u6240",
-      "meanings": [
-        "Place"
-      ],
-      "readings": [
-        "\u3057\u3087",
-        "\u3068\u3053\u308d"
-      ]
-    },
-    {
-      "kanji": "\u53cd",
-      "meanings": [
-        "Anti"
-      ],
-      "readings": [
-        "\u306f\u3093"
-      ]
-    }
-  ],
-  "9": [
-    {
-      "kanji": "\u58f2",
-      "meanings": [
-        "Sell"
-      ],
-      "readings": [
-        "\u3070\u3044",
-        "\u3046"
-      ]
-    },
-    {
-      "kanji": "\u4e8b",
-      "meanings": [
-        "Action",
-        "Matter",
-        "Thing"
-      ],
-      "readings": [
-        "\u3058",
-        "\u3053\u3068",
-        "\u3064\u304b"
-      ]
-    },
-    {
-      "kanji": "\u4f7f",
-      "meanings": [
-        "Use"
-      ],
-      "readings": [
-        "\u3057",
-        "\u3064\u304b"
-      ]
-    },
-    {
-      "kanji": "\u5177",
-      "meanings": [
-        "Tool"
-      ],
-      "readings": [
-        "\u3050"
-      ]
-    },
-    {
-      "kanji": "\u53d7",
-      "meanings": [
-        "Accept",
-        "Receive"
-      ],
-      "readings": [
-        "\u3058\u3085",
-        "\u3046"
-      ]
-    },
-    {
-      "kanji": "\u548c",
-      "meanings": [
-        "Peace",
-        "Japanese Style"
-      ],
-      "readings": [
-        "\u308f",
-        "\u304a",
-        "\u306a\u3054",
-        "\u3084\u308f",
-        "\u304b\u305a",
-        "\u3088\u308a"
-      ]
-    },
-    {
-      "kanji": "\u5b9a",
-      "meanings": [
-        "Determine"
-      ],
-      "readings": [
-        "\u3066\u3044",
-        "\u3058\u3087\u3046",
-        "\u3055\u3060"
-      ]
-    },
-    {
-      "kanji": "\u5b9f",
-      "meanings": [
-        "Truth",
-        "Reality"
-      ],
-      "readings": [
-        "\u3058\u3064",
-        "\u307f",
-        "\u307f\u306e"
-      ]
-    },
-    {
-      "kanji": "\u670d",
-      "meanings": [
-        "Clothes",
-        "Clothing"
-      ],
-      "readings": [
-        "\u3075\u304f"
-      ]
-    },
-    {
-      "kanji": "\u6cf3",
-      "meanings": [
-        "Swim"
-      ],
-      "readings": [
-        "\u3048\u3044",
-        "\u304a\u3088"
-      ]
-    },
-    {
-      "kanji": "\u7269",
-      "meanings": [
-        "Thing"
-      ],
-      "readings": [
-        "\u3076\u3064",
-        "\u3082\u3064",
-        "\u3082\u306e"
-      ]
-    },
-    {
-      "kanji": "\u82e6",
-      "meanings": [
-        "Suffering"
-      ],
-      "readings": [
-        "\u304f",
-        "\u304f\u308b",
-        "\u306b\u304c"
-      ]
-    },
-    {
-      "kanji": "\u8868",
-      "meanings": [
-        "Express"
-      ],
-      "readings": [
-        "\u3072\u3087\u3046",
-        "\u3042\u3089\u308f",
-        "\u304a\u3082\u3066"
-      ]
-    },
-    {
-      "kanji": "\u90e8",
-      "meanings": [
-        "Part",
-        "Department",
-        "Club"
-      ],
-      "readings": [
-        "\u3076",
-        "\u3078"
-      ]
-    },
-    {
-      "kanji": "\u4e57",
-      "meanings": [
-        "Ride"
-      ],
-      "readings": [
-        "\u3058\u3087\u3046",
-        "\u306e"
-      ]
-    },
-    {
-      "kanji": "\u5ba2",
-      "meanings": [
-        "Guest",
-        "Customer"
-      ],
-      "readings": [
-        "\u304d\u3083\u304f"
-      ]
-    },
-    {
-      "kanji": "\u5c4b",
-      "meanings": [
-        "Roof",
-        "Shop",
-        "Store"
-      ],
-      "readings": [
-        "\u304a\u304f",
-        "\u3084"
-      ]
-    },
-    {
-      "kanji": "\u5ea6",
-      "meanings": [
-        "Degrees",
-        "Occurrence"
-      ],
-      "readings": [
-        "\u3069",
-        "\u305f\u304f",
-        "\u305f\u3073"
-      ]
-    },
-    {
-      "kanji": "\u6301",
-      "meanings": [
-        "Hold"
-      ],
-      "readings": [
-        "\u3058",
-        "\u3082"
-      ]
-    },
-    {
-      "kanji": "\u754c",
-      "meanings": [
-        "World"
-      ],
-      "readings": [
-        "\u304b\u3044"
-      ]
-    },
-    {
-      "kanji": "\u767a",
-      "meanings": [
-        "Departure"
-      ],
-      "readings": [
-        "\u306f\u3064"
-      ]
-    },
-    {
-      "kanji": "\u76f8",
-      "meanings": [
-        "Mutual",
-        "Minister"
-      ],
-      "readings": [
-        "\u305d\u3046",
-        "\u3057\u3087\u3046",
-        "\u3042\u3044"
-      ]
-    },
-    {
-      "kanji": "\u770c",
-      "meanings": [
-        "Prefecture"
-      ],
-      "readings": [
-        "\u3051\u3093"
-      ]
-    },
-    {
-      "kanji": "\u7f8e",
-      "meanings": [
-        "Beauty",
-        "Beautiful"
-      ],
-      "readings": [
-        "\u3073",
-        "\u307f",
-        "\u3046\u3064\u304f"
-      ]
-    },
-    {
-      "kanji": "\u8ca0",
-      "meanings": [
-        "Lose"
-      ],
-      "readings": [
-        "\u3075",
-        "\u307e",
-        "\u304a"
-      ]
-    },
-    {
-      "kanji": "\u9001",
-      "meanings": [
-        "Send"
-      ],
-      "readings": [
-        "\u305d\u3046",
-        "\u304a\u304f"
-      ]
-    },
-    {
-      "kanji": "\u91cd",
-      "meanings": [
-        "Heavy"
-      ],
-      "readings": [
-        "\u3058\u3085\u3046",
-        "\u3061\u3087\u3046",
-        "\u304a\u3082",
-        "\u304b\u3055",
-        "\u3048"
-      ]
-    },
-    {
-      "kanji": "\u8ac7",
-      "meanings": [
-        "Discuss"
-      ],
-      "readings": [
-        "\u3060\u3093"
-      ]
-    },
-    {
-      "kanji": "\u8981",
-      "meanings": [
-        "Need"
-      ],
-      "readings": [
-        "\u3088\u3046",
-        "\u3044",
-        "\u304b\u306a\u3081"
-      ]
-    },
-    {
-      "kanji": "\u52dd",
-      "meanings": [
-        "Win",
-        "Victory"
-      ],
-      "readings": [
-        "\u3057\u3087\u3046",
-        "\u304b"
-      ]
-    },
-    {
-      "kanji": "\u4eee",
-      "meanings": [
-        "Temporary"
-      ],
-      "readings": [
-        "\u304b",
-        "\u304b\u308a"
-      ]
-    },
-    {
-      "kanji": "\u4e88",
-      "meanings": [
-        "Beforehand"
-      ],
-      "readings": [
-        "\u3088",
-        "\u3042\u3089\u304b\u3058"
-      ]
-    },
-    {
-      "kanji": "\u65b0",
-      "meanings": [
-        "New"
-      ],
-      "readings": [
-        "\u3057\u3093",
-        "\u3042\u305f\u3089",
-        "\u3042\u3089",
-        "\u306b\u3044"
-      ]
-    },
-    {
-      "kanji": "\u8fd4",
-      "meanings": [
-        "Return"
-      ],
-      "readings": [
-        "\u3078\u3093",
-        "\u304b\u3048"
-      ]
-    },
-    {
-      "kanji": "\u4fdd",
-      "meanings": [
-        "Preserve",
-        "Guarantee"
-      ],
-      "readings": [
-        "\u307b",
-        "\u305f\u3082"
-      ]
-    },
-    {
-      "kanji": "\u8a66",
-      "meanings": [
-        "Try",
-        "Attempt"
-      ],
-      "readings": [
-        "\u3057",
-        "\u3053\u3053\u308d",
-        "\u305f\u3081"
-      ]
-    },
-    {
-      "kanji": "\u9a13",
-      "meanings": [
-        "Test"
-      ],
-      "readings": [
-        "\u3051\u3093",
-        "\u305f\u3081",
-        "\u305f\u3081\u3057"
-      ]
-    }
-  ],
-  "6": [
+  ]},
+  {"6": [
     {
       "kanji": "\u5316",
       "meanings": [
@@ -3820,8 +2336,8 @@
         "\u308f\u305f\u3057"
       ]
     }
-  ],
-  "7": [
+  ]},
+  {"7": [
     {
       "kanji": "\u6b20",
       "meanings": [
@@ -4187,8 +2703,764 @@
         "\u304b\u305c"
       ]
     }
-  ],
-  "10": [
+  ]},
+  {"8": [
+    {
+      "kanji": "\u6c60",
+      "meanings": [
+        "Pond"
+      ],
+      "readings": [
+        "\u3061",
+        "\u3044\u3051"
+      ]
+    },
+    {
+      "kanji": "\u652f",
+      "meanings": [
+        "Support",
+        "Branch"
+      ],
+      "readings": [
+        "\u3057",
+        "\u3055\u3055"
+      ]
+    },
+    {
+      "kanji": "\u4f4f",
+      "meanings": [
+        "Dwelling",
+        "Reside",
+        "Dwell"
+      ],
+      "readings": [
+        "\u3058\u3085\u3046",
+        "\u3059"
+      ]
+    },
+    {
+      "kanji": "\u52a9",
+      "meanings": [
+        "Help"
+      ],
+      "readings": [
+        "\u3058\u3087",
+        "\u305f\u3059",
+        "\u3059\u3051"
+      ]
+    },
+    {
+      "kanji": "\u533b",
+      "meanings": [
+        "Medicine"
+      ],
+      "readings": [
+        "\u3044"
+      ]
+    },
+    {
+      "kanji": "\u541b",
+      "meanings": [
+        "Buddy"
+      ],
+      "readings": [
+        "\u304f\u3093",
+        "\u304d\u307f"
+      ]
+    },
+    {
+      "kanji": "\u5bfe",
+      "meanings": [
+        "Versus",
+        "Opposite"
+      ],
+      "readings": [
+        "\u305f\u3044"
+      ]
+    },
+    {
+      "kanji": "\u5c40",
+      "meanings": [
+        "Bureau",
+        "Department"
+      ],
+      "readings": [
+        "\u304d\u3087\u304f"
+      ]
+    },
+    {
+      "kanji": "\u5f79",
+      "meanings": [
+        "Service",
+        "Duty"
+      ],
+      "readings": [
+        "\u3084\u304f",
+        "\u3048\u304d"
+      ]
+    },
+    {
+      "kanji": "\u6295",
+      "meanings": [
+        "Throw"
+      ],
+      "readings": [
+        "\u3068\u3046",
+        "\u306a"
+      ]
+    },
+    {
+      "kanji": "\u6c7a",
+      "meanings": [
+        "Decide",
+        "Decision"
+      ],
+      "readings": [
+        "\u3051\u3064",
+        "\u304d"
+      ]
+    },
+    {
+      "kanji": "\u7a76",
+      "meanings": [
+        "Research"
+      ],
+      "readings": [
+        "\u304d\u3085\u3046",
+        "\u304d\u308f"
+      ]
+    },
+    {
+      "kanji": "\u8eab",
+      "meanings": [
+        "Somebody",
+        "Someone",
+        "Body"
+      ],
+      "readings": [
+        "\u3057\u3093",
+        "\u307f"
+      ]
+    },
+    {
+      "kanji": "\u8005",
+      "meanings": [
+        "Someone",
+        "Somebody"
+      ],
+      "readings": [
+        "\u3057\u3083",
+        "\u3082\u306e"
+      ]
+    },
+    {
+      "kanji": "\u7814",
+      "meanings": [
+        "Sharpen"
+      ],
+      "readings": [
+        "\u3051\u3093",
+        "\u3068"
+      ]
+    },
+    {
+      "kanji": "\u99ac",
+      "meanings": [
+        "Horse"
+      ],
+      "readings": [
+        "\u3070",
+        "\u3046\u307e",
+        "\u3081",
+        "\u307e"
+      ]
+    },
+    {
+      "kanji": "\u68ee",
+      "meanings": [
+        "Forest",
+        "Woods"
+      ],
+      "readings": [
+        "\u3057\u3093",
+        "\u3082\u308a"
+      ]
+    },
+    {
+      "kanji": "\u5834",
+      "meanings": [
+        "Location",
+        "Place"
+      ],
+      "readings": [
+        "\u3058\u3087\u3046",
+        "\u3070"
+      ]
+    },
+    {
+      "kanji": "\u671d",
+      "meanings": [
+        "Morning"
+      ],
+      "readings": [
+        "\u3061\u3087\u3046",
+        "\u3042\u3055"
+      ]
+    },
+    {
+      "kanji": "\u756a",
+      "meanings": [
+        "Number In A Series",
+        "Turn",
+        "Ordinal Number"
+      ],
+      "readings": [
+        "\u3070\u3093",
+        "\u3064\u304c",
+        "\u3064\u304c\u3044"
+      ]
+    },
+    {
+      "kanji": "\u7b54",
+      "meanings": [
+        "Answer",
+        "Response",
+        "Reply"
+      ],
+      "readings": [
+        "\u3068\u3046",
+        "\u3053\u305f"
+      ]
+    },
+    {
+      "kanji": "\u7d75",
+      "meanings": [
+        "Drawing",
+        "Painting"
+      ],
+      "readings": [
+        "\u3048"
+      ]
+    },
+    {
+      "kanji": "\u8cb7",
+      "meanings": [
+        "Buy"
+      ],
+      "readings": [
+        "\u3070\u3044",
+        "\u304b"
+      ]
+    },
+    {
+      "kanji": "\u9053",
+      "meanings": [
+        "Road",
+        "Street",
+        "Path",
+        "Way"
+      ],
+      "readings": [
+        "\u3069\u3046",
+        "\u307f\u3061"
+      ]
+    },
+    {
+      "kanji": "\u9593",
+      "meanings": [
+        "Interval",
+        "Interval of Time",
+        "Interval of Space"
+      ],
+      "readings": [
+        "\u304b\u3093",
+        "\u3051\u3093",
+        "\u3042\u3044\u3060",
+        "\u307e"
+      ]
+    },
+    {
+      "kanji": "\u96f2",
+      "meanings": [
+        "Cloud"
+      ],
+      "readings": [
+        "\u3046\u3093",
+        "\u304f\u3082"
+      ]
+    },
+    {
+      "kanji": "\u6570",
+      "meanings": [
+        "Count",
+        "Number",
+        "Amount"
+      ],
+      "readings": [
+        "\u3059\u3046",
+        "\u304b\u305e",
+        "\u304b\u305a"
+      ]
+    },
+    {
+      "kanji": "\u697d",
+      "meanings": [
+        "Comfort",
+        "Ease",
+        "Pleasure"
+      ],
+      "readings": [
+        "\u3089\u304f",
+        "\u304c\u304f",
+        "\u305f\u306e"
+      ]
+    },
+    {
+      "kanji": "\u8a71",
+      "meanings": [
+        "Talk",
+        "Speak"
+      ],
+      "readings": [
+        "\u308f",
+        "\u306f\u306a",
+        "\u306f\u306a\u3057"
+      ]
+    },
+    {
+      "kanji": "\u96fb",
+      "meanings": [
+        "Electricity"
+      ],
+      "readings": [
+        "\u3067\u3093"
+      ]
+    },
+    {
+      "kanji": "\u6240",
+      "meanings": [
+        "Place"
+      ],
+      "readings": [
+        "\u3057\u3087",
+        "\u3068\u3053\u308d"
+      ]
+    },
+    {
+      "kanji": "\u53cd",
+      "meanings": [
+        "Anti"
+      ],
+      "readings": [
+        "\u306f\u3093"
+      ]
+    }
+  ]},
+  {"9": [
+    {
+      "kanji": "\u58f2",
+      "meanings": [
+        "Sell"
+      ],
+      "readings": [
+        "\u3070\u3044",
+        "\u3046"
+      ]
+    },
+    {
+      "kanji": "\u4e8b",
+      "meanings": [
+        "Action",
+        "Matter",
+        "Thing"
+      ],
+      "readings": [
+        "\u3058",
+        "\u3053\u3068",
+        "\u3064\u304b"
+      ]
+    },
+    {
+      "kanji": "\u4f7f",
+      "meanings": [
+        "Use"
+      ],
+      "readings": [
+        "\u3057",
+        "\u3064\u304b"
+      ]
+    },
+    {
+      "kanji": "\u5177",
+      "meanings": [
+        "Tool"
+      ],
+      "readings": [
+        "\u3050"
+      ]
+    },
+    {
+      "kanji": "\u53d7",
+      "meanings": [
+        "Accept",
+        "Receive"
+      ],
+      "readings": [
+        "\u3058\u3085",
+        "\u3046"
+      ]
+    },
+    {
+      "kanji": "\u548c",
+      "meanings": [
+        "Peace",
+        "Japanese Style"
+      ],
+      "readings": [
+        "\u308f",
+        "\u304a",
+        "\u306a\u3054",
+        "\u3084\u308f",
+        "\u304b\u305a",
+        "\u3088\u308a"
+      ]
+    },
+    {
+      "kanji": "\u5b9a",
+      "meanings": [
+        "Determine"
+      ],
+      "readings": [
+        "\u3066\u3044",
+        "\u3058\u3087\u3046",
+        "\u3055\u3060"
+      ]
+    },
+    {
+      "kanji": "\u5b9f",
+      "meanings": [
+        "Truth",
+        "Reality"
+      ],
+      "readings": [
+        "\u3058\u3064",
+        "\u307f",
+        "\u307f\u306e"
+      ]
+    },
+    {
+      "kanji": "\u670d",
+      "meanings": [
+        "Clothes",
+        "Clothing"
+      ],
+      "readings": [
+        "\u3075\u304f"
+      ]
+    },
+    {
+      "kanji": "\u6cf3",
+      "meanings": [
+        "Swim"
+      ],
+      "readings": [
+        "\u3048\u3044",
+        "\u304a\u3088"
+      ]
+    },
+    {
+      "kanji": "\u7269",
+      "meanings": [
+        "Thing"
+      ],
+      "readings": [
+        "\u3076\u3064",
+        "\u3082\u3064",
+        "\u3082\u306e"
+      ]
+    },
+    {
+      "kanji": "\u82e6",
+      "meanings": [
+        "Suffering"
+      ],
+      "readings": [
+        "\u304f",
+        "\u304f\u308b",
+        "\u306b\u304c"
+      ]
+    },
+    {
+      "kanji": "\u8868",
+      "meanings": [
+        "Express"
+      ],
+      "readings": [
+        "\u3072\u3087\u3046",
+        "\u3042\u3089\u308f",
+        "\u304a\u3082\u3066"
+      ]
+    },
+    {
+      "kanji": "\u90e8",
+      "meanings": [
+        "Part",
+        "Department",
+        "Club"
+      ],
+      "readings": [
+        "\u3076",
+        "\u3078"
+      ]
+    },
+    {
+      "kanji": "\u4e57",
+      "meanings": [
+        "Ride"
+      ],
+      "readings": [
+        "\u3058\u3087\u3046",
+        "\u306e"
+      ]
+    },
+    {
+      "kanji": "\u5ba2",
+      "meanings": [
+        "Guest",
+        "Customer"
+      ],
+      "readings": [
+        "\u304d\u3083\u304f"
+      ]
+    },
+    {
+      "kanji": "\u5c4b",
+      "meanings": [
+        "Roof",
+        "Shop",
+        "Store"
+      ],
+      "readings": [
+        "\u304a\u304f",
+        "\u3084"
+      ]
+    },
+    {
+      "kanji": "\u5ea6",
+      "meanings": [
+        "Degrees",
+        "Occurrence"
+      ],
+      "readings": [
+        "\u3069",
+        "\u305f\u304f",
+        "\u305f\u3073"
+      ]
+    },
+    {
+      "kanji": "\u6301",
+      "meanings": [
+        "Hold"
+      ],
+      "readings": [
+        "\u3058",
+        "\u3082"
+      ]
+    },
+    {
+      "kanji": "\u754c",
+      "meanings": [
+        "World"
+      ],
+      "readings": [
+        "\u304b\u3044"
+      ]
+    },
+    {
+      "kanji": "\u767a",
+      "meanings": [
+        "Departure"
+      ],
+      "readings": [
+        "\u306f\u3064"
+      ]
+    },
+    {
+      "kanji": "\u76f8",
+      "meanings": [
+        "Mutual",
+        "Minister"
+      ],
+      "readings": [
+        "\u305d\u3046",
+        "\u3057\u3087\u3046",
+        "\u3042\u3044"
+      ]
+    },
+    {
+      "kanji": "\u770c",
+      "meanings": [
+        "Prefecture"
+      ],
+      "readings": [
+        "\u3051\u3093"
+      ]
+    },
+    {
+      "kanji": "\u7f8e",
+      "meanings": [
+        "Beauty",
+        "Beautiful"
+      ],
+      "readings": [
+        "\u3073",
+        "\u307f",
+        "\u3046\u3064\u304f"
+      ]
+    },
+    {
+      "kanji": "\u8ca0",
+      "meanings": [
+        "Lose"
+      ],
+      "readings": [
+        "\u3075",
+        "\u307e",
+        "\u304a"
+      ]
+    },
+    {
+      "kanji": "\u9001",
+      "meanings": [
+        "Send"
+      ],
+      "readings": [
+        "\u305d\u3046",
+        "\u304a\u304f"
+      ]
+    },
+    {
+      "kanji": "\u91cd",
+      "meanings": [
+        "Heavy"
+      ],
+      "readings": [
+        "\u3058\u3085\u3046",
+        "\u3061\u3087\u3046",
+        "\u304a\u3082",
+        "\u304b\u3055",
+        "\u3048"
+      ]
+    },
+    {
+      "kanji": "\u8ac7",
+      "meanings": [
+        "Discuss"
+      ],
+      "readings": [
+        "\u3060\u3093"
+      ]
+    },
+    {
+      "kanji": "\u8981",
+      "meanings": [
+        "Need"
+      ],
+      "readings": [
+        "\u3088\u3046",
+        "\u3044",
+        "\u304b\u306a\u3081"
+      ]
+    },
+    {
+      "kanji": "\u52dd",
+      "meanings": [
+        "Win",
+        "Victory"
+      ],
+      "readings": [
+        "\u3057\u3087\u3046",
+        "\u304b"
+      ]
+    },
+    {
+      "kanji": "\u4eee",
+      "meanings": [
+        "Temporary"
+      ],
+      "readings": [
+        "\u304b",
+        "\u304b\u308a"
+      ]
+    },
+    {
+      "kanji": "\u4e88",
+      "meanings": [
+        "Beforehand"
+      ],
+      "readings": [
+        "\u3088",
+        "\u3042\u3089\u304b\u3058"
+      ]
+    },
+    {
+      "kanji": "\u65b0",
+      "meanings": [
+        "New"
+      ],
+      "readings": [
+        "\u3057\u3093",
+        "\u3042\u305f\u3089",
+        "\u3042\u3089",
+        "\u306b\u3044"
+      ]
+    },
+    {
+      "kanji": "\u8fd4",
+      "meanings": [
+        "Return"
+      ],
+      "readings": [
+        "\u3078\u3093",
+        "\u304b\u3048"
+      ]
+    },
+    {
+      "kanji": "\u4fdd",
+      "meanings": [
+        "Preserve",
+        "Guarantee"
+      ],
+      "readings": [
+        "\u307b",
+        "\u305f\u3082"
+      ]
+    },
+    {
+      "kanji": "\u8a66",
+      "meanings": [
+        "Try",
+        "Attempt"
+      ],
+      "readings": [
+        "\u3057",
+        "\u3053\u3053\u308d",
+        "\u305f\u3081"
+      ]
+    },
+    {
+      "kanji": "\u9a13",
+      "meanings": [
+        "Test"
+      ],
+      "readings": [
+        "\u3051\u3093",
+        "\u305f\u3081",
+        "\u305f\u3081\u3057"
+      ]
+    }
+  ]},
+  {"10": [
     {
       "kanji": "\u59cb",
       "meanings": [
@@ -4595,8 +3867,414 @@
         "\u3088\u3046"
       ]
     }
-  ],
-  "12": [
+  ]},
+  {"11": [
+    {
+      "kanji": "\u4e89",
+      "meanings": [
+        "Conflict"
+      ],
+      "readings": [
+        "\u305d\u3046",
+        "\u3042\u3089\u305d"
+      ]
+    },
+    {
+      "kanji": "\u4ef2",
+      "meanings": [
+        "Relationship"
+      ],
+      "readings": [
+        "\u3061\u3085\u3046",
+        "\u306a\u304b"
+      ]
+    },
+    {
+      "kanji": "\u4f1d",
+      "meanings": [
+        "Transmit",
+        "Tell"
+      ],
+      "readings": [
+        "\u3067\u3093",
+        "\u3064\u305f",
+        "\u3064\u3066"
+      ]
+    },
+    {
+      "kanji": "\u5171",
+      "meanings": [
+        "Together"
+      ],
+      "readings": [
+        "\u304d\u3087\u3046",
+        "\u3068\u3082"
+      ]
+    },
+    {
+      "kanji": "\u597d",
+      "meanings": [
+        "Like"
+      ],
+      "readings": [
+        "\u3053\u3046",
+        "\u3059",
+        "\u3053\u306e"
+      ]
+    },
+    {
+      "kanji": "\u6210",
+      "meanings": [
+        "Become"
+      ],
+      "readings": [
+        "\u305b\u3044",
+        "\u306a"
+      ]
+    },
+    {
+      "kanji": "\u8001",
+      "meanings": [
+        "Elderly"
+      ],
+      "readings": [
+        "\u308d\u3046"
+      ]
+    },
+    {
+      "kanji": "\u4f4d",
+      "meanings": [
+        "Rank"
+      ],
+      "readings": [
+        "\u3044",
+        "\u304f\u3089\u3044"
+      ]
+    },
+    {
+      "kanji": "\u4f4e",
+      "meanings": [
+        "Low"
+      ],
+      "readings": [
+        "\u3066\u3044",
+        "\u3072\u304f"
+      ]
+    },
+    {
+      "kanji": "\u521d",
+      "meanings": [
+        "First"
+      ],
+      "readings": [
+        "\u3057\u3087",
+        "\u306f\u3058",
+        "\u306f\u3064",
+        "\u305d",
+        "\u305e"
+      ]
+    },
+    {
+      "kanji": "\u5225",
+      "meanings": [
+        "Separate"
+      ],
+      "readings": [
+        "\u3079\u3064",
+        "\u308f\u304b"
+      ]
+    },
+    {
+      "kanji": "\u5229",
+      "meanings": [
+        "Profit",
+        "Benefit",
+        "Advantage"
+      ],
+      "readings": [
+        "\u308a",
+        "\u304d"
+      ]
+    },
+    {
+      "kanji": "\u52aa",
+      "meanings": [
+        "Toil"
+      ],
+      "readings": [
+        "\u3069",
+        "\u3064\u3068"
+      ]
+    },
+    {
+      "kanji": "\u52b4",
+      "meanings": [
+        "Labor"
+      ],
+      "readings": [
+        "\u308d\u3046",
+        "\u3044\u305f\u308f"
+      ]
+    },
+    {
+      "kanji": "\u547d",
+      "meanings": [
+        "Fate",
+        "Life"
+      ],
+      "readings": [
+        "\u3081\u3044",
+        "\u307f\u3087\u3046",
+        "\u3044\u306e\u3061"
+      ]
+    },
+    {
+      "kanji": "\u5cb8",
+      "meanings": [
+        "Coast",
+        "Shore"
+      ],
+      "readings": [
+        "\u304c\u3093",
+        "\u304d\u3057"
+      ]
+    },
+    {
+      "kanji": "\u653e",
+      "meanings": [
+        "Release"
+      ],
+      "readings": [
+        "\u307b\u3046",
+        "\u306f\u306a",
+        "\u307b\u3046"
+      ]
+    },
+    {
+      "kanji": "\u6614",
+      "meanings": [
+        "Long Ago",
+        "Long Time Ago"
+      ],
+      "readings": [
+        "\u3080\u304b\u3057",
+        "\u305b\u304d",
+        "\u3057\u3083\u304f"
+      ]
+    },
+    {
+      "kanji": "\u6ce2",
+      "meanings": [
+        "Wave"
+      ],
+      "readings": [
+        "\u306f",
+        "\u306a\u307f"
+      ]
+    },
+    {
+      "kanji": "\u6ce8",
+      "meanings": [
+        "Pour"
+      ],
+      "readings": [
+        "\u3061\u3085\u3046",
+        "\u305d\u305d",
+        "\u3055",
+        "\u3064"
+      ]
+    },
+    {
+      "kanji": "\u80b2",
+      "meanings": [
+        "Nurture",
+        "Raise"
+      ],
+      "readings": [
+        "\u3044\u304f",
+        "\u305d\u3060",
+        "\u306f\u3050\u304f"
+      ]
+    },
+    {
+      "kanji": "\u62fe",
+      "meanings": [
+        "Pick Up"
+      ],
+      "readings": [
+        "\u3072\u308d",
+        "\u3057\u3085\u3046"
+      ]
+    },
+    {
+      "kanji": "\u6307",
+      "meanings": [
+        "Finger"
+      ],
+      "readings": [
+        "\u3057",
+        "\u3086\u3073",
+        "\u3055"
+      ]
+    },
+    {
+      "kanji": "\u6d0b",
+      "meanings": [
+        "Western Style",
+        "Ocean"
+      ],
+      "readings": [
+        "\u3088\u3046"
+      ]
+    },
+    {
+      "kanji": "\u795e",
+      "meanings": [
+        "God"
+      ],
+      "readings": [
+        "\u3057\u3093",
+        "\u304b\u307f",
+        "\u3058\u3093"
+      ]
+    },
+    {
+      "kanji": "\u79d2",
+      "meanings": [
+        "Second"
+      ],
+      "readings": [
+        "\u3073\u3087\u3046"
+      ]
+    },
+    {
+      "kanji": "\u7d1a",
+      "meanings": [
+        "Level",
+        "Grade",
+        "Rank"
+      ],
+      "readings": [
+        "\u304d\u3085\u3046"
+      ]
+    },
+    {
+      "kanji": "\u8ffd",
+      "meanings": [
+        "Follow",
+        "Chase"
+      ],
+      "readings": [
+        "\u3064\u3044",
+        "\u304a"
+      ]
+    },
+    {
+      "kanji": "\u6226",
+      "meanings": [
+        "War",
+        "Battle"
+      ],
+      "readings": [
+        "\u305b\u3093",
+        "\u305f\u305f\u304b",
+        "\u3044\u304f\u3055"
+      ]
+    },
+    {
+      "kanji": "\u7af6",
+      "meanings": [
+        "Compete"
+      ],
+      "readings": [
+        "\u304d\u3087\u3046",
+        "\u304d\u305d",
+        "\u3051\u3044"
+      ]
+    },
+    {
+      "kanji": "\u826f",
+      "meanings": [
+        "Good"
+      ],
+      "readings": [
+        "\u308a\u3087\u3046",
+        "\u3088",
+        "\u3044"
+      ]
+    },
+    {
+      "kanji": "\u529f",
+      "meanings": [
+        "Achievement",
+        "Accomplishment"
+      ],
+      "readings": [
+        "\u3053\u3046"
+      ]
+    },
+    {
+      "kanji": "\u7279",
+      "meanings": [
+        "Special"
+      ],
+      "readings": [
+        "\u3068\u304f"
+      ]
+    },
+    {
+      "kanji": "\u4fbf",
+      "meanings": [
+        "Convenience",
+        "Convenient"
+      ],
+      "readings": [
+        "\u3079\u3093",
+        "\u3073\u3093",
+        "\u305f\u3088"
+      ]
+    },
+    {
+      "kanji": "\u50cd",
+      "meanings": [
+        "Work"
+      ],
+      "readings": [
+        "\u3069\u3046",
+        "\u306f\u305f\u3089"
+      ]
+    },
+    {
+      "kanji": "\u4ee4",
+      "meanings": [
+        "Orders"
+      ],
+      "readings": [
+        "\u308c\u3044"
+      ]
+    },
+    {
+      "kanji": "\u610f",
+      "meanings": [
+        "Idea"
+      ],
+      "readings": [
+        "\u3044"
+      ]
+    },
+    {
+      "kanji": "\u5473",
+      "meanings": [
+        "Flavor",
+        "Taste"
+      ],
+      "readings": [
+        "\u307f",
+        "\u3042\u3058"
+      ]
+    }
+  ]},
+  {"12": [
     {
       "kanji": "\u5f85",
       "meanings": [
@@ -5008,414 +4686,1430 @@
         "\u307c\u304f"
       ]
     }
-  ],
-  "11": [
+  ]},
+  {"13": [
     {
-      "kanji": "\u4e89",
+      "kanji": "\u554f",
       "meanings": [
-        "Conflict"
+        "Problem",
+        "Question"
+      ],
+      "readings": [
+        "\u3082\u3093",
+        "\u3068",
+        "\u3068\u3093"
+      ]
+    },
+    {
+      "kanji": "\u5bbf",
+      "meanings": [
+        "Lodge"
+      ],
+      "readings": [
+        "\u3057\u3085\u304f",
+        "\u3084\u3069"
+      ]
+    },
+    {
+      "kanji": "\u60f3",
+      "meanings": [
+        "Concept"
       ],
       "readings": [
         "\u305d\u3046",
-        "\u3042\u3089\u305d"
+        "\u304a\u3082",
+        "\u305d"
       ]
     },
     {
-      "kanji": "\u4ef2",
+      "kanji": "\u611f",
       "meanings": [
-        "Relationship"
+        "Feeling"
       ],
       "readings": [
-        "\u3061\u3085\u3046",
-        "\u306a\u304b"
+        "\u304b\u3093"
       ]
     },
     {
-      "kanji": "\u4f1d",
+      "kanji": "\u6574",
       "meanings": [
-        "Transmit",
-        "Tell"
-      ],
-      "readings": [
-        "\u3067\u3093",
-        "\u3064\u305f",
-        "\u3064\u3066"
-      ]
-    },
-    {
-      "kanji": "\u5171",
-      "meanings": [
-        "Together"
-      ],
-      "readings": [
-        "\u304d\u3087\u3046",
-        "\u3068\u3082"
-      ]
-    },
-    {
-      "kanji": "\u597d",
-      "meanings": [
-        "Like"
-      ],
-      "readings": [
-        "\u3053\u3046",
-        "\u3059",
-        "\u3053\u306e"
-      ]
-    },
-    {
-      "kanji": "\u6210",
-      "meanings": [
-        "Become"
+        "Arrange",
+        "Organize"
       ],
       "readings": [
         "\u305b\u3044",
-        "\u306a"
+        "\u3068\u3068\u306e"
       ]
     },
     {
-      "kanji": "\u8001",
+      "kanji": "\u6697",
       "meanings": [
-        "Elderly"
+        "Dark"
       ],
       "readings": [
-        "\u308d\u3046"
+        "\u3042\u3093",
+        "\u304f\u3089",
+        "\u304f\u308c"
       ]
     },
     {
-      "kanji": "\u4f4d",
+      "kanji": "\u69d8",
       "meanings": [
-        "Rank"
+        "Formal Name Title",
+        "Formal Name Ender",
+        "Manner"
       ],
       "readings": [
-        "\u3044",
-        "\u304f\u3089\u3044"
+        "\u3088\u3046",
+        "\u3055\u307e"
       ]
     },
     {
-      "kanji": "\u4f4e",
+      "kanji": "\u6a4b",
       "meanings": [
-        "Low"
+        "Bridge"
       ],
       "readings": [
-        "\u3066\u3044",
-        "\u3072\u304f"
+        "\u304d\u3087\u3046",
+        "\u306f\u3057"
       ]
     },
     {
-      "kanji": "\u521d",
+      "kanji": "\u798f",
       "meanings": [
-        "First"
+        "Luck",
+        "Fortune"
       ],
       "readings": [
-        "\u3057\u3087",
-        "\u306f\u3058",
-        "\u306f\u3064",
-        "\u305d",
-        "\u305e"
+        "\u3075\u304f"
       ]
     },
     {
-      "kanji": "\u5225",
+      "kanji": "\u7dd1",
       "meanings": [
-        "Separate"
+        "Green"
       ],
       "readings": [
-        "\u3079\u3064",
-        "\u308f\u304b"
+        "\u308a\u3087\u304f",
+        "\u307f\u3069\u308a"
       ]
     },
     {
-      "kanji": "\u5229",
+      "kanji": "\u7df4",
       "meanings": [
-        "Profit",
-        "Benefit",
-        "Advantage"
+        "Practice"
       ],
       "readings": [
-        "\u308a",
-        "\u304d"
+        "\u308c\u3093",
+        "\u306d"
       ]
     },
     {
-      "kanji": "\u52aa",
+      "kanji": "\u8a69",
       "meanings": [
-        "Toil"
-      ],
-      "readings": [
-        "\u3069",
-        "\u3064\u3068"
-      ]
-    },
-    {
-      "kanji": "\u52b4",
-      "meanings": [
-        "Labor"
-      ],
-      "readings": [
-        "\u308d\u3046",
-        "\u3044\u305f\u308f"
-      ]
-    },
-    {
-      "kanji": "\u547d",
-      "meanings": [
-        "Fate",
-        "Life"
-      ],
-      "readings": [
-        "\u3081\u3044",
-        "\u307f\u3087\u3046",
-        "\u3044\u306e\u3061"
-      ]
-    },
-    {
-      "kanji": "\u5cb8",
-      "meanings": [
-        "Coast",
-        "Shore"
-      ],
-      "readings": [
-        "\u304c\u3093",
-        "\u304d\u3057"
-      ]
-    },
-    {
-      "kanji": "\u653e",
-      "meanings": [
-        "Release"
-      ],
-      "readings": [
-        "\u307b\u3046",
-        "\u306f\u306a",
-        "\u307b\u3046"
-      ]
-    },
-    {
-      "kanji": "\u6614",
-      "meanings": [
-        "Long Ago",
-        "Long Time Ago"
-      ],
-      "readings": [
-        "\u3080\u304b\u3057",
-        "\u305b\u304d",
-        "\u3057\u3083\u304f"
-      ]
-    },
-    {
-      "kanji": "\u6ce2",
-      "meanings": [
-        "Wave"
-      ],
-      "readings": [
-        "\u306f",
-        "\u306a\u307f"
-      ]
-    },
-    {
-      "kanji": "\u6ce8",
-      "meanings": [
-        "Pour"
-      ],
-      "readings": [
-        "\u3061\u3085\u3046",
-        "\u305d\u305d",
-        "\u3055",
-        "\u3064"
-      ]
-    },
-    {
-      "kanji": "\u80b2",
-      "meanings": [
-        "Nurture",
-        "Raise"
-      ],
-      "readings": [
-        "\u3044\u304f",
-        "\u305d\u3060",
-        "\u306f\u3050\u304f"
-      ]
-    },
-    {
-      "kanji": "\u62fe",
-      "meanings": [
-        "Pick Up"
-      ],
-      "readings": [
-        "\u3072\u308d",
-        "\u3057\u3085\u3046"
-      ]
-    },
-    {
-      "kanji": "\u6307",
-      "meanings": [
-        "Finger"
+        "Poem"
       ],
       "readings": [
         "\u3057",
-        "\u3086\u3073",
+        "\u3046\u305f"
+      ]
+    },
+    {
+      "kanji": "\u9280",
+      "meanings": [
+        "Silver"
+      ],
+      "readings": [
+        "\u304e\u3093"
+      ]
+    },
+    {
+      "kanji": "\u984c",
+      "meanings": [
+        "Topic"
+      ],
+      "readings": [
+        "\u3060\u3044"
+      ]
+    },
+    {
+      "kanji": "\u9928",
+      "meanings": [
+        "Public Building"
+      ],
+      "readings": [
+        "\u304b\u3093"
+      ]
+    },
+    {
+      "kanji": "\u99c5",
+      "meanings": [
+        "Station",
+        "Train Station"
+      ],
+      "readings": [
+        "\u3048\u304d"
+      ]
+    },
+    {
+      "kanji": "\u5104",
+      "meanings": [
+        "Hundred Million"
+      ],
+      "readings": [
+        "\u304a\u304f"
+      ]
+    },
+    {
+      "kanji": "\u5668",
+      "meanings": [
+        "Container",
+        "Vessel",
+        "Tool"
+      ],
+      "readings": [
+        "\u304d",
+        "\u3046\u3064\u308f"
+      ]
+    },
+    {
+      "kanji": "\u58eb",
+      "meanings": [
+        "Samurai"
+      ],
+      "readings": [
+        "\u3057",
+        "\u3055\u3080\u3089\u3044"
+      ]
+    },
+    {
+      "kanji": "\u6599",
+      "meanings": [
+        "Fee",
+        "Material"
+      ],
+      "readings": [
+        "\u308a\u3087\u3046"
+      ]
+    },
+    {
+      "kanji": "\u6a19",
+      "meanings": [
+        "Signpost"
+      ],
+      "readings": [
+        "\u3072\u3087\u3046",
+        "\u3057\u308b\u3057"
+      ]
+    },
+    {
+      "kanji": "\u6bba",
+      "meanings": [
+        "Kill"
+      ],
+      "readings": [
+        "\u3055\u3064",
+        "\u3053\u308d",
+        "\u3055\u3044"
+      ]
+    },
+    {
+      "kanji": "\u7136",
+      "meanings": [
+        "Nature"
+      ],
+      "readings": [
+        "\u305c\u3093",
+        "\u306d\u3093",
+        "\u3057\u304b",
         "\u3055"
       ]
     },
     {
-      "kanji": "\u6d0b",
+      "kanji": "\u71b1",
       "meanings": [
-        "Western Style",
-        "Ocean"
+        "Heat",
+        "Fever"
+      ],
+      "readings": [
+        "\u306d\u3064",
+        "\u3042\u3064"
+      ]
+    },
+    {
+      "kanji": "\u8ab2",
+      "meanings": [
+        "Section"
+      ],
+      "readings": [
+        "\u304b"
+      ]
+    },
+    {
+      "kanji": "\u8cde",
+      "meanings": [
+        "Prize"
+      ],
+      "readings": [
+        "\u3057\u3087\u3046"
+      ]
+    },
+    {
+      "kanji": "\u8f2a",
+      "meanings": [
+        "Wheel",
+        "Ring",
+        "Loop",
+        "Circle"
+      ],
+      "readings": [
+        "\u308a\u3093",
+        "\u308f"
+      ]
+    },
+    {
+      "kanji": "\u9078",
+      "meanings": [
+        "Choose"
+      ],
+      "readings": [
+        "\u305b\u3093",
+        "\u3048\u3089"
+      ]
+    },
+    {
+      "kanji": "\u93e1",
+      "meanings": [
+        "Mirror"
+      ],
+      "readings": [
+        "\u304d\u3087\u3046",
+        "\u304b\u304c\u307f"
+      ]
+    },
+    {
+      "kanji": "\u9858",
+      "meanings": [
+        "Request"
+      ],
+      "readings": [
+        "\u304c\u3093",
+        "\u306d\u304c",
+        "\u306d\u304c\u3044"
+      ]
+    },
+    {
+      "kanji": "\u990a",
+      "meanings": [
+        "Foster"
+      ],
+      "readings": [
+        "\u3088\u3046",
+        "\u3084\u3057\u306a"
+      ]
+    },
+    {
+      "kanji": "\u50cf",
+      "meanings": [
+        "Statue",
+        "Image"
+      ],
+      "readings": [
+        "\u305e\u3046"
+      ]
+    },
+    {
+      "kanji": "\u60c5",
+      "meanings": [
+        "Feeling",
+        "Emotion"
+      ],
+      "readings": [
+        "\u3058\u3087\u3046",
+        "\u306a\u3055\u3051"
+      ]
+    },
+    {
+      "kanji": "\u8b1d",
+      "meanings": [
+        "Apologize"
+      ],
+      "readings": [
+        "\u3057\u3083",
+        "\u3042\u3084\u307e"
+      ]
+    },
+    {
+      "kanji": "\u6620",
+      "meanings": [
+        "Reflect",
+        "Reflection"
+      ],
+      "readings": [
+        "\u3048\u3044",
+        "\u3046\u3064",
+        "\u306f"
+      ]
+    },
+    {
+      "kanji": "\u7591",
+      "meanings": [
+        "Doubt"
+      ],
+      "readings": [
+        "\u304e",
+        "\u3046\u305f\u304c"
+      ]
+    },
+    {
+      "kanji": "\u7686",
+      "meanings": [
+        "All",
+        "Everyone",
+        "Everything",
+        "Everybody"
+      ],
+      "readings": [
+        "\u304b\u3044",
+        "\u307f\u306a",
+        "\u307f\u3093\u306a"
+      ]
+    }
+  ]},
+  {"14": [
+    {
+      "kanji": "\u4f8b",
+      "meanings": [
+        "Example"
+      ],
+      "readings": [
+        "\u308c\u3044",
+        "\u305f\u3068"
+      ]
+    },
+    {
+      "kanji": "\u5352",
+      "meanings": [
+        "Graduate"
+      ],
+      "readings": [
+        "\u305d\u3064"
+      ]
+    },
+    {
+      "kanji": "\u5354",
+      "meanings": [
+        "Cooperation"
+      ],
+      "readings": [
+        "\u304d\u3087\u3046"
+      ]
+    },
+    {
+      "kanji": "\u53c2",
+      "meanings": [
+        "Participate"
+      ],
+      "readings": [
+        "\u3055\u3093",
+        "\u3057\u3093",
+        "\u307e\u3044"
+      ]
+    },
+    {
+      "kanji": "\u5468",
+      "meanings": [
+        "Circumference"
+      ],
+      "readings": [
+        "\u3057\u3085\u3046",
+        "\u307e\u308f"
+      ]
+    },
+    {
+      "kanji": "\u56f2",
+      "meanings": [
+        "Surround"
+      ],
+      "readings": [
+        "\u3044",
+        "\u304b\u3053"
+      ]
+    },
+    {
+      "kanji": "\u56fa",
+      "meanings": [
+        "Hard"
+      ],
+      "readings": [
+        "\u3053",
+        "\u304b\u305f"
+      ]
+    },
+    {
+      "kanji": "\u5b63",
+      "meanings": [
+        "Seasons"
+      ],
+      "readings": [
+        "\u304d"
+      ]
+    },
+    {
+      "kanji": "\u5b8c",
+      "meanings": [
+        "Perfect"
+      ],
+      "readings": [
+        "\u304b\u3093"
+      ]
+    },
+    {
+      "kanji": "\u5e0c",
+      "meanings": [
+        "Wish"
+      ],
+      "readings": [
+        "\u304d",
+        "\u307e\u308c"
+      ]
+    },
+    {
+      "kanji": "\u5ff5",
+      "meanings": [
+        "Thought"
+      ],
+      "readings": [
+        "\u306d\u3093"
+      ]
+    },
+    {
+      "kanji": "\u6298",
+      "meanings": [
+        "Fold",
+        "Bend",
+        "Break"
+      ],
+      "readings": [
+        "\u305b\u3064",
+        "\u304a",
+        "\u304a\u308a"
+      ]
+    },
+    {
+      "kanji": "\u671b",
+      "meanings": [
+        "Hope"
+      ],
+      "readings": [
+        "\u307c\u3046",
+        "\u306e\u305e"
+      ]
+    },
+    {
+      "kanji": "\u6750",
+      "meanings": [
+        "Lumber",
+        "Material",
+        "Timber"
+      ],
+      "readings": [
+        "\u3056\u3044"
+      ]
+    },
+    {
+      "kanji": "\u675f",
+      "meanings": [
+        "Bundle"
+      ],
+      "readings": [
+        "\u305d\u304f",
+        "\u305f\u3070"
+      ]
+    },
+    {
+      "kanji": "\u677e",
+      "meanings": [
+        "Pine",
+        "Pine Tree"
+      ],
+      "readings": [
+        "\u3057\u3087\u3046",
+        "\u307e\u3064"
+      ]
+    },
+    {
+      "kanji": "\u6b8b",
+      "meanings": [
+        "Remainder"
+      ],
+      "readings": [
+        "\u3056\u3093",
+        "\u306e\u3053"
+      ]
+    },
+    {
+      "kanji": "\u7684",
+      "meanings": [
+        "Target",
+        "Al",
+        "~Al",
+        "Like",
+        "~Like"
+      ],
+      "readings": [
+        "\u3066\u304d",
+        "\u307e\u3068"
+      ]
+    },
+    {
+      "kanji": "\u7d04",
+      "meanings": [
+        "Promise"
+      ],
+      "readings": [
+        "\u3084\u304f"
+      ]
+    },
+    {
+      "kanji": "\u82b8",
+      "meanings": [
+        "Acting",
+        "Art"
+      ],
+      "readings": [
+        "\u3052\u3044"
+      ]
+    },
+    {
+      "kanji": "\u57fa",
+      "meanings": [
+        "Foundation"
+      ],
+      "readings": [
+        "\u304d",
+        "\u3082\u3068"
+      ]
+    },
+    {
+      "kanji": "\u6027",
+      "meanings": [
+        "Gender",
+        "Nature",
+        "Sex"
+      ],
+      "readings": [
+        "\u305b\u3044",
+        "\u3057\u3087\u3046"
+      ]
+    },
+    {
+      "kanji": "\u6280",
+      "meanings": [
+        "Skill"
+      ],
+      "readings": [
+        "\u304e",
+        "\u308f\u3056"
+      ]
+    },
+    {
+      "kanji": "\u683c",
+      "meanings": [
+        "Status"
+      ],
+      "readings": [
+        "\u304b\u304f"
+      ]
+    },
+    {
+      "kanji": "\u80fd",
+      "meanings": [
+        "Ability"
+      ],
+      "readings": [
+        "\u306e\u3046"
+      ]
+    },
+    {
+      "kanji": "\u8853",
+      "meanings": [
+        "Art",
+        "Technique"
+      ],
+      "readings": [
+        "\u3058\u3085\u3064"
+      ]
+    },
+    {
+      "kanji": "\u9aa8",
+      "meanings": [
+        "Bone"
+      ],
+      "readings": [
+        "\u3053\u3064",
+        "\u307b\u306d"
+      ]
+    },
+    {
+      "kanji": "\u59a5",
+      "meanings": [
+        "Gentle"
+      ],
+      "readings": [
+        "\u3060"
+      ]
+    },
+    {
+      "kanji": "\u96f0",
+      "meanings": [
+        "Atmosphere"
+      ],
+      "readings": [
+        "\u3075\u3093"
+      ]
+    },
+    {
+      "kanji": "\u9811",
+      "meanings": [
+        "Stubborn"
+      ],
+      "readings": [
+        "\u304c\u3093"
+      ]
+    },
+    {
+      "kanji": "\u82fa",
+      "meanings": [
+        "Strawberry"
+      ],
+      "readings": [
+        "\u3044\u3061\u3054"
+      ]
+    },
+    {
+      "kanji": "\u72fc",
+      "meanings": [
+        "Wolf"
+      ],
+      "readings": [
+        "\u304a\u304a\u304b\u307f",
+        "\u308d\u3046"
+      ]
+    }
+  ]},
+  {"15": [
+    {
+      "kanji": "\u5bfa",
+      "meanings": [
+        "Temple"
+      ],
+      "readings": [
+        "\u3058",
+        "\u3066\u3089"
+      ]
+    },
+    {
+      "kanji": "\u5ca9",
+      "meanings": [
+        "Boulder"
+      ],
+      "readings": [
+        "\u304c\u3093",
+        "\u3044\u308f"
+      ]
+    },
+    {
+      "kanji": "\u5e30",
+      "meanings": [
+        "Return",
+        "Return Home"
+      ],
+      "readings": [
+        "\u304d",
+        "\u304b\u3048"
+      ]
+    },
+    {
+      "kanji": "\u6625",
+      "meanings": [
+        "Spring"
+      ],
+      "readings": [
+        "\u3057\u3085\u3093",
+        "\u306f\u308b"
+      ]
+    },
+    {
+      "kanji": "\u663c",
+      "meanings": [
+        "Noon"
+      ],
+      "readings": [
+        "\u3061\u3085\u3046",
+        "\u3072\u308b"
+      ]
+    },
+    {
+      "kanji": "\u6674",
+      "meanings": [
+        "Clear Up"
+      ],
+      "readings": [
+        "\u305b\u3044",
+        "\u306f"
+      ]
+    },
+    {
+      "kanji": "\u79cb",
+      "meanings": [
+        "Autumn",
+        "Fall"
+      ],
+      "readings": [
+        "\u3042\u304d",
+        "\u3057\u3085\u3046"
+      ]
+    },
+    {
+      "kanji": "\u8a08",
+      "meanings": [
+        "Measure",
+        "Measurement"
+      ],
+      "readings": [
+        "\u3051\u3044",
+        "\u306f\u304b"
+      ]
+    },
+    {
+      "kanji": "\u5217",
+      "meanings": [
+        "Row"
+      ],
+      "readings": [
+        "\u308c\u3064"
+      ]
+    },
+    {
+      "kanji": "\u533a",
+      "meanings": [
+        "District",
+        "Ward"
+      ],
+      "readings": [
+        "\u304f"
+      ]
+    },
+    {
+      "kanji": "\u5742",
+      "meanings": [
+        "Slope"
+      ],
+      "readings": [
+        "\u306f\u3093",
+        "\u3055\u304b"
+      ]
+    },
+    {
+      "kanji": "\u5f0f",
+      "meanings": [
+        "Ritual",
+        "Ceremony",
+        "Equation"
+      ],
+      "readings": [
+        "\u3057\u304d"
+      ]
+    },
+    {
+      "kanji": "\u4fe1",
+      "meanings": [
+        "Believe",
+        "Trust"
+      ],
+      "readings": [
+        "\u3057\u3093"
+      ]
+    },
+    {
+      "kanji": "\u52c7",
+      "meanings": [
+        "Courage",
+        "Bravery",
+        "Valor",
+        "Valour"
+      ],
+      "readings": [
+        "\u3086\u3046",
+        "\u3044\u3055"
+      ]
+    },
+    {
+      "kanji": "\u5358",
+      "meanings": [
+        "Simple"
+      ],
+      "readings": [
+        "\u305f\u3093"
+      ]
+    },
+    {
+      "kanji": "\u53f8",
+      "meanings": [
+        "Director"
+      ],
+      "readings": [
+        "\u3057",
+        "\u3064\u304b\u3055\u3069"
+      ]
+    },
+    {
+      "kanji": "\u5909",
+      "meanings": [
+        "Change",
+        "Strange"
+      ],
+      "readings": [
+        "\u3078\u3093",
+        "\u304b"
+      ]
+    },
+    {
+      "kanji": "\u592b",
+      "meanings": [
+        "Husband"
+      ],
+      "readings": [
+        "\u3075\u3046",
+        "\u3075",
+        "\u304a\u3063\u3068"
+      ]
+    },
+    {
+      "kanji": "\u5efa",
+      "meanings": [
+        "Build",
+        "Construct"
+      ],
+      "readings": [
+        "\u3051\u3093",
+        "\u305f"
+      ]
+    },
+    {
+      "kanji": "\u6628",
+      "meanings": [
+        "Previous",
+        "Yesterday"
+      ],
+      "readings": [
+        "\u3055\u304f"
+      ]
+    },
+    {
+      "kanji": "\u6bd2",
+      "meanings": [
+        "Poison"
+      ],
+      "readings": [
+        "\u3069\u304f"
+      ]
+    },
+    {
+      "kanji": "\u6cd5",
+      "meanings": [
+        "Method",
+        "Law"
+      ],
+      "readings": [
+        "\u307b\u3046"
+      ]
+    },
+    {
+      "kanji": "\u6ce3",
+      "meanings": [
+        "Cry"
+      ],
+      "readings": [
+        "\u304d\u3085\u3046",
+        "\u306a"
+      ]
+    },
+    {
+      "kanji": "\u6d45",
+      "meanings": [
+        "Shallow"
+      ],
+      "readings": [
+        "\u305b\u3093",
+        "\u3042\u3055"
+      ]
+    },
+    {
+      "kanji": "\u7d00",
+      "meanings": [
+        "Account",
+        "Narrative"
+      ],
+      "readings": [
+        "\u304d"
+      ]
+    },
+    {
+      "kanji": "\u82f1",
+      "meanings": [
+        "England",
+        "English"
+      ],
+      "readings": [
+        "\u3048\u3044"
+      ]
+    },
+    {
+      "kanji": "\u8ecd",
+      "meanings": [
+        "Army"
+      ],
+      "readings": [
+        "\u3050\u3093"
+      ]
+    },
+    {
+      "kanji": "\u98ef",
+      "meanings": [
+        "Meal",
+        "Food"
+      ],
+      "readings": [
+        "\u306f\u3093",
+        "\u3081\u3057"
+      ]
+    },
+    {
+      "kanji": "\u4ecf",
+      "meanings": [
+        "Buddha"
+      ],
+      "readings": [
+        "\u3076\u3064",
+        "\u307b\u3068\u3051"
+      ]
+    },
+    {
+      "kanji": "\u7bc9",
+      "meanings": [
+        "Construct",
+        "Build"
+      ],
+      "readings": [
+        "\u3061\u304f",
+        "\u304d\u305a"
+      ]
+    },
+    {
+      "kanji": "\u6669",
+      "meanings": [
+        "Night",
+        "Evening"
+      ],
+      "readings": [
+        "\u3070\u3093"
+      ]
+    },
+    {
+      "kanji": "\u732b",
+      "meanings": [
+        "Cat"
+      ],
+      "readings": [
+        "\u306d\u3053"
+      ]
+    },
+    {
+      "kanji": "\u5339",
+      "meanings": [
+        "Small Animal",
+        "Small Animal Counter"
+      ],
+      "readings": [
+        "\u3072\u304d",
+        "\u3072\u3064"
+      ]
+    },
+    {
+      "kanji": "\u4e08",
+      "meanings": [
+        "Height",
+        "Ten Feet"
+      ],
+      "readings": [
+        "\u3058\u3087\u3046",
+        "\u305f\u3051"
+      ]
+    }
+  ]},
+  {"16": [
+    {
+      "kanji": "\u5712",
+      "meanings": [
+        "Garden",
+        "Park"
+      ],
+      "readings": [
+        "\u3048\u3093",
+        "\u305d\u306e"
+      ]
+    },
+    {
+      "kanji": "\u66dc",
+      "meanings": [
+        "Weekday",
+        "Day Of The Week"
       ],
       "readings": [
         "\u3088\u3046"
       ]
     },
     {
-      "kanji": "\u795e",
+      "kanji": "\u66f8",
       "meanings": [
-        "God"
+        "Write",
+        "Writing"
+      ],
+      "readings": [
+        "\u3057\u3087",
+        "\u304b"
+      ]
+    },
+    {
+      "kanji": "\u9060",
+      "meanings": [
+        "Far"
+      ],
+      "readings": [
+        "\u3048\u3093",
+        "\u3068\u304a"
+      ]
+    },
+    {
+      "kanji": "\u9580",
+      "meanings": [
+        "Gates",
+        "Gate"
+      ],
+      "readings": [
+        "\u3082\u3093",
+        "\u3068",
+        "\u304b\u3069"
+      ]
+    },
+    {
+      "kanji": "\u4fc2",
+      "meanings": [
+        "Connection"
+      ],
+      "readings": [
+        "\u3051\u3044",
+        "\u304b\u304b",
+        "\u304b\u304b\u308a"
+      ]
+    },
+    {
+      "kanji": "\u53d6",
+      "meanings": [
+        "Take"
+      ],
+      "readings": [
+        "\u3057\u3085",
+        "\u3068"
+      ]
+    },
+    {
+      "kanji": "\u54c1",
+      "meanings": [
+        "Product",
+        "Article",
+        "Goods",
+        "Products"
+      ],
+      "readings": [
+        "\u3072\u3093",
+        "\u3057\u306a"
+      ]
+    },
+    {
+      "kanji": "\u5b88",
+      "meanings": [
+        "Protect"
+      ],
+      "readings": [
+        "\u3059",
+        "\u3057\u3085",
+        "\u307e\u3082",
+        "\u3082\u308a"
+      ]
+    },
+    {
+      "kanji": "\u5e78",
+      "meanings": [
+        "Happiness"
+      ],
+      "readings": [
+        "\u3053\u3046",
+        "\u3057\u3042\u308f",
+        "\u3055\u3044\u308f",
+        "\u3055\u3061"
+      ]
+    },
+    {
+      "kanji": "\u6025",
+      "meanings": [
+        "Hurry",
+        "Sudden"
+      ],
+      "readings": [
+        "\u304d\u3085\u3046",
+        "\u3044\u305d"
+      ]
+    },
+    {
+      "kanji": "\u771f",
+      "meanings": [
+        "Reality"
       ],
       "readings": [
         "\u3057\u3093",
-        "\u304b\u307f",
-        "\u3058\u3093"
+        "\u307e"
       ]
     },
     {
-      "kanji": "\u79d2",
+      "kanji": "\u7bb1",
       "meanings": [
-        "Second"
+        "Box"
       ],
       "readings": [
-        "\u3073\u3087\u3046"
+        "\u306f\u3053"
       ]
     },
     {
-      "kanji": "\u7d1a",
+      "kanji": "\u8377",
       "meanings": [
-        "Level",
-        "Grade",
-        "Rank"
+        "Luggage"
       ],
       "readings": [
-        "\u304d\u3085\u3046"
+        "\u304b",
+        "\u306b"
       ]
     },
     {
-      "kanji": "\u8ffd",
+      "kanji": "\u9762",
       "meanings": [
-        "Follow",
-        "Chase"
+        "Face",
+        "Surface"
       ],
       "readings": [
-        "\u3064\u3044",
-        "\u304a"
+        "\u3081\u3093",
+        "\u304a\u3082",
+        "\u304a\u3082\u3066"
       ]
     },
     {
-      "kanji": "\u6226",
+      "kanji": "\u5178",
       "meanings": [
-        "War",
-        "Battle"
+        "Rule"
+      ],
+      "readings": [
+        "\u3066\u3093"
+      ]
+    },
+    {
+      "kanji": "\u5e9c",
+      "meanings": [
+        "Government"
+      ],
+      "readings": [
+        "\u3075"
+      ]
+    },
+    {
+      "kanji": "\u6cbb",
+      "meanings": [
+        "Cure",
+        "Heal",
+        "Reign",
+        "Rule"
+      ],
+      "readings": [
+        "\u3058",
+        "\u3061",
+        "\u306a\u304a"
+      ]
+    },
+    {
+      "kanji": "\u6d74",
+      "meanings": [
+        "Bathe"
+      ],
+      "readings": [
+        "\u3088\u304f",
+        "\u3042"
+      ]
+    },
+    {
+      "kanji": "\u7b11",
+      "meanings": [
+        "Laugh"
+      ],
+      "readings": [
+        "\u3057\u3087\u3046",
+        "\u308f\u3089",
+        "\u3048"
+      ]
+    },
+    {
+      "kanji": "\u8f9e",
+      "meanings": [
+        "Quit",
+        "Word"
+      ],
+      "readings": [
+        "\u3058",
+        "\u3084"
+      ]
+    },
+    {
+      "kanji": "\u95a2",
+      "meanings": [
+        "Related",
+        "Connected"
+      ],
+      "readings": [
+        "\u304b\u3093",
+        "\u304b\u304b",
+        "\u305b\u304d"
+      ]
+    },
+    {
+      "kanji": "\u5f01",
+      "meanings": [
+        "Dialect",
+        "Speech"
+      ],
+      "readings": [
+        "\u3079\u3093"
+      ]
+    },
+    {
+      "kanji": "\u653f",
+      "meanings": [
+        "Politics",
+        "Government"
+      ],
+      "readings": [
+        "\u305b\u3044"
+      ]
+    },
+    {
+      "kanji": "\u7559",
+      "meanings": [
+        "Detain"
+      ],
+      "readings": [
+        "\u308b",
+        "\u308a\u3085\u3046",
+        "\u3068",
+        "\u3068\u3069"
+      ]
+    },
+    {
+      "kanji": "\u8a3c",
+      "meanings": [
+        "Evidence",
+        "Proof"
+      ],
+      "readings": [
+        "\u3057\u3087\u3046",
+        "\u3042\u304b\u3057"
+      ]
+    },
+    {
+      "kanji": "\u967a",
+      "meanings": [
+        "Risky",
+        "Steep"
+      ],
+      "readings": [
+        "\u3051\u3093",
+        "\u3051\u308f"
+      ]
+    },
+    {
+      "kanji": "\u5371",
+      "meanings": [
+        "Dangerous"
+      ],
+      "readings": [
+        "\u304d",
+        "\u3042\u3076",
+        "\u3042\u3084"
+      ]
+    },
+    {
+      "kanji": "\u5b58",
+      "meanings": [
+        "Exist",
+        "Suppose"
+      ],
+      "readings": [
+        "\u305d\u3093",
+        "\u305e\u3093"
+      ]
+    },
+    {
+      "kanji": "\u5c02",
+      "meanings": [
+        "Specialty"
       ],
       "readings": [
         "\u305b\u3093",
-        "\u305f\u305f\u304b",
-        "\u3044\u304f\u3055"
+        "\u3082\u3063\u3071"
       ]
     },
     {
-      "kanji": "\u7af6",
+      "kanji": "\u5192",
       "meanings": [
-        "Compete"
+        "Dare"
       ],
       "readings": [
-        "\u304d\u3087\u3046",
-        "\u304d\u305d",
-        "\u3051\u3044"
+        "\u307c\u3046",
+        "\u304a\u304b"
       ]
     },
     {
-      "kanji": "\u826f",
+      "kanji": "\u5197",
       "meanings": [
-        "Good"
+        "Superfluous",
+        "Unnecessary",
+        "Uselessness"
       ],
       "readings": [
-        "\u308a\u3087\u3046",
-        "\u3088",
-        "\u3044"
+        "\u3058\u3087\u3046"
       ]
     },
     {
-      "kanji": "\u529f",
+      "kanji": "\u962a",
       "meanings": [
-        "Achievement",
-        "Accomplishment"
+        "Heights",
+        "Slope"
       ],
       "readings": [
-        "\u3053\u3046"
-      ]
-    },
-    {
-      "kanji": "\u7279",
-      "meanings": [
-        "Special"
-      ],
-      "readings": [
-        "\u3068\u304f"
-      ]
-    },
-    {
-      "kanji": "\u4fbf",
-      "meanings": [
-        "Convenience",
-        "Convenient"
-      ],
-      "readings": [
-        "\u3079\u3093",
-        "\u3073\u3093",
-        "\u305f\u3088"
-      ]
-    },
-    {
-      "kanji": "\u50cd",
-      "meanings": [
-        "Work"
-      ],
-      "readings": [
-        "\u3069\u3046",
-        "\u306f\u305f\u3089"
-      ]
-    },
-    {
-      "kanji": "\u4ee4",
-      "meanings": [
-        "Orders"
-      ],
-      "readings": [
-        "\u308c\u3044"
-      ]
-    },
-    {
-      "kanji": "\u610f",
-      "meanings": [
-        "Idea"
-      ],
-      "readings": [
-        "\u3044"
-      ]
-    },
-    {
-      "kanji": "\u5473",
-      "meanings": [
-        "Flavor",
-        "Taste"
-      ],
-      "readings": [
-        "\u307f",
-        "\u3042\u3058"
+        "\u306f\u3093",
+        "\u3055\u304b"
       ]
     }
-  ],
-  "17": [
+  ]},
+  {"17": [
     {
       "kanji": "\u60b2",
       "meanings": [
@@ -5807,1430 +6501,8 @@
         "\u3052\u304d"
       ]
     }
-  ],
-  "13": [
-    {
-      "kanji": "\u554f",
-      "meanings": [
-        "Problem",
-        "Question"
-      ],
-      "readings": [
-        "\u3082\u3093",
-        "\u3068",
-        "\u3068\u3093"
-      ]
-    },
-    {
-      "kanji": "\u5bbf",
-      "meanings": [
-        "Lodge"
-      ],
-      "readings": [
-        "\u3057\u3085\u304f",
-        "\u3084\u3069"
-      ]
-    },
-    {
-      "kanji": "\u60f3",
-      "meanings": [
-        "Concept"
-      ],
-      "readings": [
-        "\u305d\u3046",
-        "\u304a\u3082",
-        "\u305d"
-      ]
-    },
-    {
-      "kanji": "\u611f",
-      "meanings": [
-        "Feeling"
-      ],
-      "readings": [
-        "\u304b\u3093"
-      ]
-    },
-    {
-      "kanji": "\u6574",
-      "meanings": [
-        "Arrange",
-        "Organize"
-      ],
-      "readings": [
-        "\u305b\u3044",
-        "\u3068\u3068\u306e"
-      ]
-    },
-    {
-      "kanji": "\u6697",
-      "meanings": [
-        "Dark"
-      ],
-      "readings": [
-        "\u3042\u3093",
-        "\u304f\u3089",
-        "\u304f\u308c"
-      ]
-    },
-    {
-      "kanji": "\u69d8",
-      "meanings": [
-        "Formal Name Title",
-        "Formal Name Ender",
-        "Manner"
-      ],
-      "readings": [
-        "\u3088\u3046",
-        "\u3055\u307e"
-      ]
-    },
-    {
-      "kanji": "\u6a4b",
-      "meanings": [
-        "Bridge"
-      ],
-      "readings": [
-        "\u304d\u3087\u3046",
-        "\u306f\u3057"
-      ]
-    },
-    {
-      "kanji": "\u798f",
-      "meanings": [
-        "Luck",
-        "Fortune"
-      ],
-      "readings": [
-        "\u3075\u304f"
-      ]
-    },
-    {
-      "kanji": "\u7dd1",
-      "meanings": [
-        "Green"
-      ],
-      "readings": [
-        "\u308a\u3087\u304f",
-        "\u307f\u3069\u308a"
-      ]
-    },
-    {
-      "kanji": "\u7df4",
-      "meanings": [
-        "Practice"
-      ],
-      "readings": [
-        "\u308c\u3093",
-        "\u306d"
-      ]
-    },
-    {
-      "kanji": "\u8a69",
-      "meanings": [
-        "Poem"
-      ],
-      "readings": [
-        "\u3057",
-        "\u3046\u305f"
-      ]
-    },
-    {
-      "kanji": "\u9280",
-      "meanings": [
-        "Silver"
-      ],
-      "readings": [
-        "\u304e\u3093"
-      ]
-    },
-    {
-      "kanji": "\u984c",
-      "meanings": [
-        "Topic"
-      ],
-      "readings": [
-        "\u3060\u3044"
-      ]
-    },
-    {
-      "kanji": "\u9928",
-      "meanings": [
-        "Public Building"
-      ],
-      "readings": [
-        "\u304b\u3093"
-      ]
-    },
-    {
-      "kanji": "\u99c5",
-      "meanings": [
-        "Station",
-        "Train Station"
-      ],
-      "readings": [
-        "\u3048\u304d"
-      ]
-    },
-    {
-      "kanji": "\u5104",
-      "meanings": [
-        "Hundred Million"
-      ],
-      "readings": [
-        "\u304a\u304f"
-      ]
-    },
-    {
-      "kanji": "\u5668",
-      "meanings": [
-        "Container",
-        "Vessel",
-        "Tool"
-      ],
-      "readings": [
-        "\u304d",
-        "\u3046\u3064\u308f"
-      ]
-    },
-    {
-      "kanji": "\u58eb",
-      "meanings": [
-        "Samurai"
-      ],
-      "readings": [
-        "\u3057",
-        "\u3055\u3080\u3089\u3044"
-      ]
-    },
-    {
-      "kanji": "\u6599",
-      "meanings": [
-        "Fee",
-        "Material"
-      ],
-      "readings": [
-        "\u308a\u3087\u3046"
-      ]
-    },
-    {
-      "kanji": "\u6a19",
-      "meanings": [
-        "Signpost"
-      ],
-      "readings": [
-        "\u3072\u3087\u3046",
-        "\u3057\u308b\u3057"
-      ]
-    },
-    {
-      "kanji": "\u6bba",
-      "meanings": [
-        "Kill"
-      ],
-      "readings": [
-        "\u3055\u3064",
-        "\u3053\u308d",
-        "\u3055\u3044"
-      ]
-    },
-    {
-      "kanji": "\u7136",
-      "meanings": [
-        "Nature"
-      ],
-      "readings": [
-        "\u305c\u3093",
-        "\u306d\u3093",
-        "\u3057\u304b",
-        "\u3055"
-      ]
-    },
-    {
-      "kanji": "\u71b1",
-      "meanings": [
-        "Heat",
-        "Fever"
-      ],
-      "readings": [
-        "\u306d\u3064",
-        "\u3042\u3064"
-      ]
-    },
-    {
-      "kanji": "\u8ab2",
-      "meanings": [
-        "Section"
-      ],
-      "readings": [
-        "\u304b"
-      ]
-    },
-    {
-      "kanji": "\u8cde",
-      "meanings": [
-        "Prize"
-      ],
-      "readings": [
-        "\u3057\u3087\u3046"
-      ]
-    },
-    {
-      "kanji": "\u8f2a",
-      "meanings": [
-        "Wheel",
-        "Ring",
-        "Loop",
-        "Circle"
-      ],
-      "readings": [
-        "\u308a\u3093",
-        "\u308f"
-      ]
-    },
-    {
-      "kanji": "\u9078",
-      "meanings": [
-        "Choose"
-      ],
-      "readings": [
-        "\u305b\u3093",
-        "\u3048\u3089"
-      ]
-    },
-    {
-      "kanji": "\u93e1",
-      "meanings": [
-        "Mirror"
-      ],
-      "readings": [
-        "\u304d\u3087\u3046",
-        "\u304b\u304c\u307f"
-      ]
-    },
-    {
-      "kanji": "\u9858",
-      "meanings": [
-        "Request"
-      ],
-      "readings": [
-        "\u304c\u3093",
-        "\u306d\u304c",
-        "\u306d\u304c\u3044"
-      ]
-    },
-    {
-      "kanji": "\u990a",
-      "meanings": [
-        "Foster"
-      ],
-      "readings": [
-        "\u3088\u3046",
-        "\u3084\u3057\u306a"
-      ]
-    },
-    {
-      "kanji": "\u50cf",
-      "meanings": [
-        "Statue",
-        "Image"
-      ],
-      "readings": [
-        "\u305e\u3046"
-      ]
-    },
-    {
-      "kanji": "\u60c5",
-      "meanings": [
-        "Feeling",
-        "Emotion"
-      ],
-      "readings": [
-        "\u3058\u3087\u3046",
-        "\u306a\u3055\u3051"
-      ]
-    },
-    {
-      "kanji": "\u8b1d",
-      "meanings": [
-        "Apologize"
-      ],
-      "readings": [
-        "\u3057\u3083",
-        "\u3042\u3084\u307e"
-      ]
-    },
-    {
-      "kanji": "\u6620",
-      "meanings": [
-        "Reflect",
-        "Reflection"
-      ],
-      "readings": [
-        "\u3048\u3044",
-        "\u3046\u3064",
-        "\u306f"
-      ]
-    },
-    {
-      "kanji": "\u7591",
-      "meanings": [
-        "Doubt"
-      ],
-      "readings": [
-        "\u304e",
-        "\u3046\u305f\u304c"
-      ]
-    },
-    {
-      "kanji": "\u7686",
-      "meanings": [
-        "All",
-        "Everyone",
-        "Everything",
-        "Everybody"
-      ],
-      "readings": [
-        "\u304b\u3044",
-        "\u307f\u306a",
-        "\u307f\u3093\u306a"
-      ]
-    }
-  ],
-  "14": [
-    {
-      "kanji": "\u4f8b",
-      "meanings": [
-        "Example"
-      ],
-      "readings": [
-        "\u308c\u3044",
-        "\u305f\u3068"
-      ]
-    },
-    {
-      "kanji": "\u5352",
-      "meanings": [
-        "Graduate"
-      ],
-      "readings": [
-        "\u305d\u3064"
-      ]
-    },
-    {
-      "kanji": "\u5354",
-      "meanings": [
-        "Cooperation"
-      ],
-      "readings": [
-        "\u304d\u3087\u3046"
-      ]
-    },
-    {
-      "kanji": "\u53c2",
-      "meanings": [
-        "Participate"
-      ],
-      "readings": [
-        "\u3055\u3093",
-        "\u3057\u3093",
-        "\u307e\u3044"
-      ]
-    },
-    {
-      "kanji": "\u5468",
-      "meanings": [
-        "Circumference"
-      ],
-      "readings": [
-        "\u3057\u3085\u3046",
-        "\u307e\u308f"
-      ]
-    },
-    {
-      "kanji": "\u56f2",
-      "meanings": [
-        "Surround"
-      ],
-      "readings": [
-        "\u3044",
-        "\u304b\u3053"
-      ]
-    },
-    {
-      "kanji": "\u56fa",
-      "meanings": [
-        "Hard"
-      ],
-      "readings": [
-        "\u3053",
-        "\u304b\u305f"
-      ]
-    },
-    {
-      "kanji": "\u5b63",
-      "meanings": [
-        "Seasons"
-      ],
-      "readings": [
-        "\u304d"
-      ]
-    },
-    {
-      "kanji": "\u5b8c",
-      "meanings": [
-        "Perfect"
-      ],
-      "readings": [
-        "\u304b\u3093"
-      ]
-    },
-    {
-      "kanji": "\u5e0c",
-      "meanings": [
-        "Wish"
-      ],
-      "readings": [
-        "\u304d",
-        "\u307e\u308c"
-      ]
-    },
-    {
-      "kanji": "\u5ff5",
-      "meanings": [
-        "Thought"
-      ],
-      "readings": [
-        "\u306d\u3093"
-      ]
-    },
-    {
-      "kanji": "\u6298",
-      "meanings": [
-        "Fold",
-        "Bend",
-        "Break"
-      ],
-      "readings": [
-        "\u305b\u3064",
-        "\u304a",
-        "\u304a\u308a"
-      ]
-    },
-    {
-      "kanji": "\u671b",
-      "meanings": [
-        "Hope"
-      ],
-      "readings": [
-        "\u307c\u3046",
-        "\u306e\u305e"
-      ]
-    },
-    {
-      "kanji": "\u6750",
-      "meanings": [
-        "Lumber",
-        "Material",
-        "Timber"
-      ],
-      "readings": [
-        "\u3056\u3044"
-      ]
-    },
-    {
-      "kanji": "\u675f",
-      "meanings": [
-        "Bundle"
-      ],
-      "readings": [
-        "\u305d\u304f",
-        "\u305f\u3070"
-      ]
-    },
-    {
-      "kanji": "\u677e",
-      "meanings": [
-        "Pine",
-        "Pine Tree"
-      ],
-      "readings": [
-        "\u3057\u3087\u3046",
-        "\u307e\u3064"
-      ]
-    },
-    {
-      "kanji": "\u6b8b",
-      "meanings": [
-        "Remainder"
-      ],
-      "readings": [
-        "\u3056\u3093",
-        "\u306e\u3053"
-      ]
-    },
-    {
-      "kanji": "\u7684",
-      "meanings": [
-        "Target",
-        "Al",
-        "~Al",
-        "Like",
-        "~Like"
-      ],
-      "readings": [
-        "\u3066\u304d",
-        "\u307e\u3068"
-      ]
-    },
-    {
-      "kanji": "\u7d04",
-      "meanings": [
-        "Promise"
-      ],
-      "readings": [
-        "\u3084\u304f"
-      ]
-    },
-    {
-      "kanji": "\u82b8",
-      "meanings": [
-        "Acting",
-        "Art"
-      ],
-      "readings": [
-        "\u3052\u3044"
-      ]
-    },
-    {
-      "kanji": "\u57fa",
-      "meanings": [
-        "Foundation"
-      ],
-      "readings": [
-        "\u304d",
-        "\u3082\u3068"
-      ]
-    },
-    {
-      "kanji": "\u6027",
-      "meanings": [
-        "Gender",
-        "Nature",
-        "Sex"
-      ],
-      "readings": [
-        "\u305b\u3044",
-        "\u3057\u3087\u3046"
-      ]
-    },
-    {
-      "kanji": "\u6280",
-      "meanings": [
-        "Skill"
-      ],
-      "readings": [
-        "\u304e",
-        "\u308f\u3056"
-      ]
-    },
-    {
-      "kanji": "\u683c",
-      "meanings": [
-        "Status"
-      ],
-      "readings": [
-        "\u304b\u304f"
-      ]
-    },
-    {
-      "kanji": "\u80fd",
-      "meanings": [
-        "Ability"
-      ],
-      "readings": [
-        "\u306e\u3046"
-      ]
-    },
-    {
-      "kanji": "\u8853",
-      "meanings": [
-        "Art",
-        "Technique"
-      ],
-      "readings": [
-        "\u3058\u3085\u3064"
-      ]
-    },
-    {
-      "kanji": "\u9aa8",
-      "meanings": [
-        "Bone"
-      ],
-      "readings": [
-        "\u3053\u3064",
-        "\u307b\u306d"
-      ]
-    },
-    {
-      "kanji": "\u59a5",
-      "meanings": [
-        "Gentle"
-      ],
-      "readings": [
-        "\u3060"
-      ]
-    },
-    {
-      "kanji": "\u96f0",
-      "meanings": [
-        "Atmosphere"
-      ],
-      "readings": [
-        "\u3075\u3093"
-      ]
-    },
-    {
-      "kanji": "\u9811",
-      "meanings": [
-        "Stubborn"
-      ],
-      "readings": [
-        "\u304c\u3093"
-      ]
-    },
-    {
-      "kanji": "\u82fa",
-      "meanings": [
-        "Strawberry"
-      ],
-      "readings": [
-        "\u3044\u3061\u3054"
-      ]
-    },
-    {
-      "kanji": "\u72fc",
-      "meanings": [
-        "Wolf"
-      ],
-      "readings": [
-        "\u304a\u304a\u304b\u307f",
-        "\u308d\u3046"
-      ]
-    }
-  ],
-  "15": [
-    {
-      "kanji": "\u5bfa",
-      "meanings": [
-        "Temple"
-      ],
-      "readings": [
-        "\u3058",
-        "\u3066\u3089"
-      ]
-    },
-    {
-      "kanji": "\u5ca9",
-      "meanings": [
-        "Boulder"
-      ],
-      "readings": [
-        "\u304c\u3093",
-        "\u3044\u308f"
-      ]
-    },
-    {
-      "kanji": "\u5e30",
-      "meanings": [
-        "Return",
-        "Return Home"
-      ],
-      "readings": [
-        "\u304d",
-        "\u304b\u3048"
-      ]
-    },
-    {
-      "kanji": "\u6625",
-      "meanings": [
-        "Spring"
-      ],
-      "readings": [
-        "\u3057\u3085\u3093",
-        "\u306f\u308b"
-      ]
-    },
-    {
-      "kanji": "\u663c",
-      "meanings": [
-        "Noon"
-      ],
-      "readings": [
-        "\u3061\u3085\u3046",
-        "\u3072\u308b"
-      ]
-    },
-    {
-      "kanji": "\u6674",
-      "meanings": [
-        "Clear Up"
-      ],
-      "readings": [
-        "\u305b\u3044",
-        "\u306f"
-      ]
-    },
-    {
-      "kanji": "\u79cb",
-      "meanings": [
-        "Autumn",
-        "Fall"
-      ],
-      "readings": [
-        "\u3042\u304d",
-        "\u3057\u3085\u3046"
-      ]
-    },
-    {
-      "kanji": "\u8a08",
-      "meanings": [
-        "Measure",
-        "Measurement"
-      ],
-      "readings": [
-        "\u3051\u3044",
-        "\u306f\u304b"
-      ]
-    },
-    {
-      "kanji": "\u5217",
-      "meanings": [
-        "Row"
-      ],
-      "readings": [
-        "\u308c\u3064"
-      ]
-    },
-    {
-      "kanji": "\u533a",
-      "meanings": [
-        "District",
-        "Ward"
-      ],
-      "readings": [
-        "\u304f"
-      ]
-    },
-    {
-      "kanji": "\u5742",
-      "meanings": [
-        "Slope"
-      ],
-      "readings": [
-        "\u306f\u3093",
-        "\u3055\u304b"
-      ]
-    },
-    {
-      "kanji": "\u5f0f",
-      "meanings": [
-        "Ritual",
-        "Ceremony",
-        "Equation"
-      ],
-      "readings": [
-        "\u3057\u304d"
-      ]
-    },
-    {
-      "kanji": "\u4fe1",
-      "meanings": [
-        "Believe",
-        "Trust"
-      ],
-      "readings": [
-        "\u3057\u3093"
-      ]
-    },
-    {
-      "kanji": "\u52c7",
-      "meanings": [
-        "Courage",
-        "Bravery",
-        "Valor",
-        "Valour"
-      ],
-      "readings": [
-        "\u3086\u3046",
-        "\u3044\u3055"
-      ]
-    },
-    {
-      "kanji": "\u5358",
-      "meanings": [
-        "Simple"
-      ],
-      "readings": [
-        "\u305f\u3093"
-      ]
-    },
-    {
-      "kanji": "\u53f8",
-      "meanings": [
-        "Director"
-      ],
-      "readings": [
-        "\u3057",
-        "\u3064\u304b\u3055\u3069"
-      ]
-    },
-    {
-      "kanji": "\u5909",
-      "meanings": [
-        "Change",
-        "Strange"
-      ],
-      "readings": [
-        "\u3078\u3093",
-        "\u304b"
-      ]
-    },
-    {
-      "kanji": "\u592b",
-      "meanings": [
-        "Husband"
-      ],
-      "readings": [
-        "\u3075\u3046",
-        "\u3075",
-        "\u304a\u3063\u3068"
-      ]
-    },
-    {
-      "kanji": "\u5efa",
-      "meanings": [
-        "Build",
-        "Construct"
-      ],
-      "readings": [
-        "\u3051\u3093",
-        "\u305f"
-      ]
-    },
-    {
-      "kanji": "\u6628",
-      "meanings": [
-        "Previous",
-        "Yesterday"
-      ],
-      "readings": [
-        "\u3055\u304f"
-      ]
-    },
-    {
-      "kanji": "\u6bd2",
-      "meanings": [
-        "Poison"
-      ],
-      "readings": [
-        "\u3069\u304f"
-      ]
-    },
-    {
-      "kanji": "\u6cd5",
-      "meanings": [
-        "Method",
-        "Law"
-      ],
-      "readings": [
-        "\u307b\u3046"
-      ]
-    },
-    {
-      "kanji": "\u6ce3",
-      "meanings": [
-        "Cry"
-      ],
-      "readings": [
-        "\u304d\u3085\u3046",
-        "\u306a"
-      ]
-    },
-    {
-      "kanji": "\u6d45",
-      "meanings": [
-        "Shallow"
-      ],
-      "readings": [
-        "\u305b\u3093",
-        "\u3042\u3055"
-      ]
-    },
-    {
-      "kanji": "\u7d00",
-      "meanings": [
-        "Account",
-        "Narrative"
-      ],
-      "readings": [
-        "\u304d"
-      ]
-    },
-    {
-      "kanji": "\u82f1",
-      "meanings": [
-        "England",
-        "English"
-      ],
-      "readings": [
-        "\u3048\u3044"
-      ]
-    },
-    {
-      "kanji": "\u8ecd",
-      "meanings": [
-        "Army"
-      ],
-      "readings": [
-        "\u3050\u3093"
-      ]
-    },
-    {
-      "kanji": "\u98ef",
-      "meanings": [
-        "Meal",
-        "Food"
-      ],
-      "readings": [
-        "\u306f\u3093",
-        "\u3081\u3057"
-      ]
-    },
-    {
-      "kanji": "\u4ecf",
-      "meanings": [
-        "Buddha"
-      ],
-      "readings": [
-        "\u3076\u3064",
-        "\u307b\u3068\u3051"
-      ]
-    },
-    {
-      "kanji": "\u7bc9",
-      "meanings": [
-        "Construct",
-        "Build"
-      ],
-      "readings": [
-        "\u3061\u304f",
-        "\u304d\u305a"
-      ]
-    },
-    {
-      "kanji": "\u6669",
-      "meanings": [
-        "Night",
-        "Evening"
-      ],
-      "readings": [
-        "\u3070\u3093"
-      ]
-    },
-    {
-      "kanji": "\u732b",
-      "meanings": [
-        "Cat"
-      ],
-      "readings": [
-        "\u306d\u3053"
-      ]
-    },
-    {
-      "kanji": "\u5339",
-      "meanings": [
-        "Small Animal",
-        "Small Animal Counter"
-      ],
-      "readings": [
-        "\u3072\u304d",
-        "\u3072\u3064"
-      ]
-    },
-    {
-      "kanji": "\u4e08",
-      "meanings": [
-        "Height",
-        "Ten Feet"
-      ],
-      "readings": [
-        "\u3058\u3087\u3046",
-        "\u305f\u3051"
-      ]
-    }
-  ],
-  "16": [
-    {
-      "kanji": "\u5712",
-      "meanings": [
-        "Garden",
-        "Park"
-      ],
-      "readings": [
-        "\u3048\u3093",
-        "\u305d\u306e"
-      ]
-    },
-    {
-      "kanji": "\u66dc",
-      "meanings": [
-        "Weekday",
-        "Day Of The Week"
-      ],
-      "readings": [
-        "\u3088\u3046"
-      ]
-    },
-    {
-      "kanji": "\u66f8",
-      "meanings": [
-        "Write",
-        "Writing"
-      ],
-      "readings": [
-        "\u3057\u3087",
-        "\u304b"
-      ]
-    },
-    {
-      "kanji": "\u9060",
-      "meanings": [
-        "Far"
-      ],
-      "readings": [
-        "\u3048\u3093",
-        "\u3068\u304a"
-      ]
-    },
-    {
-      "kanji": "\u9580",
-      "meanings": [
-        "Gates",
-        "Gate"
-      ],
-      "readings": [
-        "\u3082\u3093",
-        "\u3068",
-        "\u304b\u3069"
-      ]
-    },
-    {
-      "kanji": "\u4fc2",
-      "meanings": [
-        "Connection"
-      ],
-      "readings": [
-        "\u3051\u3044",
-        "\u304b\u304b",
-        "\u304b\u304b\u308a"
-      ]
-    },
-    {
-      "kanji": "\u53d6",
-      "meanings": [
-        "Take"
-      ],
-      "readings": [
-        "\u3057\u3085",
-        "\u3068"
-      ]
-    },
-    {
-      "kanji": "\u54c1",
-      "meanings": [
-        "Product",
-        "Article",
-        "Goods",
-        "Products"
-      ],
-      "readings": [
-        "\u3072\u3093",
-        "\u3057\u306a"
-      ]
-    },
-    {
-      "kanji": "\u5b88",
-      "meanings": [
-        "Protect"
-      ],
-      "readings": [
-        "\u3059",
-        "\u3057\u3085",
-        "\u307e\u3082",
-        "\u3082\u308a"
-      ]
-    },
-    {
-      "kanji": "\u5e78",
-      "meanings": [
-        "Happiness"
-      ],
-      "readings": [
-        "\u3053\u3046",
-        "\u3057\u3042\u308f",
-        "\u3055\u3044\u308f",
-        "\u3055\u3061"
-      ]
-    },
-    {
-      "kanji": "\u6025",
-      "meanings": [
-        "Hurry",
-        "Sudden"
-      ],
-      "readings": [
-        "\u304d\u3085\u3046",
-        "\u3044\u305d"
-      ]
-    },
-    {
-      "kanji": "\u771f",
-      "meanings": [
-        "Reality"
-      ],
-      "readings": [
-        "\u3057\u3093",
-        "\u307e"
-      ]
-    },
-    {
-      "kanji": "\u7bb1",
-      "meanings": [
-        "Box"
-      ],
-      "readings": [
-        "\u306f\u3053"
-      ]
-    },
-    {
-      "kanji": "\u8377",
-      "meanings": [
-        "Luggage"
-      ],
-      "readings": [
-        "\u304b",
-        "\u306b"
-      ]
-    },
-    {
-      "kanji": "\u9762",
-      "meanings": [
-        "Face",
-        "Surface"
-      ],
-      "readings": [
-        "\u3081\u3093",
-        "\u304a\u3082",
-        "\u304a\u3082\u3066"
-      ]
-    },
-    {
-      "kanji": "\u5178",
-      "meanings": [
-        "Rule"
-      ],
-      "readings": [
-        "\u3066\u3093"
-      ]
-    },
-    {
-      "kanji": "\u5e9c",
-      "meanings": [
-        "Government"
-      ],
-      "readings": [
-        "\u3075"
-      ]
-    },
-    {
-      "kanji": "\u6cbb",
-      "meanings": [
-        "Cure",
-        "Heal",
-        "Reign",
-        "Rule"
-      ],
-      "readings": [
-        "\u3058",
-        "\u3061",
-        "\u306a\u304a"
-      ]
-    },
-    {
-      "kanji": "\u6d74",
-      "meanings": [
-        "Bathe"
-      ],
-      "readings": [
-        "\u3088\u304f",
-        "\u3042"
-      ]
-    },
-    {
-      "kanji": "\u7b11",
-      "meanings": [
-        "Laugh"
-      ],
-      "readings": [
-        "\u3057\u3087\u3046",
-        "\u308f\u3089",
-        "\u3048"
-      ]
-    },
-    {
-      "kanji": "\u8f9e",
-      "meanings": [
-        "Quit",
-        "Word"
-      ],
-      "readings": [
-        "\u3058",
-        "\u3084"
-      ]
-    },
-    {
-      "kanji": "\u95a2",
-      "meanings": [
-        "Related",
-        "Connected"
-      ],
-      "readings": [
-        "\u304b\u3093",
-        "\u304b\u304b",
-        "\u305b\u304d"
-      ]
-    },
-    {
-      "kanji": "\u5f01",
-      "meanings": [
-        "Dialect",
-        "Speech"
-      ],
-      "readings": [
-        "\u3079\u3093"
-      ]
-    },
-    {
-      "kanji": "\u653f",
-      "meanings": [
-        "Politics",
-        "Government"
-      ],
-      "readings": [
-        "\u305b\u3044"
-      ]
-    },
-    {
-      "kanji": "\u7559",
-      "meanings": [
-        "Detain"
-      ],
-      "readings": [
-        "\u308b",
-        "\u308a\u3085\u3046",
-        "\u3068",
-        "\u3068\u3069"
-      ]
-    },
-    {
-      "kanji": "\u8a3c",
-      "meanings": [
-        "Evidence",
-        "Proof"
-      ],
-      "readings": [
-        "\u3057\u3087\u3046",
-        "\u3042\u304b\u3057"
-      ]
-    },
-    {
-      "kanji": "\u967a",
-      "meanings": [
-        "Risky",
-        "Steep"
-      ],
-      "readings": [
-        "\u3051\u3093",
-        "\u3051\u308f"
-      ]
-    },
-    {
-      "kanji": "\u5371",
-      "meanings": [
-        "Dangerous"
-      ],
-      "readings": [
-        "\u304d",
-        "\u3042\u3076",
-        "\u3042\u3084"
-      ]
-    },
-    {
-      "kanji": "\u5b58",
-      "meanings": [
-        "Exist",
-        "Suppose"
-      ],
-      "readings": [
-        "\u305d\u3093",
-        "\u305e\u3093"
-      ]
-    },
-    {
-      "kanji": "\u5c02",
-      "meanings": [
-        "Specialty"
-      ],
-      "readings": [
-        "\u305b\u3093",
-        "\u3082\u3063\u3071"
-      ]
-    },
-    {
-      "kanji": "\u5192",
-      "meanings": [
-        "Dare"
-      ],
-      "readings": [
-        "\u307c\u3046",
-        "\u304a\u304b"
-      ]
-    },
-    {
-      "kanji": "\u5197",
-      "meanings": [
-        "Superfluous",
-        "Unnecessary",
-        "Uselessness"
-      ],
-      "readings": [
-        "\u3058\u3087\u3046"
-      ]
-    },
-    {
-      "kanji": "\u962a",
-      "meanings": [
-        "Heights",
-        "Slope"
-      ],
-      "readings": [
-        "\u306f\u3093",
-        "\u3055\u304b"
-      ]
-    }
-  ],
-  "18": [
+  ]},
+  {"18": [
     {
       "kanji": "\u8a13",
       "meanings": [
@@ -7557,8 +6829,8 @@
         "\u304b"
       ]
     }
-  ],
-  "19": [
+  ]},
+  {"19": [
     {
       "kanji": "\u52a0",
       "meanings": [
@@ -7902,8 +7174,8 @@
         "\u3057"
       ]
     }
-  ],
-  "20": [
+  ]},
+  {"20": [
     {
       "kanji": "\u56f0",
       "meanings": [
@@ -8250,8 +7522,8 @@
         "\u3078"
       ]
     }
-  ],
-  "21": [
+  ]},
+  {"21": [
     {
       "kanji": "\u6575",
       "meanings": [
@@ -8582,8 +7854,8 @@
         "\u3046\u3089\u3084"
       ]
     }
-  ],
-  "22": [
+  ]},
+  {"22": [
     {
       "kanji": "\u7f70",
       "meanings": [
@@ -8927,8 +8199,8 @@
         "\u305d\u3067"
       ]
     }
-  ],
-  "23": [
+  ]},
+  {"23": [
     {
       "kanji": "\u53ce",
       "meanings": [
@@ -9250,8 +8522,8 @@
         "\u3088\u3046"
       ]
     }
-  ],
-  "24": [
+  ]},
+  {"24": [
     {
       "kanji": "\u62c5",
       "meanings": [
@@ -9571,8 +8843,8 @@
         "\u304b\u3076"
       ]
     }
-  ],
-  "25": [
+  ]},
+  {"25": [
     {
       "kanji": "\u9650",
       "meanings": [
@@ -9927,8 +9199,8 @@
         "\u3070\u304f"
       ]
     }
-  ],
-  "26": [
+  ]},
+  {"26": [
     {
       "kanji": "\u9020",
       "meanings": [
@@ -10273,8 +9545,8 @@
         "\u3057"
       ]
     }
-  ],
-  "27": [
+  ]},
+  {"27": [
     {
       "kanji": "\u62db",
       "meanings": [
@@ -10607,8 +9879,8 @@
         "\u305f\u307e"
       ]
     }
-  ],
-  "28": [
+  ]},
+  {"28": [
     {
       "kanji": "\u9006",
       "meanings": [
@@ -10953,8 +10225,8 @@
         "\u304d"
       ]
     }
-  ],
-  "29": [
+  ]},
+  {"29": [
     {
       "kanji": "\u76e3",
       "meanings": [
@@ -11290,8 +10562,8 @@
         "\u3065"
       ]
     }
-  ],
-  "30": [
+  ]},
+  {"30": [
     {
       "kanji": "\u9b45",
       "meanings": [
@@ -11624,8 +10896,8 @@
         "\u3057\u304c\u3089\u307f"
       ]
     }
-  ],
-  "31": [
+  ]},
+  {"31": [
     {
       "kanji": "\u96e2",
       "meanings": [
@@ -11989,8 +11261,357 @@
         "\u3066\u3044"
       ]
     }
-  ],
-  "33": [
+  ]},
+  {"32": [
+    {
+      "kanji": "\u4e45",
+      "meanings": [
+        "Long Time"
+      ],
+      "readings": [
+        "\u304d\u3085\u3046",
+        "\u304f",
+        "\u3072\u3055"
+      ]
+    },
+    {
+      "kanji": "\u5e8f",
+      "meanings": [
+        "Preface"
+      ],
+      "readings": [
+        "\u3058\u3087",
+        "\u3064\u3044",
+        "\u3064\u3044\u3067"
+      ]
+    },
+    {
+      "kanji": "\u8fce",
+      "meanings": [
+        "Welcome"
+      ],
+      "readings": [
+        "\u3052\u3044",
+        "\u3080\u304b"
+      ]
+    },
+    {
+      "kanji": "\u5fd7",
+      "meanings": [
+        "Intention",
+        "Ambition"
+      ],
+      "readings": [
+        "\u3057",
+        "\u3053\u3053\u308d\u3056\u3057"
+      ]
+    },
+    {
+      "kanji": "\u6069",
+      "meanings": [
+        "Kindness"
+      ],
+      "readings": [
+        "\u304a\u3093"
+      ]
+    },
+    {
+      "kanji": "\u63a1",
+      "meanings": [
+        "Gather"
+      ],
+      "readings": [
+        "\u3055\u3044",
+        "\u3068"
+      ]
+    },
+    {
+      "kanji": "\u685c",
+      "meanings": [
+        "Sakura",
+        "Cherry Tree",
+        "Cherry Blossom"
+      ],
+      "readings": [
+        "\u304a\u3046",
+        "\u3088\u3046",
+        "\u3055\u304f\u3089"
+      ]
+    },
+    {
+      "kanji": "\u6c38",
+      "meanings": [
+        "Eternity"
+      ],
+      "readings": [
+        "\u3048\u3044"
+      ]
+    },
+    {
+      "kanji": "\u6db2",
+      "meanings": [
+        "Fluid",
+        "Liquid"
+      ],
+      "readings": [
+        "\u3048\u304d"
+      ]
+    },
+    {
+      "kanji": "\u773c",
+      "meanings": [
+        "Eyeball"
+      ],
+      "readings": [
+        "\u304c\u3093",
+        "\u3081"
+      ]
+    },
+    {
+      "kanji": "\u7956",
+      "meanings": [
+        "Ancestor"
+      ],
+      "readings": [
+        "\u305d"
+      ]
+    },
+    {
+      "kanji": "\u7e3e",
+      "meanings": [
+        "Exploits"
+      ],
+      "readings": [
+        "\u305b\u304d"
+      ]
+    },
+    {
+      "kanji": "\u8208",
+      "meanings": [
+        "Interest"
+      ],
+      "readings": [
+        "\u304d\u3087\u3046",
+        "\u3053\u3046"
+      ]
+    },
+    {
+      "kanji": "\u885b",
+      "meanings": [
+        "Defense"
+      ],
+      "readings": [
+        "\u3048\u3044"
+      ]
+    },
+    {
+      "kanji": "\u8907",
+      "meanings": [
+        "Duplicate"
+      ],
+      "readings": [
+        "\u3075\u304f"
+      ]
+    },
+    {
+      "kanji": "\u96d1",
+      "meanings": [
+        "Random",
+        "Miscellaneous"
+      ],
+      "readings": [
+        "\u3056\u3064",
+        "\u305e\u3046"
+      ]
+    },
+    {
+      "kanji": "\u8cdb",
+      "meanings": [
+        "Agree"
+      ],
+      "readings": [
+        "\u3055\u3093"
+      ]
+    },
+    {
+      "kanji": "\u9178",
+      "meanings": [
+        "Acid"
+      ],
+      "readings": [
+        "\u3055\u3093",
+        "\u3059"
+      ]
+    },
+    {
+      "kanji": "\u92ad",
+      "meanings": [
+        "Coin"
+      ],
+      "readings": [
+        "\u305b\u3093",
+        "\u305c\u306b"
+      ]
+    },
+    {
+      "kanji": "\u98fc",
+      "meanings": [
+        "Domesticate"
+      ],
+      "readings": [
+        "\u3057",
+        "\u304b"
+      ]
+    },
+    {
+      "kanji": "\u50b7",
+      "meanings": [
+        "Wound"
+      ],
+      "readings": [
+        "\u3057\u3087\u3046",
+        "\u304d\u305a",
+        "\u3044\u305f"
+      ]
+    },
+    {
+      "kanji": "\u515a",
+      "meanings": [
+        "Party",
+        "Group"
+      ],
+      "readings": [
+        "\u3068\u3046"
+      ]
+    },
+    {
+      "kanji": "\u5375",
+      "meanings": [
+        "Egg"
+      ],
+      "readings": [
+        "\u3089\u3093",
+        "\u305f\u307e\u3054"
+      ]
+    },
+    {
+      "kanji": "\u53b3",
+      "meanings": [
+        "Strict"
+      ],
+      "readings": [
+        "\u3052\u3093",
+        "\u3054\u3093",
+        "\u304d\u3073",
+        "\u304a\u3054\u305d"
+      ]
+    },
+    {
+      "kanji": "\u6368",
+      "meanings": [
+        "Throw Away"
+      ],
+      "readings": [
+        "\u3057\u3083",
+        "\u3059"
+      ]
+    },
+    {
+      "kanji": "\u8fbc",
+      "meanings": [
+        "Crowded"
+      ],
+      "readings": [
+        "\u3053"
+      ]
+    },
+    {
+      "kanji": "\u5bc6",
+      "meanings": [
+        "Secrecy"
+      ],
+      "readings": [
+        "\u307f\u3064",
+        "\u3072\u305d"
+      ]
+    },
+    {
+      "kanji": "\u6c5a",
+      "meanings": [
+        "Dirty"
+      ],
+      "readings": [
+        "\u304a",
+        "\u3088\u3054",
+        "\u304d\u305f\u306a",
+        "\u3051\u304c"
+      ]
+    },
+    {
+      "kanji": "\u6b32",
+      "meanings": [
+        "Want"
+      ],
+      "readings": [
+        "\u3088\u304f",
+        "\u307b"
+      ]
+    },
+    {
+      "kanji": "\u6696",
+      "meanings": [
+        "Warm"
+      ],
+      "readings": [
+        "\u3060\u3093",
+        "\u3042\u305f\u305f"
+      ]
+    },
+    {
+      "kanji": "\u673a",
+      "meanings": [
+        "Desk"
+      ],
+      "readings": [
+        "\u304d",
+        "\u3064\u304f\u3048"
+      ]
+    },
+    {
+      "kanji": "\u79d8",
+      "meanings": [
+        "Secret"
+      ],
+      "readings": [
+        "\u3072",
+        "\u3072"
+      ]
+    },
+    {
+      "kanji": "\u8a33",
+      "meanings": [
+        "Translation",
+        "Reason"
+      ],
+      "readings": [
+        "\u3084\u304f",
+        "\u308f\u3051"
+      ]
+    },
+    {
+      "kanji": "\u67d3",
+      "meanings": [
+        "Dye"
+      ],
+      "readings": [
+        "\u305b\u3093",
+        "\u3057\u307f",
+        "\u305d",
+        "\u3057"
+      ]
+    }
+  ]},
+  {"33": [
     {
       "kanji": "\u7c21",
       "meanings": [
@@ -12350,8 +11971,8 @@
         "\u3072"
       ]
     }
-  ],
-  "34": [
+  ]},
+  {"34": [
     {
       "kanji": "\u8aa4",
       "meanings": [
@@ -12706,8 +12327,8 @@
         "\u304c\u3044"
       ]
     }
-  ],
-  "35": [
+  ]},
+  {"35": [
     {
       "kanji": "\u9045",
       "meanings": [
@@ -13050,8 +12671,8 @@
         "\u305b\u304d"
       ]
     }
-  ],
-  "36": [
+  ]},
+  {"36": [
     {
       "kanji": "\u65e7",
       "meanings": [
@@ -13395,8 +13016,8 @@
         "\u3051\u3044"
       ]
     }
-  ],
-  "37": [
+  ]},
+  {"37": [
     {
       "kanji": "\u8df3",
       "meanings": [
@@ -13745,8 +13366,8 @@
         "\u3073"
       ]
     }
-  ],
-  "38": [
+  ]},
+  {"38": [
     {
       "kanji": "\u9700",
       "meanings": [
@@ -14103,8 +13724,8 @@
         "\u305f\u307e"
       ]
     }
-  ],
-  "39": [
+  ]},
+  {"39": [
     {
       "kanji": "\u90a6",
       "meanings": [
@@ -14471,8 +14092,8 @@
         "\u3048\u3093"
       ]
     }
-  ],
-  "40": [
+  ]},
+  {"40": [
     {
       "kanji": "\u9867",
       "meanings": [
@@ -14832,8 +14453,8 @@
         "\u3089"
       ]
     }
-  ],
-  "41": [
+  ]},
+  {"41": [
     {
       "kanji": "\u905c",
       "meanings": [
@@ -15178,8 +14799,8 @@
         "\u304b"
       ]
     }
-  ],
-  "42": [
+  ]},
+  {"42": [
     {
       "kanji": "\u514b",
       "meanings": [
@@ -15520,8 +15141,8 @@
         "\u3082\u3061"
       ]
     }
-  ],
-  "43": [
+  ]},
+  {"43": [
     {
       "kanji": "\u8ab0",
       "meanings": [
@@ -15867,8 +15488,351 @@
         "\u3053\u3068"
       ]
     }
-  ],
-  "45": [
+  ]},
+  {"44": [
+    {
+      "kanji": "\u5bf8",
+      "meanings": [
+        "Measurement"
+      ],
+      "readings": [
+        "\u3059\u3093"
+      ]
+    },
+    {
+      "kanji": "\u7adc",
+      "meanings": [
+        "Dragon"
+      ],
+      "readings": [
+        "\u308a\u3085\u3046",
+        "\u305f\u3064"
+      ]
+    },
+    {
+      "kanji": "\u7e01",
+      "meanings": [
+        "Edge"
+      ],
+      "readings": [
+        "\u3048\u3093",
+        "\u306d\u3093",
+        "\u3075\u3061"
+      ]
+    },
+    {
+      "kanji": "\u7ffc",
+      "meanings": [
+        "Wing"
+      ],
+      "readings": [
+        "\u3088\u304f",
+        "\u3064\u3070\u3055"
+      ]
+    },
+    {
+      "kanji": "\u5409",
+      "meanings": [
+        "Good Luck"
+      ],
+      "readings": [
+        "\u304d\u3064",
+        "\u304d\u3061",
+        "\u3088\u3057"
+      ]
+    },
+    {
+      "kanji": "\u5203",
+      "meanings": [
+        "Blade"
+      ],
+      "readings": [
+        "\u3058\u3093",
+        "\u306b\u3093",
+        "\u306f",
+        "\u3084\u3044\u3070"
+      ]
+    },
+    {
+      "kanji": "\u5fcd",
+      "meanings": [
+        "Endure"
+      ],
+      "readings": [
+        "\u306b\u3093",
+        "\u3057\u306e"
+      ]
+    },
+    {
+      "kanji": "\u6843",
+      "meanings": [
+        "Peach"
+      ],
+      "readings": [
+        "\u3068\u3046",
+        "\u3082\u3082"
+      ]
+    },
+    {
+      "kanji": "\u8f9b",
+      "meanings": [
+        "Spicy"
+      ],
+      "readings": [
+        "\u3057\u3093",
+        "\u304b\u3089",
+        "\u3064\u3089"
+      ]
+    },
+    {
+      "kanji": "\u8b0e",
+      "meanings": [
+        "Riddle"
+      ],
+      "readings": [
+        "\u306a\u305e",
+        "\u3081\u3044"
+      ]
+    },
+    {
+      "kanji": "\u4f8d",
+      "meanings": [
+        "Samurai"
+      ],
+      "readings": [
+        "\u3055\u3080\u3089\u3044",
+        "\u3058",
+        "\u3057"
+      ]
+    },
+    {
+      "kanji": "\u4ffa",
+      "meanings": [
+        "I",
+        "Me"
+      ],
+      "readings": [
+        "\u304a\u308c"
+      ]
+    },
+    {
+      "kanji": "\u53f1",
+      "meanings": [
+        "Scold"
+      ],
+      "readings": [
+        "\u3057\u304b",
+        "\u3057\u3064"
+      ]
+    },
+    {
+      "kanji": "\u5a2f",
+      "meanings": [
+        "Recreation"
+      ],
+      "readings": [
+        "\u3054"
+      ]
+    },
+    {
+      "kanji": "\u6597",
+      "meanings": [
+        "Ladle",
+        "Dipper",
+        "Volume"
+      ],
+      "readings": [
+        "\u3068"
+      ]
+    },
+    {
+      "kanji": "\u6731",
+      "meanings": [
+        "Vermilion"
+      ],
+      "readings": [
+        "\u3057\u3085",
+        "\u3042\u3051"
+      ]
+    },
+    {
+      "kanji": "\u4e18",
+      "meanings": [
+        "Hill"
+      ],
+      "readings": [
+        "\u304d\u3085\u3046",
+        "\u304a\u304b"
+      ]
+    },
+    {
+      "kanji": "\u68a8",
+      "meanings": [
+        "Pear"
+      ],
+      "readings": [
+        "\u306a\u3057",
+        "\u308a"
+      ]
+    },
+    {
+      "kanji": "\u53eb",
+      "meanings": [
+        "Shout"
+      ],
+      "readings": [
+        "\u304d\u3087\u3046",
+        "\u3055\u3051"
+      ]
+    },
+    {
+      "kanji": "\u91e3",
+      "meanings": [
+        "Fishing"
+      ],
+      "readings": [
+        "\u3061\u3087\u3046",
+        "\u3064"
+      ]
+    },
+    {
+      "kanji": "\u9aea",
+      "meanings": [
+        "Hair"
+      ],
+      "readings": [
+        "\u306f\u3064",
+        "\u304b\u307f"
+      ]
+    },
+    {
+      "kanji": "\u5d50",
+      "meanings": [
+        "Storm"
+      ],
+      "readings": [
+        "\u3042\u3089\u3057",
+        "\u3089\u3093"
+      ]
+    },
+    {
+      "kanji": "\u7b20",
+      "meanings": [
+        "Conical Hat"
+      ],
+      "readings": [
+        "\u304b\u3055",
+        "\u308a\u3085\u3046"
+      ]
+    },
+    {
+      "kanji": "\u6d99",
+      "meanings": [
+        "Teardrop"
+      ],
+      "readings": [
+        "\u308b\u3044",
+        "\u306a\u307f\u3060"
+      ]
+    },
+    {
+      "kanji": "\u7f36",
+      "meanings": [
+        "Can",
+        "Tin Can"
+      ],
+      "readings": [
+        "\u304b\u3093"
+      ]
+    },
+    {
+      "kanji": "\u59eb",
+      "meanings": [
+        "Princess"
+      ],
+      "readings": [
+        "\u3072\u3081"
+      ]
+    },
+    {
+      "kanji": "\u68da",
+      "meanings": [
+        "Shelf"
+      ],
+      "readings": [
+        "\u307b\u3046",
+        "\u305f\u306a"
+      ]
+    },
+    {
+      "kanji": "\u7c92",
+      "meanings": [
+        "Grains"
+      ],
+      "readings": [
+        "\u308a\u3085\u3046",
+        "\u3064\u3076"
+      ]
+    },
+    {
+      "kanji": "\u7832",
+      "meanings": [
+        "Cannon"
+      ],
+      "readings": [
+        "\u307b\u3046"
+      ]
+    },
+    {
+      "kanji": "\u96f7",
+      "meanings": [
+        "Thunder"
+      ],
+      "readings": [
+        "\u3089\u3044",
+        "\u304b\u307f\u306a\u308a"
+      ]
+    },
+    {
+      "kanji": "\u82bd",
+      "meanings": [
+        "Sprout"
+      ],
+      "readings": [
+        "\u304c",
+        "\u3081"
+      ]
+    },
+    {
+      "kanji": "\u5854",
+      "meanings": [
+        "Tower"
+      ],
+      "readings": [
+        "\u3068\u3046"
+      ]
+    },
+    {
+      "kanji": "\u6328",
+      "meanings": [
+        "Push Open"
+      ],
+      "readings": [
+        "\u3042\u3044"
+      ]
+    },
+    {
+      "kanji": "\u62f6",
+      "meanings": [
+        "Draw Close",
+        "Be Imminent"
+      ],
+      "readings": [
+        "\u3055\u3064"
+      ]
+    }
+  ]},
+  {"45": [
     {
       "kanji": "\u5cb3",
       "meanings": [
@@ -16232,351 +16196,8 @@
         "\u3068"
       ]
     }
-  ],
-  "44": [
-    {
-      "kanji": "\u5bf8",
-      "meanings": [
-        "Measurement"
-      ],
-      "readings": [
-        "\u3059\u3093"
-      ]
-    },
-    {
-      "kanji": "\u7adc",
-      "meanings": [
-        "Dragon"
-      ],
-      "readings": [
-        "\u308a\u3085\u3046",
-        "\u305f\u3064"
-      ]
-    },
-    {
-      "kanji": "\u7e01",
-      "meanings": [
-        "Edge"
-      ],
-      "readings": [
-        "\u3048\u3093",
-        "\u306d\u3093",
-        "\u3075\u3061"
-      ]
-    },
-    {
-      "kanji": "\u7ffc",
-      "meanings": [
-        "Wing"
-      ],
-      "readings": [
-        "\u3088\u304f",
-        "\u3064\u3070\u3055"
-      ]
-    },
-    {
-      "kanji": "\u5409",
-      "meanings": [
-        "Good Luck"
-      ],
-      "readings": [
-        "\u304d\u3064",
-        "\u304d\u3061",
-        "\u3088\u3057"
-      ]
-    },
-    {
-      "kanji": "\u5203",
-      "meanings": [
-        "Blade"
-      ],
-      "readings": [
-        "\u3058\u3093",
-        "\u306b\u3093",
-        "\u306f",
-        "\u3084\u3044\u3070"
-      ]
-    },
-    {
-      "kanji": "\u5fcd",
-      "meanings": [
-        "Endure"
-      ],
-      "readings": [
-        "\u306b\u3093",
-        "\u3057\u306e"
-      ]
-    },
-    {
-      "kanji": "\u6843",
-      "meanings": [
-        "Peach"
-      ],
-      "readings": [
-        "\u3068\u3046",
-        "\u3082\u3082"
-      ]
-    },
-    {
-      "kanji": "\u8f9b",
-      "meanings": [
-        "Spicy"
-      ],
-      "readings": [
-        "\u3057\u3093",
-        "\u304b\u3089",
-        "\u3064\u3089"
-      ]
-    },
-    {
-      "kanji": "\u8b0e",
-      "meanings": [
-        "Riddle"
-      ],
-      "readings": [
-        "\u306a\u305e",
-        "\u3081\u3044"
-      ]
-    },
-    {
-      "kanji": "\u4f8d",
-      "meanings": [
-        "Samurai"
-      ],
-      "readings": [
-        "\u3055\u3080\u3089\u3044",
-        "\u3058",
-        "\u3057"
-      ]
-    },
-    {
-      "kanji": "\u4ffa",
-      "meanings": [
-        "I",
-        "Me"
-      ],
-      "readings": [
-        "\u304a\u308c"
-      ]
-    },
-    {
-      "kanji": "\u53f1",
-      "meanings": [
-        "Scold"
-      ],
-      "readings": [
-        "\u3057\u304b",
-        "\u3057\u3064"
-      ]
-    },
-    {
-      "kanji": "\u5a2f",
-      "meanings": [
-        "Recreation"
-      ],
-      "readings": [
-        "\u3054"
-      ]
-    },
-    {
-      "kanji": "\u6597",
-      "meanings": [
-        "Ladle",
-        "Dipper",
-        "Volume"
-      ],
-      "readings": [
-        "\u3068"
-      ]
-    },
-    {
-      "kanji": "\u6731",
-      "meanings": [
-        "Vermilion"
-      ],
-      "readings": [
-        "\u3057\u3085",
-        "\u3042\u3051"
-      ]
-    },
-    {
-      "kanji": "\u4e18",
-      "meanings": [
-        "Hill"
-      ],
-      "readings": [
-        "\u304d\u3085\u3046",
-        "\u304a\u304b"
-      ]
-    },
-    {
-      "kanji": "\u68a8",
-      "meanings": [
-        "Pear"
-      ],
-      "readings": [
-        "\u306a\u3057",
-        "\u308a"
-      ]
-    },
-    {
-      "kanji": "\u53eb",
-      "meanings": [
-        "Shout"
-      ],
-      "readings": [
-        "\u304d\u3087\u3046",
-        "\u3055\u3051"
-      ]
-    },
-    {
-      "kanji": "\u91e3",
-      "meanings": [
-        "Fishing"
-      ],
-      "readings": [
-        "\u3061\u3087\u3046",
-        "\u3064"
-      ]
-    },
-    {
-      "kanji": "\u9aea",
-      "meanings": [
-        "Hair"
-      ],
-      "readings": [
-        "\u306f\u3064",
-        "\u304b\u307f"
-      ]
-    },
-    {
-      "kanji": "\u5d50",
-      "meanings": [
-        "Storm"
-      ],
-      "readings": [
-        "\u3042\u3089\u3057",
-        "\u3089\u3093"
-      ]
-    },
-    {
-      "kanji": "\u7b20",
-      "meanings": [
-        "Conical Hat"
-      ],
-      "readings": [
-        "\u304b\u3055",
-        "\u308a\u3085\u3046"
-      ]
-    },
-    {
-      "kanji": "\u6d99",
-      "meanings": [
-        "Teardrop"
-      ],
-      "readings": [
-        "\u308b\u3044",
-        "\u306a\u307f\u3060"
-      ]
-    },
-    {
-      "kanji": "\u7f36",
-      "meanings": [
-        "Can",
-        "Tin Can"
-      ],
-      "readings": [
-        "\u304b\u3093"
-      ]
-    },
-    {
-      "kanji": "\u59eb",
-      "meanings": [
-        "Princess"
-      ],
-      "readings": [
-        "\u3072\u3081"
-      ]
-    },
-    {
-      "kanji": "\u68da",
-      "meanings": [
-        "Shelf"
-      ],
-      "readings": [
-        "\u307b\u3046",
-        "\u305f\u306a"
-      ]
-    },
-    {
-      "kanji": "\u7c92",
-      "meanings": [
-        "Grains"
-      ],
-      "readings": [
-        "\u308a\u3085\u3046",
-        "\u3064\u3076"
-      ]
-    },
-    {
-      "kanji": "\u7832",
-      "meanings": [
-        "Cannon"
-      ],
-      "readings": [
-        "\u307b\u3046"
-      ]
-    },
-    {
-      "kanji": "\u96f7",
-      "meanings": [
-        "Thunder"
-      ],
-      "readings": [
-        "\u3089\u3044",
-        "\u304b\u307f\u306a\u308a"
-      ]
-    },
-    {
-      "kanji": "\u82bd",
-      "meanings": [
-        "Sprout"
-      ],
-      "readings": [
-        "\u304c",
-        "\u3081"
-      ]
-    },
-    {
-      "kanji": "\u5854",
-      "meanings": [
-        "Tower"
-      ],
-      "readings": [
-        "\u3068\u3046"
-      ]
-    },
-    {
-      "kanji": "\u6328",
-      "meanings": [
-        "Push Open"
-      ],
-      "readings": [
-        "\u3042\u3044"
-      ]
-    },
-    {
-      "kanji": "\u62f6",
-      "meanings": [
-        "Draw Close",
-        "Be Imminent"
-      ],
-      "readings": [
-        "\u3055\u3064"
-      ]
-    }
-  ],
-  "46": [
+  ]},
+  {"46": [
     {
       "kanji": "\u58a8",
       "meanings": [
@@ -16945,8 +16566,8 @@
         "\u3042\u306a"
       ]
     }
-  ],
-  "47": [
+  ]},
+  {"47": [
     {
       "kanji": "\u7815",
       "meanings": [
@@ -17309,8 +16930,8 @@
         "\u3044"
       ]
     }
-  ],
-  "48": [
+  ]},
+  {"48": [
     {
       "kanji": "\u5e33",
       "meanings": [
@@ -17681,8 +17302,8 @@
         "\u304b\u304f"
       ]
     }
-  ],
-  "49": [
+  ]},
+  {"49": [
     {
       "kanji": "\u99d2",
       "meanings": [
@@ -18028,8 +17649,8 @@
         "\u3051"
       ]
     }
-  ],
-  "50": [
+  ]},
+  {"50": [
     {
       "kanji": "\u5cf0",
       "meanings": [
@@ -18371,8 +17992,387 @@
         "\u3048\u304d"
       ]
     }
-  ],
-  "52": [
+  ]},
+  {"51": [
+    {
+      "kanji": "\u53c8",
+      "meanings": [
+        "Again"
+      ],
+      "readings": [
+        "\u307e\u305f"
+      ]
+    },
+    {
+      "kanji": "\u5049",
+      "meanings": [
+        "Greatness"
+      ],
+      "readings": [
+        "\u3044",
+        "\u3048\u3089"
+      ]
+    },
+    {
+      "kanji": "\u9802",
+      "meanings": [
+        "Summit",
+        "Humbly"
+      ],
+      "readings": [
+        "\u3061\u3087\u3046",
+        "\u3044\u305f\u3060\u304d",
+        "\u3044\u305f\u3060"
+      ]
+    },
+    {
+      "kanji": "\u53ec",
+      "meanings": [
+        "Call",
+        "Eat"
+      ],
+      "readings": [
+        "\u3057\u3087\u3046",
+        "\u3081"
+      ]
+    },
+    {
+      "kanji": "\u631f",
+      "meanings": [
+        "Between"
+      ],
+      "readings": [
+        "\u304d\u3087\u3046",
+        "\u3057\u3087\u3046",
+        "\u306f\u3055"
+      ]
+    },
+    {
+      "kanji": "\u67af",
+      "meanings": [
+        "Wither"
+      ],
+      "readings": [
+        "\u3053",
+        "\u304b"
+      ]
+    },
+    {
+      "kanji": "\u6cb8",
+      "meanings": [
+        "Boil"
+      ],
+      "readings": [
+        "\u3075\u3064",
+        "\u308f"
+      ]
+    },
+    {
+      "kanji": "\u6fef",
+      "meanings": [
+        "Wash"
+      ],
+      "readings": [
+        "\u305f\u304f",
+        "\u3059\u3059",
+        "\u3086\u3059",
+        "\u305d\u305d\u3050"
+      ]
+    },
+    {
+      "kanji": "\u71e5",
+      "meanings": [
+        "Dry Up"
+      ],
+      "readings": [
+        "\u305d\u3046",
+        "\u306f\u3057\u3083"
+      ]
+    },
+    {
+      "kanji": "\u74f6",
+      "meanings": [
+        "Bottle",
+        "Jar"
+      ],
+      "readings": [
+        "\u3073\u3093",
+        "\u304b\u3081"
+      ]
+    },
+    {
+      "kanji": "\u8015",
+      "meanings": [
+        "Plow"
+      ],
+      "readings": [
+        "\u3053\u3046",
+        "\u305f\u304c\u3084"
+      ]
+    },
+    {
+      "kanji": "\u80af",
+      "meanings": [
+        "Agreement",
+        "Consent"
+      ],
+      "readings": [
+        "\u3053\u3046",
+        "\u304c\u3048\u3093\u3058"
+      ]
+    },
+    {
+      "kanji": "\u8102",
+      "meanings": [
+        "Fat"
+      ],
+      "readings": [
+        "\u3057",
+        "\u3042\u3076\u3089"
+      ]
+    },
+    {
+      "kanji": "\u819a",
+      "meanings": [
+        "Skin"
+      ],
+      "readings": [
+        "\u3075",
+        "\u306f\u3060"
+      ]
+    },
+    {
+      "kanji": "\u8ed2",
+      "meanings": [
+        "House Counter",
+        "Eaves"
+      ],
+      "readings": [
+        "\u3051\u3093",
+        "\u306e\u304d"
+      ]
+    },
+    {
+      "kanji": "\u8edf",
+      "meanings": [
+        "Soft"
+      ],
+      "readings": [
+        "\u306a\u3093",
+        "\u3084\u308f"
+      ]
+    },
+    {
+      "kanji": "\u90ca",
+      "meanings": [
+        "Suburbs"
+      ],
+      "readings": [
+        "\u3053\u3046"
+      ]
+    },
+    {
+      "kanji": "\u9685",
+      "meanings": [
+        "Corner"
+      ],
+      "readings": [
+        "\u3050\u3046",
+        "\u3059\u307f"
+      ]
+    },
+    {
+      "kanji": "\u96bb",
+      "meanings": [
+        "Ship Counter"
+      ],
+      "readings": [
+        "\u305b\u304d"
+      ]
+    },
+    {
+      "kanji": "\u90b8",
+      "meanings": [
+        "Residence"
+      ],
+      "readings": [
+        "\u3066\u3044",
+        "\u3084\u3057\u304d"
+      ]
+    },
+    {
+      "kanji": "\u90e1",
+      "meanings": [
+        "County",
+        "District"
+      ],
+      "readings": [
+        "\u3050\u3093",
+        "\u3053\u304a\u308a"
+      ]
+    },
+    {
+      "kanji": "\u91c8",
+      "meanings": [
+        "Explanation"
+      ],
+      "readings": [
+        "\u3057\u3083\u304f",
+        "\u305b\u304d",
+        "\u3059",
+        "\u3068\u304f",
+        "\u3086\u308b"
+      ]
+    },
+    {
+      "kanji": "\u80aa",
+      "meanings": [
+        "Obese",
+        "Fat"
+      ],
+      "readings": [
+        "\u307c\u3046"
+      ]
+    },
+    {
+      "kanji": "\u559a",
+      "meanings": [
+        "Scream",
+        "Yell"
+      ],
+      "readings": [
+        "\u304b\u3093",
+        "\u308f\u3081"
+      ]
+    },
+    {
+      "kanji": "\u5a9b",
+      "meanings": [
+        "Princess",
+        "Beautiful Woman"
+      ],
+      "readings": [
+        "\u3048\u3093",
+        "\u3072\u3081"
+      ]
+    },
+    {
+      "kanji": "\u8c9e",
+      "meanings": [
+        "Chastity"
+      ],
+      "readings": [
+        "\u3066\u3044",
+        "\u3055\u3060"
+      ]
+    },
+    {
+      "kanji": "\u7384",
+      "meanings": [
+        "Mysterious"
+      ],
+      "readings": [
+        "\u3052\u3093",
+        "\u304f\u308d"
+      ]
+    },
+    {
+      "kanji": "\u82d7",
+      "meanings": [
+        "Seedling",
+        "Sapling"
+      ],
+      "readings": [
+        "\u307f\u3087\u3046",
+        "\u3073\u3087\u3046",
+        "\u306a\u3048",
+        "\u306a\u308f"
+      ]
+    },
+    {
+      "kanji": "\u6e26",
+      "meanings": [
+        "Whirlpool"
+      ],
+      "readings": [
+        "\u304b",
+        "\u3046\u305a"
+      ]
+    },
+    {
+      "kanji": "\u6148",
+      "meanings": [
+        "Mercy"
+      ],
+      "readings": [
+        "\u3058",
+        "\u3044\u3064\u304f"
+      ]
+    },
+    {
+      "kanji": "\u895f",
+      "meanings": [
+        "Collar"
+      ],
+      "readings": [
+        "\u304d\u3093",
+        "\u3048\u308a"
+      ]
+    },
+    {
+      "kanji": "\u84ee",
+      "meanings": [
+        "Lotus"
+      ],
+      "readings": [
+        "\u308c\u3093",
+        "\u306f\u3059",
+        "\u306f\u3061\u3059"
+      ]
+    },
+    {
+      "kanji": "\u4eae",
+      "meanings": [
+        "Clear"
+      ],
+      "readings": [
+        "\u308a\u3087\u3046",
+        "\u3042\u304d\u3089\u304b"
+      ]
+    },
+    {
+      "kanji": "\u8061",
+      "meanings": [
+        "Wise"
+      ],
+      "readings": [
+        "\u305d\u3046",
+        "\u3055\u3068",
+        "\u307f\u307f\u3056\u3068"
+      ]
+    },
+    {
+      "kanji": "\u6d66",
+      "meanings": [
+        "Bay"
+      ],
+      "readings": [
+        "\u307b",
+        "\u3046\u3089"
+      ]
+    },
+    {
+      "kanji": "\u585a",
+      "meanings": [
+        "Mound"
+      ],
+      "readings": [
+        "\u3061\u3087\u3046",
+        "\u3064\u304b"
+      ]
+    }
+  ]},
+  {"52": [
     {
       "kanji": "\u9665",
       "meanings": [
@@ -18758,8 +18758,8 @@
         "\u3059\u3051"
       ]
     }
-  ],
-  "53": [
+  ]},
+  {"53": [
     {
       "kanji": "\u5bdb",
       "meanings": [
@@ -19135,8 +19135,8 @@
         "\u3089\u3044"
       ]
     }
-  ],
-  "54": [
+  ]},
+  {"54": [
     {
       "kanji": "\u9be8",
       "meanings": [
@@ -19522,8 +19522,8 @@
         "\u3057\u304a\u308a"
       ]
     }
-  ],
-  "55": [
+  ]},
+  {"55": [
     {
       "kanji": "\u4f0f",
       "meanings": [
@@ -19919,8 +19919,8 @@
         "\u3082\u3061"
       ]
     }
-  ],
-  "56": [
+  ]},
+  {"56": [
     {
       "kanji": "\u62cd",
       "meanings": [
@@ -20287,8 +20287,8 @@
         "\u3057\u3070"
       ]
     }
-  ],
-  "57": [
+  ]},
+  {"57": [
     {
       "kanji": "\u8cca",
       "meanings": [
@@ -20645,372 +20645,8 @@
         "\u3082"
       ]
     }
-  ],
-  "60": [
-    {
-      "kanji": "\u6b3e",
-      "meanings": [
-        "Article",
-        "Sincerity"
-      ],
-      "readings": [
-        "\u304b\u3093"
-      ]
-    },
-    {
-      "kanji": "\u6f23",
-      "meanings": [
-        "Ripples"
-      ],
-      "readings": [
-        "\u308c\u3093",
-        "\u3089\u3093",
-        "\u3055\u3056\u306a\u307f"
-      ]
-    },
-    {
-      "kanji": "\u901d",
-      "meanings": [
-        "Die"
-      ],
-      "readings": [
-        "\u305b\u3044",
-        "\u3044",
-        "\u3086"
-      ]
-    },
-    {
-      "kanji": "\u533f",
-      "meanings": [
-        "Hide"
-      ],
-      "readings": [
-        "\u3068\u304f",
-        "\u304b\u304f\u307e"
-      ]
-    },
-    {
-      "kanji": "\u5be1",
-      "meanings": [
-        "Widow"
-      ],
-      "readings": [
-        "\u304b"
-      ]
-    },
-    {
-      "kanji": "\u75e2",
-      "meanings": [
-        "Diarrhea",
-        "Diarrhoea"
-      ],
-      "readings": [
-        "\u308a"
-      ]
-    },
-    {
-      "kanji": "\u5751",
-      "meanings": [
-        "Pit",
-        "Hole"
-      ],
-      "readings": [
-        "\u3053\u3046"
-      ]
-    },
-    {
-      "kanji": "\u85cd",
-      "meanings": [
-        "Indigo"
-      ],
-      "readings": [
-        "\u3089\u3093",
-        "\u3042\u3044"
-      ]
-    },
-    {
-      "kanji": "\u7554",
-      "meanings": [
-        "Shore"
-      ],
-      "readings": [
-        "\u306f\u3093",
-        "\u3042\u305c",
-        "\u304f\u308d",
-        "\u307b\u3068\u308a"
-      ]
-    },
-    {
-      "kanji": "\u5504",
-      "meanings": [
-        "Shamisen Song"
-      ],
-      "readings": [
-        "\u3070\u3044",
-        "\u3046\u305f"
-      ]
-    },
-    {
-      "kanji": "\u62f7",
-      "meanings": [
-        "Torture"
-      ],
-      "readings": [
-        "\u3054\u3046"
-      ]
-    },
-    {
-      "kanji": "\u6e13",
-      "meanings": [
-        "Valley"
-      ],
-      "readings": [
-        "\u3051\u3044",
-        "\u305f\u306b",
-        "\u305f\u306b\u304c\u308f"
-      ]
-    },
-    {
-      "kanji": "\u5ec9",
-      "meanings": [
-        "Bargain"
-      ],
-      "readings": [
-        "\u308c\u3093"
-      ]
-    },
-    {
-      "kanji": "\u8b39",
-      "meanings": [
-        "Humble",
-        "Discreet"
-      ],
-      "readings": [
-        "\u304d\u3093",
-        "\u3064\u3064\u3057"
-      ]
-    },
-    {
-      "kanji": "\u6e67",
-      "meanings": [
-        "Well",
-        "Boil"
-      ],
-      "readings": [
-        "\u3086\u3046",
-        "\u3086",
-        "\u3088\u3046",
-        "\u308f"
-      ]
-    },
-    {
-      "kanji": "\u919c",
-      "meanings": [
-        "Ugly"
-      ],
-      "readings": [
-        "\u3057\u3085\u3046",
-        "\u3057\u3053",
-        "\u307f\u306b\u304f"
-      ]
-    },
-    {
-      "kanji": "\u5347",
-      "meanings": [
-        "Grid",
-        "Measure"
-      ],
-      "readings": [
-        "\u3057\u3087\u3046",
-        "\u307e\u3059"
-      ]
-    },
-    {
-      "kanji": "\u6b89",
-      "meanings": [
-        "Martyr"
-      ],
-      "readings": [
-        "\u3058\u3085\u3093"
-      ]
-    },
-    {
-      "kanji": "\u7169",
-      "meanings": [
-        "Annoy",
-        "Annoying"
-      ],
-      "readings": [
-        "\u306f\u3093",
-        "\u307c\u3093",
-        "\u3046\u308b\u3055",
-        "\u308f\u305a\u3089"
-      ]
-    },
-    {
-      "kanji": "\u52be",
-      "meanings": [
-        "Censure"
-      ],
-      "readings": [
-        "\u304c\u3044"
-      ]
-    },
-    {
-      "kanji": "\u685f",
-      "meanings": [
-        "Jetty",
-        "Pier"
-      ],
-      "readings": [
-        "\u3055\u3093",
-        "\u305b\u3093",
-        "\u304b\u3051\u306f\u3057"
-      ]
-    },
-    {
-      "kanji": "\u5a7f",
-      "meanings": [
-        "Groom"
-      ],
-      "readings": [
-        "\u305b\u3044",
-        "\u3080\u3053"
-      ]
-    },
-    {
-      "kanji": "\u6155",
-      "meanings": [
-        "Yearn For",
-        "Adore"
-      ],
-      "readings": [
-        "\u307c",
-        "\u3057\u305f"
-      ]
-    },
-    {
-      "kanji": "\u7f77",
-      "meanings": [
-        "Quit",
-        "Leave"
-      ],
-      "readings": [
-        "\u3072",
-        "\u3084"
-      ]
-    },
-    {
-      "kanji": "\u77ef",
-      "meanings": [
-        "Correct",
-        "Straighten"
-      ],
-      "readings": [
-        "\u304d\u3087\u3046",
-        "\u305f"
-      ]
-    },
-    {
-      "kanji": "\u67d0",
-      "meanings": [
-        "Certain",
-        "One",
-        "That Person"
-      ],
-      "readings": [
-        "\u307c\u3046",
-        "\u305d\u308c\u304c\u3057",
-        "\u306a\u306b\u304c\u3057"
-      ]
-    },
-    {
-      "kanji": "\u6ccc",
-      "meanings": [
-        "Secrete"
-      ],
-      "readings": [
-        "\u3072",
-        "\u3072\u3064"
-      ]
-    },
-    {
-      "kanji": "\u6f38",
-      "meanings": [
-        "Gradually",
-        "Steadily"
-      ],
-      "readings": [
-        "\u305c\u3093",
-        "\u3088\u3046\u3084",
-        "\u3084\u3084"
-      ]
-    },
-    {
-      "kanji": "\u85fb",
-      "meanings": [
-        "Seaweed"
-      ],
-      "readings": [
-        "\u305d\u3046",
-        "\u3082"
-      ]
-    },
-    {
-      "kanji": "\u5984",
-      "meanings": [
-        "Reckless"
-      ],
-      "readings": [
-        "\u3082\u3046",
-        "\u307c\u3046",
-        "\u307f\u3060"
-      ]
-    },
-    {
-      "kanji": "\u86ee",
-      "meanings": [
-        "Barbarian"
-      ],
-      "readings": [
-        "\u3070\u3093",
-        "\u3048\u3073\u3059"
-      ]
-    },
-    {
-      "kanji": "\u5039",
-      "meanings": [
-        "Thrifty",
-        "Frugal"
-      ],
-      "readings": [
-        "\u3051\u3093",
-        "\u3064\u3065\u307e\u3084\u304b",
-        "\u3064\u307e"
-      ]
-    },
-    {
-      "kanji": "\u72d0",
-      "meanings": [
-        "Fox"
-      ],
-      "readings": [
-        "\u3053",
-        "\u304d\u3064\u306d"
-      ]
-    },
-    {
-      "kanji": "\u51a5",
-      "meanings": [
-        "Underworld"
-      ],
-      "readings": [
-        "\u3081\u3044",
-        "\u307f\u3087\u3046"
-      ]
-    }
-  ],
-  "58": [
+  ]},
+  {"58": [
     {
       "kanji": "\u786b",
       "meanings": [
@@ -21360,8 +20996,8 @@
         "\u308a"
       ]
     }
-  ],
-  "59": [
+  ]},
+  {"59": [
     {
       "kanji": "\u5fcc",
       "meanings": [
@@ -21747,5 +21383,369 @@
         "\u3088\u306a\u3052\u308b"
       ]
     }
-  ]
-}
+  ]},
+  {"60": [
+    {
+      "kanji": "\u6b3e",
+      "meanings": [
+        "Article",
+        "Sincerity"
+      ],
+      "readings": [
+        "\u304b\u3093"
+      ]
+    },
+    {
+      "kanji": "\u6f23",
+      "meanings": [
+        "Ripples"
+      ],
+      "readings": [
+        "\u308c\u3093",
+        "\u3089\u3093",
+        "\u3055\u3056\u306a\u307f"
+      ]
+    },
+    {
+      "kanji": "\u901d",
+      "meanings": [
+        "Die"
+      ],
+      "readings": [
+        "\u305b\u3044",
+        "\u3044",
+        "\u3086"
+      ]
+    },
+    {
+      "kanji": "\u533f",
+      "meanings": [
+        "Hide"
+      ],
+      "readings": [
+        "\u3068\u304f",
+        "\u304b\u304f\u307e"
+      ]
+    },
+    {
+      "kanji": "\u5be1",
+      "meanings": [
+        "Widow"
+      ],
+      "readings": [
+        "\u304b"
+      ]
+    },
+    {
+      "kanji": "\u75e2",
+      "meanings": [
+        "Diarrhea",
+        "Diarrhoea"
+      ],
+      "readings": [
+        "\u308a"
+      ]
+    },
+    {
+      "kanji": "\u5751",
+      "meanings": [
+        "Pit",
+        "Hole"
+      ],
+      "readings": [
+        "\u3053\u3046"
+      ]
+    },
+    {
+      "kanji": "\u85cd",
+      "meanings": [
+        "Indigo"
+      ],
+      "readings": [
+        "\u3089\u3093",
+        "\u3042\u3044"
+      ]
+    },
+    {
+      "kanji": "\u7554",
+      "meanings": [
+        "Shore"
+      ],
+      "readings": [
+        "\u306f\u3093",
+        "\u3042\u305c",
+        "\u304f\u308d",
+        "\u307b\u3068\u308a"
+      ]
+    },
+    {
+      "kanji": "\u5504",
+      "meanings": [
+        "Shamisen Song"
+      ],
+      "readings": [
+        "\u3070\u3044",
+        "\u3046\u305f"
+      ]
+    },
+    {
+      "kanji": "\u62f7",
+      "meanings": [
+        "Torture"
+      ],
+      "readings": [
+        "\u3054\u3046"
+      ]
+    },
+    {
+      "kanji": "\u6e13",
+      "meanings": [
+        "Valley"
+      ],
+      "readings": [
+        "\u3051\u3044",
+        "\u305f\u306b",
+        "\u305f\u306b\u304c\u308f"
+      ]
+    },
+    {
+      "kanji": "\u5ec9",
+      "meanings": [
+        "Bargain"
+      ],
+      "readings": [
+        "\u308c\u3093"
+      ]
+    },
+    {
+      "kanji": "\u8b39",
+      "meanings": [
+        "Humble",
+        "Discreet"
+      ],
+      "readings": [
+        "\u304d\u3093",
+        "\u3064\u3064\u3057"
+      ]
+    },
+    {
+      "kanji": "\u6e67",
+      "meanings": [
+        "Well",
+        "Boil"
+      ],
+      "readings": [
+        "\u3086\u3046",
+        "\u3086",
+        "\u3088\u3046",
+        "\u308f"
+      ]
+    },
+    {
+      "kanji": "\u919c",
+      "meanings": [
+        "Ugly"
+      ],
+      "readings": [
+        "\u3057\u3085\u3046",
+        "\u3057\u3053",
+        "\u307f\u306b\u304f"
+      ]
+    },
+    {
+      "kanji": "\u5347",
+      "meanings": [
+        "Grid",
+        "Measure"
+      ],
+      "readings": [
+        "\u3057\u3087\u3046",
+        "\u307e\u3059"
+      ]
+    },
+    {
+      "kanji": "\u6b89",
+      "meanings": [
+        "Martyr"
+      ],
+      "readings": [
+        "\u3058\u3085\u3093"
+      ]
+    },
+    {
+      "kanji": "\u7169",
+      "meanings": [
+        "Annoy",
+        "Annoying"
+      ],
+      "readings": [
+        "\u306f\u3093",
+        "\u307c\u3093",
+        "\u3046\u308b\u3055",
+        "\u308f\u305a\u3089"
+      ]
+    },
+    {
+      "kanji": "\u52be",
+      "meanings": [
+        "Censure"
+      ],
+      "readings": [
+        "\u304c\u3044"
+      ]
+    },
+    {
+      "kanji": "\u685f",
+      "meanings": [
+        "Jetty",
+        "Pier"
+      ],
+      "readings": [
+        "\u3055\u3093",
+        "\u305b\u3093",
+        "\u304b\u3051\u306f\u3057"
+      ]
+    },
+    {
+      "kanji": "\u5a7f",
+      "meanings": [
+        "Groom"
+      ],
+      "readings": [
+        "\u305b\u3044",
+        "\u3080\u3053"
+      ]
+    },
+    {
+      "kanji": "\u6155",
+      "meanings": [
+        "Yearn For",
+        "Adore"
+      ],
+      "readings": [
+        "\u307c",
+        "\u3057\u305f"
+      ]
+    },
+    {
+      "kanji": "\u7f77",
+      "meanings": [
+        "Quit",
+        "Leave"
+      ],
+      "readings": [
+        "\u3072",
+        "\u3084"
+      ]
+    },
+    {
+      "kanji": "\u77ef",
+      "meanings": [
+        "Correct",
+        "Straighten"
+      ],
+      "readings": [
+        "\u304d\u3087\u3046",
+        "\u305f"
+      ]
+    },
+    {
+      "kanji": "\u67d0",
+      "meanings": [
+        "Certain",
+        "One",
+        "That Person"
+      ],
+      "readings": [
+        "\u307c\u3046",
+        "\u305d\u308c\u304c\u3057",
+        "\u306a\u306b\u304c\u3057"
+      ]
+    },
+    {
+      "kanji": "\u6ccc",
+      "meanings": [
+        "Secrete"
+      ],
+      "readings": [
+        "\u3072",
+        "\u3072\u3064"
+      ]
+    },
+    {
+      "kanji": "\u6f38",
+      "meanings": [
+        "Gradually",
+        "Steadily"
+      ],
+      "readings": [
+        "\u305c\u3093",
+        "\u3088\u3046\u3084",
+        "\u3084\u3084"
+      ]
+    },
+    {
+      "kanji": "\u85fb",
+      "meanings": [
+        "Seaweed"
+      ],
+      "readings": [
+        "\u305d\u3046",
+        "\u3082"
+      ]
+    },
+    {
+      "kanji": "\u5984",
+      "meanings": [
+        "Reckless"
+      ],
+      "readings": [
+        "\u3082\u3046",
+        "\u307c\u3046",
+        "\u307f\u3060"
+      ]
+    },
+    {
+      "kanji": "\u86ee",
+      "meanings": [
+        "Barbarian"
+      ],
+      "readings": [
+        "\u3070\u3093",
+        "\u3048\u3073\u3059"
+      ]
+    },
+    {
+      "kanji": "\u5039",
+      "meanings": [
+        "Thrifty",
+        "Frugal"
+      ],
+      "readings": [
+        "\u3051\u3093",
+        "\u3064\u3065\u307e\u3084\u304b",
+        "\u3064\u307e"
+      ]
+    },
+    {
+      "kanji": "\u72d0",
+      "meanings": [
+        "Fox"
+      ],
+      "readings": [
+        "\u3053",
+        "\u304d\u3064\u306d"
+      ]
+    },
+    {
+      "kanji": "\u51a5",
+      "meanings": [
+        "Underworld"
+      ],
+      "readings": [
+        "\u3081\u3044",
+        "\u307f\u3087\u3046"
+      ]
+    }
+  ]}
+]
