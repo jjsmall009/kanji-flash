@@ -280,6 +280,9 @@ header {
     transform: rotateY(180deg);
 }
 
+#kanji_small {
+    font-size: 3em;
+}
 
 /* Study Page - Buttons */
 .btn-zone {

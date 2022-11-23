@@ -24,25 +24,16 @@ card.addEventListener( 'click', function() {
     card.classList.toggle('is-flipped');
 });
 
-
-/* 
-* RESPONSE BUTTONS - Event handling for clicking the answer response buttons
-*/
-let answer_btns = document.getElementsByClassName("answer-btn");
-for (var i = 0; i < answer_btns.length; i++) {
-    answer_btns[i].addEventListener("click", null)
-}
-
-
 /* 
 * Event handling for clicking a level button
 * Will grab that levels kanji and queue them up for flashcarding
 */
+
 function level_select() {
     const level = this.innerText
     const kanji_list = data[level - 1][`${level}`]
     update_label(level, 0, kanji_list.length);
-    create_flashcard_queue(level, kanji_list);
+    create_flashcard_queue(kanji_list);
 }
 
 function update_label(level, correct, num_kanji) {
@@ -50,13 +41,28 @@ function update_label(level, correct, num_kanji) {
     scoreline.innerText = `Level ${level} - ${correct}/${num_kanji}`;
 }
 
-function create_flashcard_queue(level, list) {
-    let kanji_queue = shuffle(list);
-    let remaining = list.length;
-
-    
+let kanji_queue = [];
+let remaining = -1;
+function create_flashcard_queue(list) {
+    kanji_queue = shuffle(list);
+    remaining = list.length;
+    update_kanji_card(list[0]);
 }
 
+function update_kanji_card(kanji_data) {
+    let k_b = document.getElementById("kanji_big");
+    let k_s = document.getElementById("kanji_small");
+    let r = document.getElementById("readings");
+    let m = document.getElementById("meanings");
+
+    k_b.innerText = kanji_data.kanji;
+    k_s.innerText = kanji_data.kanji;
+
+    r.innerText = kanji_data.readings;
+    m.innerText = kanji_data.meanings;
+}
+
+/* Helper function to randomize the kanji set */
 function shuffle (arr) {
     var j, x, index;
     for (index = arr.length - 1; index > 0; index--) {
@@ -66,4 +72,30 @@ function shuffle (arr) {
         arr[j] = x;
     }
     return arr;
+}
+
+/* 
+* RESPONSE BUTTONS - Event handling for clicking the answer response buttons
+*/
+let good_btn = document.getElementById("good-btn");
+let bad_btn = document.getElementById("bad-btn");
+good_btn.addEventListener("click", update_good);
+bad_btn.addEventListener("click", update_bad);
+
+function update_good() {
+    kanji_queue.shift();
+    card.classList.toggle('is-flipped');
+    remaining -= 1;
+
+    if(remaining < 1) {
+        return;
+    }
+    update_kanji_card(kanji_queue[0]);
+}
+
+function update_bad() {
+    wrong = kanji_queue.shift();
+    kanji_queue.push(wrong);
+    card.classList.toggle('is-flipped');
+    update_kanji_card(kanji_queue[0]);
 }

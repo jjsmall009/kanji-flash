@@ -5,7 +5,9 @@ A simple and clean kanji flashcard web app
 - [x] Make a proper readme
 - [x] Do some layout sketches on Figma
 - [x] Brainstorm feature set and website structure
-- [ ] Get kanji data from WaniKani (JSON most likely)
+- [x] Get kanji data from WaniKani (JSON most likely)
 - [x] Build the level picker section and add functionality 
+- [x] Create flashcard queue and answer button functionality 
+- [ ] Clean up code and CSS...
 
 Happy coding!
