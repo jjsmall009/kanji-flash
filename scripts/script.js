@@ -22,17 +22,23 @@ makeRows(15, 4);
 let card = document.querySelector('.card-content');
 card.addEventListener( 'click', function() {
     card.classList.toggle('is-flipped');
+    good_btn.disabled = false;
+    bad_btn.disabled = false;
 });
 
 /* 
 * Event handling for clicking a level button
 * Will grab that levels kanji and queue them up for flashcarding
 */
-
+let size = 0;
+let level = -1;
+let correct = 0;
 function level_select() {
-    const level = this.innerText
+    correct = 0;
+    level = this.innerText
     const kanji_list = data[level - 1][`${level}`]
-    update_label(level, 0, kanji_list.length);
+    size = kanji_list.length;
+    update_label(level, 0, size);
     create_flashcard_queue(kanji_list);
 }
 
@@ -42,14 +48,14 @@ function update_label(level, correct, num_kanji) {
 }
 
 let kanji_queue = [];
-let remaining = -1;
 function create_flashcard_queue(list) {
     kanji_queue = shuffle(list);
-    remaining = list.length;
     update_kanji_card(list[0]);
 }
 
 function update_kanji_card(kanji_data) {
+    good_btn.disabled = true;
+    bad_btn.disabled = true;
     let k_b = document.getElementById("kanji_big");
     let k_s = document.getElementById("kanji_small");
     let r = document.getElementById("readings");
@@ -82,15 +88,18 @@ let bad_btn = document.getElementById("bad-btn");
 good_btn.addEventListener("click", update_good);
 bad_btn.addEventListener("click", update_bad);
 
+
 function update_good() {
     kanji_queue.shift();
     card.classList.toggle('is-flipped');
-    remaining -= 1;
+    correct += 1;
+    update_label(level, correct, size);
 
-    if(remaining < 1) {
-        return;
+    if(kanji_queue.length == 0) {
+        reset();
+    } else {
+        update_kanji_card(kanji_queue[0]);
     }
-    update_kanji_card(kanji_queue[0]);
 }
 
 function update_bad() {
@@ -98,4 +107,9 @@ function update_bad() {
     kanji_queue.push(wrong);
     card.classList.toggle('is-flipped');
     update_kanji_card(kanji_queue[0]);
+}
+
+function reset() {
+    alert("You've completed the level!");
+    correct = 0;
 }
