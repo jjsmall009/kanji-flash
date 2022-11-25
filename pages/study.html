@@ -1,61 +1,69 @@
 <!-- Kanji Flash - 2022 JJ Small -->
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="keywords" content="Kanji, kanji flashcards, study kanji" />
+    <meta
+      name="description"
+      content="Looking to brush up on your kanji recognition? You've came to the right place. 
+            Kanji Flash gives you the tools to quickly run through sets of kanji characters and test your knowledge."
+    />
+    <meta name="author" content="JJ Small" />
 
-    <link rel="stylesheet" href="../styling/style.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet"> 
+    <link rel="stylesheet" href="../styling/style.css" />
 
     <script src="../resources/data.js" defer></script>
     <script src="../scripts/script.js" defer></script>
+
     <title>Study - Flashcard It Up!</title>
-</head>
-<body>
-    <nav class="nav subpage-nav">
-        <p class="logo"><a href="../index.html">Kanji<span class="logo-special">Flash</span></a></p>
-        <div class="left-nav">
-            <ul>
-                <li><a href="about.html">About</a></li>
-                <li class="btn-no-style"><a href="study.html">Study</a></li>
-            </ul>
+  </head>
+  <body>
+    <header>
+      <nav class="nav subpage-nav">
+        <p class="logo">
+          <a href="../index.html">Kanji<span class="logo-special">Flash</span></a>
+        </p>
+        <div class="menu">
+          <ul class="menu-list-items">
+            <li><a href="about.html">About</a></li>
+            <li class="btn-no-style"><a href="study.html">Study</a></li>
+          </ul>
         </div>
-    </nav>
+      </nav>
+    </header>
 
     <section class="levels-cont">
-        <h1>Kanji Levels</h1>
-        <div class="level-picker" id="level-picker">
-        </div>
+      <h1>Kanji Levels</h1>
+      <div class="level-picker" id="level-picker"></div>
     </section>
 
-    <h2 class="level-score" id="level-score">Level - (/)</h2>
+    <h2 class="level-scoreline" id="level-scoreline">Level - (/)</h2>
 
     <section class="kanji-container">
-        <div class="kanji-card">
-            <div class="card-content">
-                <div class="card__face card__face--front" id="front">
-                    <p id="kanji_big">力</p>
-                </div>
-                <div class="card__face card__face--back" id="back">
-                    <p id="kanji_small">力</p>
-                    <p id="readings">Reading 1 - Reading 2</p>
-                    <p id="meanings"><em>(Meaning 1 - Meaning 2)</em></p>
-                </div>
-                </div>
+      <div class="kanji-card">
+        <div class="card-content">
+          <div class="card__face card__face--front" id="front">
+            <p id="kanji_big"></p>
           </div>
+          <div class="card__face card__face--back" id="back">
+            <p id="kanji_small"></p>
+            <p id="readings"></p>
+            <p id="meanings"><em></em></p>
+          </div>
+        </div>
+      </div>
     </section>
 
     <section class="btn-zone">
-        <button class="answer-btn good-btn" id="good-btn">Knew</button>
-        <button class="answer-btn bad-btn" id="bad-btn">Forgot</button>
+      <button class="answer-btn good-btn" id="good-btn">Knew</button>
+      <button class="answer-btn bad-btn" id="bad-btn">Forgot</button>
     </section>
 
     <footer>
-        <p>JJ Small © 2022 - An awesome studying web app</p>
+      <p>JJ Small © 2022 - An awesome studying web app</p>
     </footer>
-</body>
+  </body>
 </html>

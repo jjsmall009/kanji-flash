@@ -43,7 +43,7 @@ function level_select() {
 }
 
 function update_label(level, correct, num_kanji) {
-    const scoreline = document.getElementById("level-score");
+    const scoreline = document.getElementById("level-scoreline");
     scoreline.innerText = `Level ${level} - ${correct}/${num_kanji}`;
 }
 
