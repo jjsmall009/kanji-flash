@@ -64,8 +64,8 @@ function update_kanji_card(kanji_data) {
     k_b.innerText = kanji_data.kanji;
     k_s.innerText = kanji_data.kanji;
 
-    r.innerText = kanji_data.readings;
-    m.innerText = kanji_data.meanings;
+    r.innerText = kanji_data.readings.join(", ");
+    m.innerText = kanji_data.meanings.join(", ");
 }
 
 /* Helper function to randomize the kanji set */

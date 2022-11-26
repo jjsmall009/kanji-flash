@@ -1,6 +1,13 @@
 /* Kanji Flash - 2022 JJ Small */
 @import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
 
+:root {
+  --primary-clr: #ffd706;
+  --secondary-clr: #ff2626;
+  --accent-light: #ebf2f2;
+  --accent-dark: #6c6c6c;
+}
+
 /* ===========
    CSS Reset
    ===========
@@ -69,7 +76,7 @@ body {
 
 .logo-special {
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: #ffd706;
+  -webkit-text-stroke-color: var(--primary-clr);
   -webkit-text-fill-color: transparent;
   -webkit-text-fill-color: cle;
 }
@@ -90,7 +97,7 @@ body {
 }
 
 .menu-study-btn {
-  border: 2px solid #ffd706;
+  border: 2px solid var(--primary-clr);
   border-radius: 30px;
   padding: 0 25px;
 }
@@ -117,7 +124,7 @@ body {
 
 .btn-no-style {
   text-decoration: underline;
-  text-decoration-color: #ffd706;
+  text-decoration-color: var(--primary-clr);
   text-decoration-thickness: 2px;
   text-underline-offset: 5px;
 }
@@ -128,38 +135,35 @@ body {
 */
 .cont {
   width: 60%;
-  margin: 2rem auto;
-  text-align: center;
+  margin: 0 auto;
 }
 
 .hero-blurb {
-  width: 60%;
   margin: 150px auto;
   text-align: center;
 }
 
 .hero-blurb p {
-  font-size: 1.2em;
+  font-size: 1.3rem;
   font-weight: 200;
+  line-height: 2;
 }
 
 /* Homepage - Info Section */
-
 .info {
-  background-color: #ebf2f2;
+  background-color: var(--accent-light);
 }
 
 .info-cont {
-  margin: 0 auto;
-  padding: 60px 0;
   width: 70%;
+  padding: 40px 0;
   display: flex;
   justify-content: center;
   gap: 90px;
 }
 
 .info-header {
-  color: #ff2626;
+  color: var(--secondary-clr);
   font-size: 1.3em;
   font-weight: 600;
   padding: 15px 0;
@@ -173,9 +177,7 @@ body {
 
 /* Homepage - Call to Action Sections */
 .action-zone {
-  width: 60%;
-  margin: 0 auto;
-  padding: 100px 50px;
+  padding: 100px 0px;
   display: flex;
   justify-content: center;
   gap: 130px;
@@ -199,7 +201,6 @@ body {
   color: #2e2e2e;
   background: linear-gradient(90deg, #fff740 0%, #ffd706 100%);
   border: none;
-  box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
   border-radius: 25px;
   margin-top: 40px;
   margin-left: 70px;
@@ -236,7 +237,7 @@ body {
 .level-picker {
   margin: 40px auto;
   padding: 10px;
-  border: 2px solid #d1e1e1;
+  border: 2px solid var(--accent-light);
   border-radius: 10px;
 
   display: grid;
@@ -248,8 +249,8 @@ body {
 .level-btn {
   font-size: 1em;
   font-weight: 600;
-  color: #6c6c6c;
-  background-color: #ebf2f2;
+  color: var(--accent-dark);
+  background-color: var(--accent-light);
   padding: 3px;
   text-align: center;
   border-radius: 5px;
@@ -257,7 +258,7 @@ body {
 
 .level-btn:hover {
   color: black;
-  outline: 1px solid #6c6c6c;
+  outline: 1px solid var(--accent-dark);
   cursor: pointer;
 }
 
@@ -269,7 +270,7 @@ body {
 
 /* Kanji Card flipping and styling */
 .kanji-container {
-  background-color: #ebf2f2;
+  background-color: var(--accent-light);
   margin: 10px 0;
   padding: 30px 0;
 }
@@ -283,7 +284,6 @@ body {
 }
 
 .kanji-card:hover {
-  cursor: pointer;
   box-shadow: 0 5px 15px rgba(102, 102, 102, 0.4);
 }
 
@@ -308,6 +308,8 @@ body {
   width: 100%;
   height: 100%;
   display: flex;
+  justify-content: center;
+
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
 }
@@ -315,15 +317,14 @@ body {
 .card__face--front {
   font-size: 12em;
   align-items: center;
-  justify-content: center;
 }
 
 .card__face--back {
   font-size: 1.4em;
   flex-direction: column;
-  justify-content: center;
   text-align: center;
   transform: rotateY(180deg);
+  gap: 1rem;
 }
 
 #kanji_small {
@@ -345,7 +346,6 @@ body {
   font-weight: bold;
   color: #2e2e2e;
   border: none;
-  box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
   border-radius: 25px;
   padding: 10px 40px;
 }
