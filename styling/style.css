@@ -1,19 +1,48 @@
 /* Kanji Flash - 2022 JJ Small */
-
 @import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
 
+/* ===========
+   CSS Reset
+   ===========
+*/
 * {
   margin: 0;
 }
 
-body {
-  font-family: "Poppins", sans-serif;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+html, body {
+  height: 100%;
 }
 
-/* Header Styling */
+body {
+  line-height: 1.5;
+}
+
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+
+input, button, textarea, select {
+  font: inherit;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
+}
+
+/* ======================
+   Broad Stroke Styling
+   ======================
+*/
+body {
+  font-family: "Poppins", sans-serif;
+  display: grid;
+}
+
+/* ================
+   Header Styling 
+   ================
+*/
 .homepage-header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.5)),
     url("../images/header_image1.jpg");
@@ -21,23 +50,21 @@ body {
   color: white;
   height: 500px;
   text-align: center;
-  display: flex;
-  flex-direction: column;
 }
 
 .nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-size: 1.4em;
-  height: 100px;
-  padding: 0 70px;
+  font-size: 1.4rem;
+  height: 64px;
+  padding: 1rem 2rem;
 }
 
 .logo,
 .logo-special {
   font-weight: 800;
-  font-size: 1.3em;
+  font-size: 2.125rem;
 }
 
 .logo-special {
@@ -52,13 +79,13 @@ body {
   text-decoration: none;
 }
 
-.nav ul {
+.menu-list-items {
   list-style: none;
   display: flex;
   gap: 20px;
 }
 
-.nav li:hover {
+.menu-list-items li:hover {
   text-decoration: underline;
 }
 
@@ -77,7 +104,10 @@ body {
   margin-bottom: 10px;
 }
 
-/* Subpage nav styling */
+/* ====================== 
+   Sub-page nav styling 
+   ======================
+*/
 .subpage-nav {
   background-image: linear-gradient(rgba(0, 0, 0, 0.55), rgba(0, 0, 0, 0.5)),
     url("../images/header_image1.jpg");
@@ -92,8 +122,10 @@ body {
   text-underline-offset: 5px;
 }
 
-/* Homepage Styling */
-
+/* ==================
+   Homepage Styling 
+   ==================   
+*/
 .cont {
   width: 60%;
   margin: 2rem auto;
@@ -186,7 +218,10 @@ body {
   transform: scaleX(1.7);
 }
 
-/* Study Page Styling */
+/* ====================
+   Study Page Styling 
+   ====================
+*/
 .levels-cont {
   width: 50%;
   margin: 50px auto;
@@ -328,7 +363,10 @@ body {
   background: linear-gradient(90deg, #ff4040 0%, #ff7676 100%);
 }
 
-/* Footer Styling */
+/* ================
+   Footer Styling 
+   ================
+*/
 footer {
   height: 100px;
   background-color: #e2e2e2;
