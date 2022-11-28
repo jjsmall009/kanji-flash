@@ -176,6 +176,12 @@ body {
   gap: 90px;
 }
 
+.info-cont img {
+  width: auto;
+  max-width: 500px;
+  height: auto;
+}
+
 .info-header {
   color: var(--secondary-clr);
   font-size: 1.3em;
@@ -312,6 +318,7 @@ body {
 
 .card-content.is-flipped {
   transform: rotateY(180deg);
+  pointer-events: none;
 }
 
 .card__face {
