@@ -15,6 +15,8 @@ goodBtn.addEventListener("click", updateGood);
 badBtn.addEventListener("click", updateBad);
 card.addEventListener("click", function () {
   card.classList.toggle("is-flipped");
+  goodBtn.disabled = false;
+  badBtn.disabled = false;
 });
 
 // Constructor to represent the current level
@@ -89,6 +91,8 @@ function updateGood() {
   currentLevel.kanjiList.shift();
   card.classList.toggle("is-flipped");
   currentLevel.correct += 1;
+  goodBtn.disabled = true;
+  badBtn.disabled = true;
   updateScoreline();
 
   if (currentLevel.kanjiList.length == 0) {

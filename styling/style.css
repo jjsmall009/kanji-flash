@@ -369,6 +369,12 @@ body {
   box-shadow: 0 5px 15px rgba(102, 102, 102, 0.4);
 }
 
+.good-btn:disabled, .bad-btn:disabled {
+  cursor: default;
+  box-shadow: none;
+  opacity: 0.5;
+}
+
 .good-btn {
   background: linear-gradient(90deg, #66ff40 0%, #81f886 100%);
 }
