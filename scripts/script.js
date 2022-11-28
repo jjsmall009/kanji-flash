@@ -3,14 +3,14 @@
 /* 
 * LEVELS ZONE - Populates the levels zone with div buttons using CSS Grid
 */
-const container = document.getElementById("level-picker");
+const levelZone = document.getElementById("level-picker");
 
 function makeRows(rows, cols) {
-    for (i = 0; i < (rows * cols); i++) {
+    for (let i = 0; i < (rows * cols); i++) {
         let cell = document.createElement("div");
         cell.innerText = (i + 1);   
         cell.addEventListener("click", level_select);
-        container.appendChild(cell).className = "level-btn";
+        levelZone.appendChild(cell).className = "level-btn";
     }
 }
 makeRows(15, 4);
@@ -22,8 +22,8 @@ makeRows(15, 4);
 let card = document.querySelector('.card-content');
 card.addEventListener( 'click', function() {
     card.classList.toggle('is-flipped');
-    good_btn.disabled = false;
-    bad_btn.disabled = false;
+    goodBtn.disabled = false;
+    badBtn.disabled = false;
 });
 
 /* 
@@ -36,10 +36,10 @@ let correct = 0;
 function level_select() {
     correct = 0;
     level = this.innerText
-    const kanji_list = data[level - 1][`${level}`]
-    size = kanji_list.length;
+    const kanjiList = data[level - 1][`${level}`]
+    size = kanjiList.length;
     update_label(level, 0, size);
-    create_flashcard_queue(kanji_list);
+    create_flashcard_queue(kanjiList);
 }
 
 function update_label(level, correct, num_kanji) {
@@ -47,25 +47,25 @@ function update_label(level, correct, num_kanji) {
     scoreline.innerText = `Level ${level} - ${correct}/${num_kanji}`;
 }
 
-let kanji_queue = [];
+let kanjiQueue = [];
 function create_flashcard_queue(list) {
-    kanji_queue = shuffle(list);
+    kanjiQueue = shuffle(list);
     update_kanji_card(list[0]);
 }
 
-function update_kanji_card(kanji_data) {
-    good_btn.disabled = true;
-    bad_btn.disabled = true;
-    let k_b = document.getElementById("kanji_big");
-    let k_s = document.getElementById("kanji_small");
-    let r = document.getElementById("readings");
-    let m = document.getElementById("meanings");
+function update_kanji_card(kanjiData) {
+    goodBtn.disabled = true;
+    badBtn.disabled = true;
+    let kanjiBig = document.getElementById("kanji_big");
+    let kanjiSmall = document.getElementById("kanji_small");
+    let readings = document.getElementById("readings");
+    let meanings = document.getElementById("meanings");
 
-    k_b.innerText = kanji_data.kanji;
-    k_s.innerText = kanji_data.kanji;
+    kanjiBig.innerText = kanjiData  .kanji;
+    kanjiSmall.innerText = kanjiData.kanji;
 
-    r.innerText = kanji_data.readings.join(", ");
-    m.innerText = kanji_data.meanings.join(", ");
+    readings.innerText = kanjiData.readings.join(", ");
+    meanings.innerText = kanjiData.meanings.join(", ");
 }
 
 /* Helper function to randomize the kanji set */
@@ -83,30 +83,30 @@ function shuffle (arr) {
 /* 
 * RESPONSE BUTTONS - Event handling for clicking the answer response buttons
 */
-let good_btn = document.getElementById("good-btn");
-let bad_btn = document.getElementById("bad-btn");
-good_btn.addEventListener("click", update_good);
-bad_btn.addEventListener("click", update_bad);
+let goodBtn = document.getElementById("good-btn");
+let badBtn = document.getElementById("bad-btn");
+goodBtn.addEventListener("click", update_good);
+badBtn.addEventListener("click", update_bad);
 
 
 function update_good() {
-    kanji_queue.shift();
+    kanjiQueue.shift();
     card.classList.toggle('is-flipped');
     correct += 1;
     update_label(level, correct, size);
 
-    if(kanji_queue.length == 0) {
+    if(kanjiQueue.length == 0) {
         reset();
     } else {
-        update_kanji_card(kanji_queue[0]);
+        update_kanji_card(kanjiQueue[0]);
     }
 }
 
 function update_bad() {
-    wrong = kanji_queue.shift();
-    kanji_queue.push(wrong);
+    wrong = kanjiQueue.shift();
+    kanjiQueue.push(wrong);
     card.classList.toggle('is-flipped');
-    update_kanji_card(kanji_queue[0]);
+    update_kanji_card(kanjiQueue[0]);
 }
 
 function reset() {
