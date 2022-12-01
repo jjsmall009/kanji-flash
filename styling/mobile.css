@@ -1,0 +1,133 @@
+/* Kanji Flash - 2022 JJ Small */
+/* Mobile CSS for mobile devices of course */
+
+/* ======================
+   Broad Stroke Styling
+   ======================
+*/
+body {
+    display: block;
+}
+
+/* ================
+     Header Styling 
+     ================
+  */
+.homepage-header {
+    height: 300px;
+}
+
+.nav {
+    font-size: 1.2rem;
+    height: 64px;
+    padding: 0rem 1rem;
+}
+
+.logo,
+.logo-special {
+    font-size: 1.5rem;
+}
+
+.menu-list-items li:active {
+    text-decoration: underline;
+}
+
+.menu-study-btn {
+    border: none;
+    border-radius: 0;
+    padding: 0;
+}
+
+.header-text {
+    margin-top: 30px;
+    font-size: 1em;
+}
+
+.header-text h1 {
+    margin-bottom: 10px;
+}
+
+/* ==================
+   Homepage Styling 
+   ==================   
+*/
+.cont {
+    width: auto;
+    padding: 0 20px;
+}
+
+.hero-blurb {
+    margin: 100px auto;
+    text-align: center;
+}
+
+.hero-blurb p {
+    font-size: 1.1rem;
+    font-weight: 200;
+    line-height: 1.5;
+}
+
+/* Homepage - Info Section */
+.info-cont {
+    width: auto;
+    display: block;
+    padding: 3rem 1rem;
+}
+
+.info-cont img {
+    width: 100%;
+    max-width: 400px;
+}
+
+.info-header {
+    font-size: 1.2em;
+    font-weight: 600;
+}
+
+.info-list-items {
+    line-height: 200%;
+}
+
+/* Homepage - Call to Action Sections */
+.action-zone {
+    display: block;
+}
+
+.action-zone-text {
+    margin-top: 30px;
+    width: auto;
+    line-height: 200%;
+}
+
+.action-button-zone {
+    display: grid;
+    justify-items: center;
+    gap: 1rem;
+    margin: 2rem auto;
+}
+
+.action-btn {
+    margin: 0;
+    padding: 0;
+    padding: 15px 60px;
+}
+
+.action-btn:active {
+    background: linear-gradient(90deg, #f3e936 0%, #ebc406 100%);
+    text-decoration: underline;
+    color: #2d2e37;
+}
+
+.arrow-image {
+    padding: 0px;
+    transform: none;
+}
+
+/* ================
+   Footer Styling 
+   ================
+*/
+footer {
+    height: 75px;
+  }
+  
