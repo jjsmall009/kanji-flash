@@ -18,6 +18,4 @@ There's no built-in way to do this on WaniKani so thus Kanji Flash was born.
 - [x] Build the level picker section and add functionality 
 - [x] Create flashcard queue and answer button functionality 
 - [x] Clean up code and CSS
-- [ ] Mobile css
-
-Happy coding!
+- [x] Mobile css
