@@ -1,6 +1,8 @@
 # Kanji Flash
 A simple and clean kanji flashcard web app
 
+[Visit the site](https://jjsmall009.github.io/kanji-flash/).
+
 ## Overview
 The goal of this web app is to provide a straightforward platform for rapidly studying all 60 levels of kanji from WaniKani.
 
