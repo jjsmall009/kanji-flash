@@ -143,8 +143,14 @@ h3 {
 }
 
 .level-picker {
-  margin: 0;
-  grid-template-columns: repeat(8, 1fr);
+  margin: 0 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.level-btn {
+  width: 25px;
 }
 
 /* ================
